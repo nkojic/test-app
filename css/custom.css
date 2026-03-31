@@ -1118,6 +1118,14 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 	width:100%;
 }
 
+/* Fix: ESG grid sekcija - stacking order i razmak */
+.esg-section-row {
+    position: relative;
+    z-index: 2;
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+}
+
 /* Fix: 3 tamne kartice - bypass isotope, direktni flexbox layout */
 #sc_blogger_933 .isotope_wrap {
     display: flex !important;
