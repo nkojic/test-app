@@ -1117,3 +1117,9 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 .shortcodespg .sc_slider_swiper {
 	width:100%;
 }
+
+/* Fix: 3 tamne kartice vidljive bez JS inicijalizacije */
+#sc_blogger_933 .isotope_wrap .isotope_item {
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+}
