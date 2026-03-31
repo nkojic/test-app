@@ -1,0 +1,5 @@
+# Slike - dodaj lokalno, ne commituj
+images/
+
+# Originalni zip
+*.zip
