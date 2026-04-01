@@ -1,5 +1,6 @@
-# Slike - dodaj lokalno, ne commituj
-images/
+# Slike - dodaj lokalno, ne commituj (osim SVG resursa u flags/)
+images/*
+!images/flags/
 
 # Originalni zip
 *.zip
