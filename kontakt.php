@@ -463,7 +463,7 @@ $extra_head_html = '<style>
 
 include 'includes/header.php';
 ?>
-        <section class="top_panel_image">
+        <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
             <div class="top_panel_image_hover"></div>
             <div class="top_panel_image_header">
                 <div class="top_panel_image_icon <?php echo $page_hero_icon; ?>"></div>

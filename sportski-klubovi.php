@@ -6,9 +6,12 @@ $page_hero_icon   = 'icon-star';
 $page_hero_title  = 'Sportski klubovi';
 $featured_image     = '';
 $featured_image_alt = '';
+$page_hero_bg       = 'images/1170x700.jpg';
+$header_scheme   = 'scheme_original';
+$header_position = 'top_panel_position_above';
 include 'includes/header.php';
 ?>
-        <section class="top_panel_image">
+        <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
             <div class="top_panel_image_hover"></div>
             <div class="top_panel_image_header">
                 <div class="top_panel_image_icon <?php echo $page_hero_icon; ?>"></div>

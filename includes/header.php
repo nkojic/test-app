@@ -139,8 +139,8 @@ $_inner_pages        = array_merge($_coaching_pages, $_wing_wave_pages, $_poy_pa
             </div>
             <div class="mask"></div>
         </div>
-        <header class="top_panel_wrap top_panel_style_6 scheme_dark">
-            <div class="top_panel_wrap_inner top_panel_inner_style_6 top_panel_position_over">
+        <header class="top_panel_wrap top_panel_style_6 <?php echo isset($header_scheme) ? $header_scheme : 'scheme_dark'; ?>">
+            <div class="top_panel_wrap_inner top_panel_inner_style_6 <?php echo isset($header_position) ? $header_position : 'top_panel_position_over'; ?>">
                 <div class="top_panel_middle">
                     <div class="content_wrap">
                         <div class="contact_logo">
