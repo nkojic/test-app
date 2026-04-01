@@ -1,22 +1,11 @@
         <div class="copyright_wrap copyright_style_socials scheme_original">
             <div class="copyright_wrap_inner">
-                <div class="content_wrap">
-                    <div class="sc_socials sc_socials_type_text sc_socials_shape_square sc_socials_size_tiny">
-                        <div class="sc_socials_item">
-                            <a href="#" target="_blank" class="social_icons social_twitter">twitter</a>
-                        </div>
-                        <div class="sc_socials_item">
-                            <a href="#" target="_blank" class="social_icons social_facebook">facebook</a>
-                        </div>
-                        <div class="sc_socials_item">
-                            <a href="#" target="_blank" class="social_icons social_instagramm">instagramm</a>
-                        </div>
-                    </div>
-                    <span class="beforeSocials">Connect With Us:</span>
+                <div class="content_wrap" style="text-align:center;">
                     <div class="copyright_text">
-                        <p>Themerex © 2019 All Rights Reserved
-                            <a href="#" target="_blank">Terms of Use</a> and
-                            <a href="#" target="_blank">Privacy Policy</a>
+                        <p>
+                            <a href="index.php">Inner Dynamic Method</a> &copy; <?php echo date('Y'); ?> Sva prava zadržana!
+                            <a href="uslovi-koriscenja.php">Uslovi korišćenja</a> i
+                            <a href="politika-privatnosti.php">Politika privatnosti</a>
                         </p>
                     </div>
                 </div>
