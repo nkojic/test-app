@@ -36,6 +36,7 @@ $_inner_pages        = array_merge($_coaching_pages, $_wing_wave_pages, $_poy_pa
     <link rel='stylesheet' href='js/vendor/essgrid/lightbox.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/plugins.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/custom.css' type='text/css' media='all' />
+    <?php if (!empty($extra_head_html)) echo $extra_head_html; ?>
 </head>
 
 <body class="<?php echo $body_class; ?>">
