@@ -58,24 +58,6 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                         <img src="images/logo_dark-1.png" class="logo_main" alt="" width="238" height="56">
                     </a>
                 </div>
-                <div class="menu_main_cart top_panel_icon">
-                    <a href="#" class="top_panel_cart_button" data-items="0" data-summa="&pound;0.00">
-                        <span class="contact_icon icon-icon_bag_alt"></span>
-                    </a>
-                    <ul class="widget_area sidebar_cart sidebar">
-                        <li>
-                            <div class="widget woocommerce widget_shopping_cart">
-                                <div class="hide_cart_widget_if_empty">
-                                    <div class="widget_shopping_cart_content">
-                                        <ul class="cart_list product_list_widget ">
-                                            <li class="empty">No products in the cart.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
             </div>
             <div class="side_wrap">
                 <div class="close">Close</div>
@@ -239,24 +221,6 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                                     <li class="menu-item<?php echo ($current_page == 'kontakt') ? ' current-menu-item' : ''; ?>"><a href="kontakt.php">Kontakt</a></li>
                                 </ul>
                             </nav>
-                            <div class="menu_main_cart top_panel_icon">
-                                <a href="#" class="top_panel_cart_button" data-items="0" data-summa="&pound;0.00">
-                                    <span class="contact_icon icon-icon_bag_alt"></span>
-                                </a>
-                                <ul class="widget_area sidebar_cart sidebar">
-                                    <li>
-                                        <div class="widget woocommerce widget_shopping_cart">
-                                            <div class="hide_cart_widget_if_empty">
-                                                <div class="widget_shopping_cart_content">
-                                                    <ul class="cart_list product_list_widget ">
-                                                        <li class="empty">No products in the cart.</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                     </div>
                 </div>

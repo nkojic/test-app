@@ -13,30 +13,30 @@ include 'includes/header.php';
                             <div class="tp-caption tp-resizeme" id="slide-7-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-77','-77','-193','-127']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
                                 <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','180px','169px']" data-hh="20px" data-no-retina>
                             </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-27','-27','-144','-84']" data-fontsize="['48','48','55','55']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Massage therapy and spa </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['35','35','-65','14']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Welcome to our Salon </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-3" data-x="['center','center','center','center']" data-hoffset="['2','2','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['112','112','12','129']" data-fontsize="['17','17','20','20']" data-lineheight="['30','30','30','25']" data-width="['none','none','none','500']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">You owe yourself this moment. Make an appointment in just a click! </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['192','192','102','223']" data-fontsize="['11','11','18','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.html","delay":""}]' data-responsive_offset="on">make an appointment </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-27','-27','-144','-84']" data-fontsize="['48','48','55','55']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">COACHING</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['35','35','-65','14']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">JASNOĆA. BALANS. PROMENA.</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-3" data-x="['center','center','center','center']" data-hoffset="['2','2','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['112','112','12','129']" data-fontsize="['17','17','20','20']" data-lineheight="['30','30','30','25']" data-width="['none','none','none','500']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Ne radimo samo na ciljevima, radimo i na osobi koja ga ostvaruje</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-7-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['192','192','102','223']" data-fontsize="['11','11','18','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"kontakt.php","delay":""}]' data-responsive_offset="on">Zakažite svoju sesiju</div>
                         </li>
                         <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/2-1-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <img src="images/1170x700.jpg" alt="" title="2" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-6-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-120','-120','-220','-155']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
                                 <img src="images/Vector-Smart-Object.png" alt="" width="129" height="128" data-ww="['105px','105px','105px','105px']" data-hh="['105px','105px','105px','105px']" data-no-retina>
                             </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-15','-15','-115','-68']" data-fontsize="['68','68','68','55']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Visit one of our multiple </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['55','55','-45','16']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">sessions of relaxation </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['125','125','25','133']" data-fontsize="['17','17','17','20']" data-width="['none','none','none','500']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">You owe yourself this moment. Make an appointment in just a click! </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['205','205','105','238']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.html","delay":""}]' data-responsive_offset="on">make an appointment </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-15','-15','-115','-68']" data-fontsize="['68','68','68','55']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">WING WAVE COACHING</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['55','55','-45','16']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">OSLOBODI ONO ŠTO TE, NESVESNO, KOČI</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['125','125','25','133']" data-fontsize="['17','17','17','20']" data-width="['none','none','none','500']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Iskusi promenu, već, nakon prve seanse</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-6-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['205','205','105','238']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"kontakt.php","delay":""}]' data-responsive_offset="on">Zakažite svoju sesiju</div>
                         </li>
                         <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/3-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <img src="images/1170x700.jpg" alt="" title="3" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-5-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-117','-117','-217','-176']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
                                 <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','169px','169px']" data-hh="['20px','20px','20px','20px']" data-no-retina>
                             </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-75','-75','-175','-137']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Welcome to our </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-5','-5','-105','-39']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">massage theraphy center </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-3" data-x="['center','center','center','center']" data-hoffset="['1','1','1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['75','75','-25','83']" data-fontsize="['17','17','17','20']" data-width="['none','none','none','500']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">You owe yourself this moment. Make an appointment in just a click! </div>
-                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['155','155','55','187']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"booking.html","delay":""}]' data-responsive_offset="on">make an appointment </div>
+                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-75','-75','-175','-137']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">POINTS OF YOU COACHING</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-5','-5','-105','-39']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">SVI ODGOVORI SU U TEBI</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-3" data-x="['center','center','center','center']" data-hoffset="['1','1','1','0']" data-y="['middle','middle','middle','middle']" data-voffset="['75','75','-25','83']" data-fontsize="['17','17','17','20']" data-width="['none','none','none','500']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">Videti drugačije znači živeti drugačije</div>
+                            <div class="tp-caption black tp-resizeme" id="slide-5-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['155','155','55','187']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(249, 163, 146, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"kontakt.php","delay":""}]' data-responsive_offset="on">Zakažite svoju sesiju</div>
                         </li>
                     </ul>
                     <div class="tp-bannertimer tp-bottom"></div>
@@ -61,21 +61,19 @@ include 'includes/header.php';
                                                 </div>
                                                 <div class="column-1_3 sc_column_item">
                                                     <div class="sc_column_item_inner cu_block_5">
-                                                        <h2 class="sc_title sc_title_regular sc_align_center">Book Massage</h2>
+                                                        <h2 class="sc_title sc_title_regular sc_align_center">ODNOSI I IZAZOVI U NJIMA</h2>
                                                         <div class="sc_line sc_line_position_center_center sc_line_style_solid"></div>
                                                         <div class="text_column content_element ">
                                                             <div class="wrapper">
                                                                 <p class="cu_text_c">
-                                                                    Book your massage online and view
-                                                                    <br /> orthopedic massage therapy pricing at
-                                                                    <br /> our booking page or at our price lists.
+                                                                    Odnos koji se ponavlja
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="booking.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="kontakt.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Book Now</span>
-                                                                <span class="second">Book Now</span>
+                                                                <span class="first">Zakažite svoju sesiju</span>
+                                                                <span class="second">Zakažite svoju sesiju</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -85,21 +83,20 @@ include 'includes/header.php';
                                                 </div>
                                                 <div class="column-1_3 sc_column_item">
                                                     <div class="sc_column_item_inner cu_block_5">
-                                                        <h2 class="sc_title sc_title_regular sc_align_center">Contact Us</h2>
+                                                        <h2 class="sc_title sc_title_regular sc_align_center">TRAUMA</h2>
                                                         <div class="sc_line sc_line_position_center_center sc_line_style_solid"></div>
+                                                        <h4 class="sc_title sc_title_regular sc_align_center" style="margin-top:0;">TRAUMATIČNO ISKUSTVO</h4>
                                                         <div class="text_column content_element ">
                                                             <div class="wrapper">
                                                                 <p class="cu_text_c">
-                                                                    You are welcome to call but you can also
-                                                                    <br /> book a massage online! Please feel free to
-                                                                    <br /> reach out with any questions.
+                                                                    Kada prošlost i dalje živi u nama
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="booking.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="kontakt.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Book Now</span>
-                                                                <span class="second">Book Now</span>
+                                                                <span class="first">Zakažite svoju sesiju</span>
+                                                                <span class="second">Zakažite svoju sesiju</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -109,21 +106,20 @@ include 'includes/header.php';
                                                 </div>
                                                 <div class="column-1_3 sc_column_item">
                                                     <div class="sc_column_item_inner cu_block_5">
-                                                        <h2 class="sc_title sc_title_regular sc_align_center">our Specialists</h2>
+                                                        <h2 class="sc_title sc_title_regular sc_align_center">FREEZ MODE</h2>
                                                         <div class="sc_line sc_line_position_center_center sc_line_style_solid"></div>
+                                                        <h4 class="sc_title sc_title_regular sc_align_center" style="margin-top:0;">ZALEĐENOST</h4>
                                                         <div class="text_column content_element ">
                                                             <div class="wrapper">
                                                                 <p class="cu_text_c">
-                                                                    Each one of our staff members are
-                                                                    <br /> licensed massage therapists who have
-                                                                    <br /> gone above and beyond in training.
+                                                                    Između želje za promenom i nemogućnosti da se pomerimo
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="booking.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="kontakt.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Book Now</span>
-                                                                <span class="second">Book Now</span>
+                                                                <span class="first">Zakažite svoju sesiju</span>
+                                                                <span class="second">Zakažite svoju sesiju</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -146,28 +142,26 @@ include 'includes/header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="single-post.html">
+                                                                    <a href="coaching.php">
                                                                         <img alt="" src="images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="single-post.html" rel="tag">Massage for rest &amp; relaxation</a>
+                                                                            <a href="coaching.php" rel="tag">JASNOĆA I USMERENJE</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="single-post.html">Physiotherapy</a>
+                                                                            <a href="coaching.php">COACHING</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="single-post.html">
-                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                                    elit, sed do eiusmod tempor incididunt
-                                                                                    ut labore et dolore magna aliqua.
+                                                                                <a href="coaching.php">
+                                                                                    Kroz pitanja i refleksiju dolazimo do uvida koji pomažu da donesete odluke koje su u skladu sa vašim vrednostima i željama.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="single-post.html" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="coaching.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -179,28 +173,26 @@ include 'includes/header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="single-post.html">
+                                                                    <a href="wing-wave.php">
                                                                         <img alt="" src="images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="single-post.html" rel="tag">Manual &amp; excercise therapy</a>
+                                                                            <a href="wing-wave.php" rel="tag">EMOCIJE TRAUMA STRES</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="single-post.html">Massage Therapy</a>
+                                                                            <a href="wing-wave.php">WING WAVE</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="single-post.html">
-                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                                    elit, sed do eiusmod tempor incididunt
-                                                                                    ut labore et dolore magna aliqua.
+                                                                                <a href="wing-wave.php">
+                                                                                    Kada se potisnute emocije osveste i isprocesuiraju, često se pojavi prostor za jasnije razmišljanje i nove mogućnosti.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="single-post.html" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="wing-wave.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -212,28 +204,26 @@ include 'includes/header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="single-post.html">
+                                                                    <a href="points-of-you.php">
                                                                         <img alt="" src="images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="single-post.html" rel="tag">Physical therapy</a>
+                                                                            <a href="points-of-you.php" rel="tag">NOVA PERSPEKTIVA</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="single-post.html">Chiropractic</a>
+                                                                            <a href="points-of-you.php">POINTS OF YOU</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="single-post.html">
-                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                                    elit, sed do eiusmod tempor incididunt
-                                                                                    ut labore et dolore magna aliqua.
+                                                                                <a href="points-of-you.php">
+                                                                                    Kada promenimo perspektivu iz koje gledamo na situaciju, često se pojave rešenja koja ranije nismo videli.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="single-post.html" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="points-of-you.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>

@@ -346,22 +346,25 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 	margin-bottom:2.75em;
 }
 .cu_block_4 {
-	background-image:url(../images/1170x700.jpg);
+	background-image:url(../images/trauma-pocetna.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
+	background-position:center center;
 }
 .cu_block_5 {
 	background-color:#f8f8f8;
 }
 .cu_block_6 {
-	background-image:url(../images/1170x700.jpg);
+	background-image:url(../images/odnosi-pocetna.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
+	background-position:center center;
 }
 .cu_block_7 {
-	background-image:url(../images/1920x1100.jpg);
+	background-image:url(../images/freez-mode-pocetna.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
+	background-position:center center;
 }
 .cu_block_8 {
 	margin-bottom:1.8em;
