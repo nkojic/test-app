@@ -70,6 +70,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
         ]
     }
     </script>
+<?php if (!empty($page_schema)) echo $page_schema; ?>
 
     <!-- Google Fonts (preconnect + display=swap) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

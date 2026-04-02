@@ -12,6 +12,7 @@ $page_hero_bg       = 'images/1170x700.jpg';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url      = '/en/wing-wave.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Wingwave Coaching Emocija","description":"Wingwave coaching je savremena metoda oslobadjanja emocionalnih blokada koja kombinuje EMDR, NLP i miostatski test.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Emotional Coaching","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/wing-wave.php"}</script>';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

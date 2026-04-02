@@ -12,6 +12,7 @@ $page_hero_bg       = 'images/1170x700.jpg';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url      = '/en/my-approach.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AboutPage","name":"Moj pristup radu","description":"Inner Dynamic Method pristup koji spaja rad sa telom, emocijama i unutrasnjim procesima promene.","url":"https://innerdynamicmethod.rs/moj-pristup-radu.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

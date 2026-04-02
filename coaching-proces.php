@@ -12,6 +12,7 @@ $page_hero_bg       = 'images/1170x700.jpg';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url      = '/en/coaching-process.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Coaching Proces","description":"Kako izgleda coaching proces od prvog razgovora do uvida i novih koraka.","url":"https://innerdynamicmethod.rs/coaching-proces.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

@@ -10,6 +10,7 @@ $page_hero_bg     = '../images/1170x700.jpg';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/primena-points-of-you.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Applying Points of You","description":"The Points of You methodology applied in individual coaching, group workshops, companies and sport.","url":"https://innerdynamicmethod.rs/en/points-of-you-application.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

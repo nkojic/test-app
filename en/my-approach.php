@@ -10,6 +10,7 @@ $page_hero_bg     = '../images/1170x700.jpg';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/moj-pristup-radu.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AboutPage","name":"My Approach","description":"Inner Dynamic Method integrates Bowen therapy, coaching, Wingwave and Points of You for a holistic approach to change.","url":"https://innerdynamicmethod.rs/en/my-approach.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
