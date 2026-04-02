@@ -4,6 +4,8 @@ header('Content-Type: text/html; charset=utf-8');
 
 // Flash poruke + PRG
 if (session_status() === PHP_SESSION_NONE) {
+    $sp = ini_get('session.save_path');
+    if ($sp && !is_dir($sp)) { session_save_path(sys_get_temp_dir()); }
     session_start();
 
 // -----------------------------
@@ -61,7 +63,7 @@ function antibot_fail($msg_target, $message) {
 // -----------------------------
 // DB config — prilagoditi putanju za novi hosting
 // -----------------------------
-define('DB_CONFIG_PATH', dirname($_SERVER['DOCUMENT_ROOT']) . '/secure/db_config.php');
+define('DB_CONFIG_PATH', __DIR__ . '/../secure/db_config.php');
 
 function get_db_config() {
     if (!file_exists(DB_CONFIG_PATH)) {
@@ -449,11 +451,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 // -----------------------------
 // Prikaz stranice
 // -----------------------------
-$page_title      = 'Kontakt | Inner Dynamic Method';
-$body_class      = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
-$current_page    = 'kontakt';
-$page_hero_icon  = 'icon-icon_mail';
-$page_hero_title = 'Kontakt';
+$meta_description = '';  // TODO: SEO opis stranice
+$page_title       = 'Kontakt | Inner Dynamic Method';
+$body_class       = 'contactus page body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
+$current_page     = 'kontakt';
+$page_hero_icon   = 'icon-icon_mail';
+$page_hero_title  = 'Kontakt';
+$page_hero_bg     = 'images/1170x700.jpg';
+$header_scheme    = 'scheme_original';
+$header_position  = 'top_panel_position_above';
 $extra_head_html = '<style>
 .newsletter-block { padding:28px 22px; margin:28px auto; border:1px solid rgba(0,0,0,0.08); border-radius:8px; }
 .newsletter-block--alt { background:rgba(0,0,0,0.02); }
@@ -467,7 +473,7 @@ include 'includes/header.php';
             <div class="top_panel_image_hover"></div>
             <div class="top_panel_image_header">
                 <div class="top_panel_image_icon <?php echo $page_hero_icon; ?>"></div>
-                <h1 class="top_panel_image_title entry-title"><?php echo htmlspecialchars($page_hero_title); ?></h1>
+                <p class="top_panel_image_title entry-title"><?php echo htmlspecialchars($page_hero_title); ?></p>
             </div>
         </section>
         <div class="page_content_wrap page_paddings_yes">
@@ -483,14 +489,15 @@ include 'includes/header.php';
                                                 <div class="sc_section_inner">
                                                     <h6 class="sc_section_subtitle sc_item_subtitle">Kontaktirajte nas</h6>
                                                     <h2 class="sc_section_title sc_item_title line_hide">Kako do nas</h2>
-                                                    <h5 class="sc_title sc_title_regular sc_align_center">TODO: adresa i opis lokacije</h5>
+                                                    <h5 class="sc_title sc_title_regular sc_align_center">Inner Dynamic Method se nalazi u Beogradu, u blizini Autokomande.</h5>
+                                                    <h5 class="sc_title sc_title_regular sc_align_center">Veoma pristupačna lokacija iz svih delova grada, bilo da dolazite gradskim prevozom ili kolima.</h5>
                                                     <div class="sc_section_content_wrap">
                                                         <div class="columns_wrap sc_columns columns_nofluid">
                                                             <div class="column-1_3 sc_column_item">
                                                                 <h5 class="sc_title sc_title_regular sc_align_center">O Inner Dynamic Method</h5>
                                                                 <div class="text_column content_element ">
                                                                     <div class="wrapper">
-                                                                        <p>TODO: kratak opis</p>
+                                                                        <p>Promenite obrazac koji vas koči. Zakažite sesiju i napravite prvi korak ka unutrašnjoj promeni već danas!</p>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_empty_space em_height_3"><span class="sc_empty_space_inner"></span></div>
@@ -499,7 +506,10 @@ include 'includes/header.php';
                                                                 <h5 class="sc_title sc_title_regular sc_align_center">Radno vreme</h5>
                                                                 <div class="text_column content_element ">
                                                                     <div class="wrapper">
-                                                                        <p>TODO: radno vreme</p>
+                                                                        <p>Ponedeljak&#8211;Petak: 9h &#8211; 20h
+                                                                            <br/> Subota: 9h &#8211; 14h
+                                                                            <br/> Nedelja: Ne radimo
+                                                                        </p>
                                                                     </div>
                                                                 </div>
                                                                 <div class="sc_empty_space em_height_3"><span class="sc_empty_space_inner"></span></div>
@@ -508,9 +518,9 @@ include 'includes/header.php';
                                                                 <h5 class="sc_title sc_title_regular sc_align_center">Kontakt</h5>
                                                                 <div class="text_column content_element ">
                                                                     <div class="wrapper">
-                                                                        <p>TODO: adresa<br/>
-                                                                           Email: <a href="mailto:todo@example.com">todo@example.com</a><br/>
-                                                                           Telefon: <a href="tel:+381000000000">+381 00 000 0000</a>
+                                                                        <p>Dobropoljska 35, Beograd
+                                                                            <br/> Email: <a href="mailto:office@bowencentar.rs">office@bowencentar.rs</a>
+                                                                            <br/> Telefon: <a href="tel:0641112202">064 111 22 02</a>
                                                                         </p>
                                                                     </div>
                                                                 </div>
@@ -522,8 +532,8 @@ include 'includes/header.php';
                                             </div>
                                             <div class="sc_empty_space em_height_1"><span class="sc_empty_space_inner"></span></div>
                                             <iframe class="sc_googlemap"
-                                                src="TODO_GOOGLE_MAPS_EMBED_URL"
-                                                aria-label="TODO: adresa"></iframe>
+                                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5441.67495838286!2d20.45742885563288!3d44.79220807107094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a7012ffe9ee83%3A0x887cb8ed5df92f80!2sDobropoljska%2035%2C%20Beograd!5e1!3m2!1sen!2srs!4v1766699249508!5m2!1sen!2srs"
+                                                aria-label="Dobropoljska 35, Beograd"></iframe>
                                             <div class="sc_empty_space em_height_3-7"><span class="sc_empty_space_inner"></span></div>
                                         </div>
                                     </div>

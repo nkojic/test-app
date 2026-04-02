@@ -15,6 +15,19 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <?php if (!empty($meta_description)): ?>
+    <meta name="description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php endif; ?>
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Inner Dynamic Method">
+    <meta property="og:title" content="<?php echo htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php if (!empty($meta_description)): ?>
+    <meta property="og:description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php endif; ?>
+    <?php if (!empty($og_image)): ?>
+    <meta property="og:image" content="<?php echo htmlspecialchars($og_image, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php endif; ?>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i|Montserrat:400,700|Mr+De+Haviland|Open+Sans:300,400,600,700,800|Raleway:100,200,300,300i,400,400i,500,600,700,700i,800,900&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese' type='text/css' media='all' />
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/tooltipster/tooltipster.css' type='text/css' media='all' />
@@ -26,7 +39,7 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
     <link rel='stylesheet' href='css/core.animation.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/shortcodes.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/instagram-widget.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/skin.css' type='text/css' media='all' />
+    <!-- css/skin.css uklonjen — prazan fajl (0 bytes) -->
     <link rel='stylesheet' href='css/custom-style.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/skin.responsive.css' type='text/css' media='all' />
@@ -35,7 +48,7 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
     <link rel='stylesheet' href='css/core.messages.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/isotope/core.portfolio.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/hotspot/style.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/hotspot/tooltipster.css' type='text/css' media='all' />
+    <!-- tooltipster.css već učitan gore (js/vendor/tooltipster/tooltipster.css) -->
     <link rel='stylesheet' href='js/vendor/swiper/swiper.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/essgrid/lightbox.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/plugins.css' type='text/css' media='all' />
@@ -55,7 +68,7 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                 <div class="menu_button icon-menu"></div>
                 <div class="logo">
                     <a href="index.php">
-                        <img src="images/logo_dark-1.png" class="logo_main" alt="" width="238" height="56">
+                        <img src="images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
                     </a>
                 </div>
             </div>
@@ -131,11 +144,11 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                     <div class="content_wrap clearfix">
                         <div class="top_panel_top_contact_area">
                             <span class="contact_icon icon-mail"></span>
-                            <a href="mailto:TODO_EMAIL">TODO_EMAIL</a>
+                            <a href="mailto:office@bowencentar.rs">office@bowencentar.rs</a>
                         </div>
                         <div class="top_panel_top_contact_area">
                             <span class="contact_icon icon-icon_phone"></span>
-                            <a href="tel:TODO_PHONE">TODO_PHONE</a>
+                            <a href="tel:0641112202">064 111 22 02</a>
                         </div>
                         <div class="top_panel_top_user_area">
                             <div class="lang_switch" style="display:flex;gap:10px;align-items:center;">
@@ -151,12 +164,12 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                             <span class="label"> </span>
                             <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_tiny">
                                 <div class="sc_socials_item">
-                                    <a href="TODO_INSTAGRAM_URL" target="_blank" class="social_icons social_instagramm">
+                                    <a href="https://www.instagram.com/ovdeisada_/" target="_blank" rel="noopener" class="social_icons social_instagramm" aria-label="Instagram">
                                         <span class="icon-instagramm"></span>
                                     </a>
                                 </div>
                                 <div class="sc_socials_item">
-                                    <a href="TODO_FACEBOOK_URL" target="_blank" class="social_icons social_facebook">
+                                    <a href="https://www.facebook.com/ovdeisada" target="_blank" rel="noopener" class="social_icons social_facebook" aria-label="Facebook">
                                         <span class="icon-facebook"></span>
                                     </a>
                                 </div>
@@ -169,8 +182,8 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                         <div class="contact_logo">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="images/logo_dark-1.png" class="logo_main" alt="" width="238" height="56">
-                                    <img src="images/logo_dark-1.png" class="logo_fixed" alt="" width="238" height="56">
+                                    <img src="images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
+                                    <img src="images/logo_dark-1.png" class="logo_fixed" alt="Inner Dynamic Method" width="238" height="56">
                                 </a>
                             </div>
                         </div>

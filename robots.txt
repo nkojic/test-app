@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /cgi-bin/
+
+Sitemap: https://innerdynamicmethod.rs/sitemap.xml

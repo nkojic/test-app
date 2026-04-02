@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(head -10 grep -rn \"instagram.com\\\\|facebook.com\" 'D:/AI projekti/test-app/uslovi/public_html/' --include=*.php)",
+      "Bash(cd:*)"
+    ]
+  }
+}

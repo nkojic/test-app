@@ -1,4 +1,5 @@
 <?php
+$meta_description = '';  // TODO: SEO opis stranice
 $page_title       = 'Points of You Sesija | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'points-of-you-sesija';
@@ -15,7 +16,7 @@ include 'includes/header.php';
             <div class="top_panel_image_hover"></div>
             <div class="top_panel_image_header">
                 <div class="top_panel_image_icon <?php echo $page_hero_icon; ?>"></div>
-                <h1 class="top_panel_image_title entry-title"><?php echo htmlspecialchars($page_hero_title); ?></h1>
+                <p class="top_panel_image_title entry-title"><?php echo htmlspecialchars($page_hero_title); ?></p>
             </div>
         </section>
         <div class="page_content_wrap page_paddings_yes">

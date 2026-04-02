@@ -2,6 +2,7 @@
 // -------------------------------------------------------
 // Promeniti za svaku stranicu:
 // -------------------------------------------------------
+$meta_description = '';  // TODO: SEO opis stranice
 $page_title       = 'Naziv stranice | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = '';           // vrednosti: 'home', 'coaching', 'coaching-gde-pravi-razliku', 'coaching-proces', 'business-coaching', 'sportski-coaching', 'life-coaching', 'wing-wave', 'wing-wave-sesija', 'points-of-you', 'points-of-you-sesija', 'primena-points-of-you', 'o-meni', 'utisci', 'ponude', 'kontakt'
@@ -22,7 +23,7 @@ include 'includes/header.php';
             <div class="top_panel_image_hover"></div>
             <div class="top_panel_image_header">
                 <div class="top_panel_image_icon <?php echo $page_hero_icon; ?>"></div>
-                <h1 class="top_panel_image_title entry-title"><?php echo htmlspecialchars($page_hero_title); ?></h1>
+                <p class="top_panel_image_title entry-title"><?php echo htmlspecialchars($page_hero_title); ?></p>
             </div>
         </section>
         <div class="page_content_wrap page_paddings_yes">

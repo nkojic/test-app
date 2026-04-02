@@ -1,54 +1,3 @@
-/*booked*/
-
-body #booked-profile-page input[type=submit].button-primary:hover,
-body table.booked-calendar input[type=submit].button-primary:hover,
-body .booked-modal input[type=submit].button-primary:hover,
-body table.booked-calendar thead,
-body table.booked-calendar thead th,
-body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,
-body #booked-profile-page .booked-profile-appt-list .appt-block .google-cal-button,
-body #booked-profile-page .booked-profile-header {
-	background: #f9a392!important;
-}
-
-body #booked-profile-page input[type=submit].button-primary:hover,
-body table.booked-calendar input[type=submit].button-primary:hover,
-body .booked-modal input[type=submit].button-primary:hover,
-body table.booked-calendar th,
-body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,
-body #booked-profile-page .booked-profile-appt-list .appt-block .google-cal-button,
-body #booked-profile-page .booked-profile-header {
-	border-color: #f9a392!important;
-}
-
-body table.booked-calendar tr.days,
-body table.booked-calendar tr.days th,
-body .booked-calendarSwitcher,
-body .booked-calendarSwitcher select {
-	background: #ffffff!important;
-}
-
-body table.booked-calendar tr.days th {
-	border-color: #ffffff!important;
-}
-
-body #booked-profile-page input[type=submit].button-primary,
-body table.booked-calendar input[type=submit].button-primary,
-body .booked-modal input[type=submit].button-primary,
-body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,
-body #booked-profile-page .booked-profile-appt-list .appt-block.approved .status-block {
-	background: #8ed4cc;
-}
-
-body #booked-profile-page input[type=submit].button-primary,
-body table.booked-calendar input[type=submit].button-primary,
-body .booked-modal input[type=submit].button-primary,
-body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
-	border-color: #8ed4cc;
-}
-
-
-
 /*other*/
 
 
@@ -433,6 +382,19 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 	border-top-style:solid;
 }
 
+
+/* Footer copyright bar — bela pozadina, centrirano kao na starom sajtu */
+.copyright_wrap .copyright_wrap_inner {
+	background-color: #fff !important;
+}
+.copyright_style_socials .copyright_text {
+	float: none !important;
+	text-align: center !important;
+	width: 100%;
+}
+.copyright_wrap .copyright_wrap_inner .copyright_text {
+	color: #555 !important;
+}
 
 .cu_text_c {
 	text-align: center;

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ažurirati BASE_URL ako domena nije innerdynamicmethod.rs -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Početna -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Coaching -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/coaching-gde-pravi-razliku.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/coaching-proces.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/business-coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/sportski-coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/life-coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Wing Wave -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/wing-wave.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/wing-wave-sesija.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Points of You -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/points-of-you.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/points-of-you-sesija.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/primena-points-of-you.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- O Meni -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/o-meni.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/moj-pristup-radu.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/spoj-koji-pravi-razliku.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Utisci -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/utisci.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Ponude -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/ponude.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/sportski-klubovi.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/kompanije.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Kontakt -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/kontakt.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Pravne stranice -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/uslovi-koriscenja.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/politika-privatnosti.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>
