@@ -30,7 +30,7 @@ include '../includes/en-header.php';
                             </h1>
                             <p>When coaching is used</p>
                             <p>People come to coaching for different reasons, but there is almost always one common motivation: the desire for change.</p>
-                            <h3>Coaching can be very helpful when:</h3>
+                            <h2>Coaching can be very helpful when:</h2>
                             <ul>
                                 <li>you feel stuck in the same situation or pattern</li>
                                 <li>you want to make an important life or business decision</li>
@@ -42,7 +42,7 @@ include '../includes/en-header.php';
                             <p>Coaching is not reserved only for people who have a problem – it is often used by those who simply want to grow, progress and develop their capacities.</p>
                             <p>Who can benefit from coaching</p>
                             <p>One of the greatest advantages of coaching is its universality.</p>
-                            <h3>Coaching is used by:</h3>
+                            <h2>Coaching is used by:</h2>
                             <ul>
                                 <li>people who want personal development</li>
                                 <li>entrepreneurs and leaders</li>
@@ -54,7 +54,7 @@ include '../includes/en-header.php';
                             <p>In other words – anyone who wants to better understand themselves and take a step forward.</p>
                             <p>What coaching actually brings</p>
                             <p>A quality coaching process can bring very concrete changes.</p>
-                            <h3>Clients often notice that they:</h3>
+                            <h2>Clients often notice that they:</h2>
                             <ul>
                                 <li>understand their thoughts and emotions more clearly</li>
                                 <li>make decisions more easily</li>

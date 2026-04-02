@@ -35,7 +35,7 @@ include 'includes/header.php';
                             <p>Savremeni poslovni svet zahteva brze odluke, jasnu komunikaciju i sposobnost da se vodi tim kroz stalne promene. Međutim, upravo ljudi koji nose najveću odgovornost često imaju najmanje prostora da zastanu i sagledaju širu sliku.</p>
                             <p>Business coaching je strukturisan proces koji pomaže liderima, menadžerima i preduzetnicima da razviju jasnoću u donošenju odluka, unaprede svoje liderstvo i postignu održive poslovne rezultate.</p>
                             <p>U coachingu se ne traže brza, površna rešenja. Umesto toga, fokus je na razumevanju situacije, prepoznavanju obrazaca i pronalaženju strategija koje su u skladu sa vašim stilom vođenja i vrednostima.</p>
-                            <h3>Business coaching može pomoći u situacijama kao što su:</h3>
+                            <h2>Business coaching može pomoći u situacijama kao što su:</h2>
                             <ul>
                                 <li>razvoj liderstva i menadžerskih veština</li>
                                 <li>donošenje važnih poslovnih odluka</li>

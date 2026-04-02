@@ -32,18 +32,18 @@ include '../includes/en-header.php';
                             <p>Coaching is not just a conversation. It is a process that opens the space for you to pause, see the bigger picture and find solutions that are already within you.</p>
                             <p>In my work, I see coaching as a combination of structure, intuition and modern methods of working with emotions and insights. Each session is tailored to the person who comes, their questions, their pace and their goals.</p>
                             <p>No two sessions are the same – because no two life stories are the same either.</p>
-                            <h3>Methods I use in my work</h3>
+                            <h2>Methods I use in my work</h2>
                             <p>Depending on the topic and goal of the session, I use various approaches and tools in coaching.</p>
                             <p>Coaching conversation – a structured process of questions and reflection that helps you look at the situation from multiple angles and make clearer decisions.</p>
                             <p>Points of You® methodology – working with photographs and metaphors that opens new perspectives and sparks deep insights.</p>
                             <p>Wingwave® coaching – a method of working with emotions that helps identify and release stress and inner blocks.</p>
                             <p>The combination of these approaches makes it possible to work simultaneously on understanding the situation, on emotions, and on concrete steps towards change.</p>
-                            <h3>Why I combine coaching, Wingwave® and Points of You®</h3>
+                            <h2>Why I combine coaching, Wingwave® and Points of You®</h2>
                             <p>When clarity, emotions and a new perspective come together</p>
                             <p>Every person carries their own story, their own emotions and their own ways of thinking. That is why one approach is sometimes not enough to see the whole picture.</p>
                             <p>In my work, I combine coaching, Wingwave®, Points of You® methodology and S.F.E.R.A. mental training because these methods complement each other and create a powerful process of change.</p>
                             <p>Each of them works on a different level.</p>
-                            <h3>A holistic approach to change</h3>
+                            <h2>A holistic approach to change</h2>
                             <p>The combination of these methods makes it possible to work on multiple levels:</p>
                             <ul>
                                 <li>understanding the situation</li>

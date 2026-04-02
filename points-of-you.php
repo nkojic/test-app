@@ -36,7 +36,7 @@ include 'includes/header.php';
                             <p>Kada gledamo na situaciju iz jedne perspektive, često ne vidimo mogućnosti koje postoje tik pored nas. Ponekad je potrebno samo malo da se pomerimo, da promenimo ugao gledanja – i odjednom se pojave novi odgovori.</p>
                             <p>Points of You® coaching je metoda ličnog i profesionalnog razvoja koja upravo to radi: pomaže da proširimo perspektivu, probudimo intuiciju i dođemo do dubljih uvida o sebi, svojim izborima i pravcu u kojem želimo da idemo.</p>
                             <p>Ova metoda koristi fotografije, metafore i vođena pitanja kao moćne okidače za razmišljanje i introspekciju. Kada se povežu racionalni deo uma, emocije i intuicija, otvara se prostor za potpuno nova razumevanja.</p>
-                            <h3>Prvi alat ove metodologije nastao je kao kreativni pristup coachingu koji kombinuje elemente:</h3>
+                            <h2>Prvi alat ove metodologije nastao je kao kreativni pristup coachingu koji kombinuje elemente:</h2>
                             <ul>
                                 <li>psihologije</li>
                                 <li>vizuelnog razmišljanja</li>
@@ -57,7 +57,7 @@ include 'includes/header.php';
                                 <li>željama i ciljevima</li>
                             </ul>
                             <p>Na taj način dolazimo do uvida koji često iznenade i samog klijenta.</p>
-                            <h3>Ova metoda je veoma korisna kada:</h3>
+                            <h2>Ova metoda je veoma korisna kada:</h2>
                             <ul>
                                 <li>osećate da ste „zaglavili" u istom načinu razmišljanja</li>
                                 <li>želite da sagledate situaciju iz nove perspektive</li>

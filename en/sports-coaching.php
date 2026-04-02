@@ -33,7 +33,7 @@ include '../includes/en-header.php';
                             <p>In elite sport, the difference between a good and an exceptional result is often not just physical fitness – but mental strength.</p>
                             <p>Athletes face the pressure of results, the expectations of those around them, the fear of making mistakes, and the need to stay focused and stable at key moments.</p>
                             <p>Sports coaching helps athletes develop the mental stability, self-confidence and focus needed for peak performance.</p>
-                            <h3>Through the coaching process, athletes learn how to:</h3>
+                            <h2>Through the coaching process, athletes learn how to:</h2>
                             <ul>
                                 <li>manage stress and the pressure of competition</li>
                                 <li>overcome blocks and the fear of failure</li>

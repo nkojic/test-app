@@ -42,7 +42,7 @@ include 'includes/header.php';
                             <p>I polako, bez forsiranja, priča počinje da se otvara sama.</p>
                             <p>Ono što je bilo „u glavi" postaje jasno. Ono što je bilo neizrečeno — dobija glas.</p>
                             <p>Points of You® ima svoju strukturu, ali ona nije kruta — više je kao mapa koja Vas vodi kroz proces:</p>
-                            <h3>Videti – Osetiti – Razumeti – Uraditi</h3>
+                            <h2>Videti – Osetiti – Razumeti – Uraditi</h2>
                             <ul>
                                 <li>prvo zastanete i vidite stvari drugačije</li>
                                 <li>zatim dozvolite sebi da osetite šta je zaista tu</li>
@@ -60,20 +60,20 @@ include 'includes/header.php';
                             <p>I odjednom… stvari koje su bile zamršene postaju jednostavne.</p>
                             <p>Ne zato što su nestale — nego zato što ih vidite iz novog ugla.</p>
                             <p>Ne postoje instant rešenja.</p>
-                            <h3>Ali možete da očekujete:</h3>
+                            <h2>Ali možete da očekujete:</h2>
                             <ul>
                                 <li>jasnoću tamo gde je konfuzija</li>
                                 <li>olakšanje tamo gde je težina</li>
                                 <li>novi pogled tamo gde ste bili „zaglavljeni"</li>
                             </ul>
                             <p>I ono najvažnije — kontakt sa sobom koji je potpuno autentičan.</p>
-                            <h3>Ovo je za Vas ako:</h3>
+                            <h2>Ovo je za Vas ako:</h2>
                             <ul>
                                 <li>previše razmišljate, a premalo osećate</li>
                                 <li>znate šta „treba", ali ne znate zašto ne ide</li>
                                 <li>želite promenu koja je stvarna, a ne samo racionalna</li>
                             </ul>
-                            <h3>Na kraju…</h3>
+                            <h2>Na kraju…</h2>
                             <p>Points of You® nije alat koji „koristite". To je iskustvo koje Vas pomeri.</p>
                             <p>Nekad nežno. Nekad iznenađujuće direktno.</p>
                             <p>Ali uvek — tačno tamo gde treba.</p>

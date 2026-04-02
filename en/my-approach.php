@@ -43,17 +43,17 @@ include '../includes/en-header.php';
                                 <li>S.F.E.R.A. mental training</li>
                             </ul>
                             <p>Each of these methods brings a different dimension to the process of change and makes it possible to work on multiple levels in their entirety.</p>
-                            <h3>When the body is given space to relax</h3>
+                            <h2>When the body is given space to relax</h2>
                             <p>Bowen therapy acts on deep relaxation of the nervous system and helps the body activate its natural recovery mechanisms. When the body calms down and tension begins to release, the way we experience stress, emotions and everyday challenges often changes too.</p>
                             <p>The body then becomes an ally in the process of change.</p>
-                            <h3>When emotions stop blocking us</h3>
+                            <h2>When emotions stop blocking us</h2>
                             <p>Sometimes we clearly know what we want, but emotions, stress or past experiences still keep us in the same place.</p>
                             <p>Wingwave® coaching helps identify and release the emotional triggers that lie behind inner blocks.</p>
                             <p>When emotional stress decreases, a new clarity and sense of inner stability often emerges.</p>
-                            <h3>When we change our perspective</h3>
+                            <h2>When we change our perspective</h2>
                             <p>Points of You® methodology uses photographs and metaphors to activate intuition and open up new ways of thinking.</p>
                             <p>Sometimes just one new perspective can change the way we experience a situation – and with it, the decisions we make.</p>
-                            <h3>When all parts of you align</h3>
+                            <h2>When all parts of you align</h2>
                             <p>S.F.E.R.A. mental training is based on five key elements: synchrony, strength (resources), energy, rhythm and activation — factors that together determine how we function in everyday and demanding situations.</p>
                             <p>It is not about pushing yourself harder. It is about learning how to bring yourself into a state where everything works together, in a perfect flow.</p>
                             <p>When there is inner synchrony, decisions become clearer. When you recognise your strengths, confidence grows. When you manage energy and rhythm, the feeling of defocusedness disappears. And activation is that moment when motivation and the desire to take a step appear. Not because you have to — but because you want to.</p>

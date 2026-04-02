@@ -30,7 +30,7 @@ include '../includes/en-header.php';
                             </h1>
                             <p>Applying the Points of You methodology</p>
                             <p>This method is very flexible and is used in various fields.</p>
-                            <h3>Individual coaching</h3>
+                            <h2>Individual coaching</h2>
                             <p>In one-on-one work, the method helps clients to:</p>
                             <ul>
                                 <li>clarify life dilemmas</li>
@@ -38,7 +38,7 @@ include '../includes/en-header.php';
                                 <li>develop self-confidence</li>
                                 <li>find a new direction in career or life</li>
                             </ul>
-                            <h3>Workshops and group work</h3>
+                            <h2>Workshops and group work</h2>
                             <p>Points of You is particularly powerful in group processes.</p>
                             <p>Workshops enable participants to arrive at even deeper insights about themselves through the different perspectives of others.</p>
                             <p>Group dynamics often bring:</p>
@@ -47,7 +47,7 @@ include '../includes/en-header.php';
                                 <li>inspiration</li>
                                 <li>a sense of connection</li>
                             </ul>
-                            <h3>Companies and teams</h3>
+                            <h2>Companies and teams</h2>
                             <p>The method is increasingly used in business environments for:</p>
                             <ul>
                                 <li>leadership development</li>
@@ -57,7 +57,7 @@ include '../includes/en-header.php';
                                 <li>strategic thinking</li>
                             </ul>
                             <p>When teams start looking at challenges from multiple perspectives, they often arrive at more innovative solutions.</p>
-                            <h3>Working with athletes</h3>
+                            <h2>Working with athletes</h2>
                             <p>Points of You can be extremely useful in working with athletes too.</p>
                             <p>Photographs and metaphors help athletes to:</p>
                             <ul>

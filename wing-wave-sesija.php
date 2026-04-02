@@ -33,7 +33,7 @@ include 'includes/header.php';
                             <p>Wingwave sesija</p>
                             <p>Wingwave coaching je obično kratkoročni proces – često je dovoljna samo jedna sesija u radu na jednoj temi. Nekada je potrebno nekoliko da se oseti značajna promena.</p>
                             <p>Tipična sesija izgleda ovako:</p>
-                            <h3>1. Definisanje teme</h3>
+                            <h2>1. Definisanje teme</h2>
                             <p>Na početku razgovaramo o situaciji koja vam stvara stres, blokadu ili neprijatne emocije.</p>
                             <p>To može biti:</p>
                             <ul>
@@ -45,15 +45,15 @@ include 'includes/header.php';
                                 <li>problematični odnosi</li>
                                 <li>trauma</li>
                             </ul>
-                            <h3>2. Miostatski test</h3>
+                            <h2>2. Miostatski test</h2>
                             <p>Jedna od specifičnosti Wingwave metode je miostatski test (mišićni test), koji pomaže da se identifikuje gde se nalazi emocionalni okidač.</p>
                             <p>Tokom testa klijent prstima formira mali mišićni prsten (najčešće između palca i kažiprsta). Coach blagim pritiskom proverava stabilnost mišića dok klijent razmišlja o određenoj temi.</p>
                             <p>Kada postoji emocionalni stres ili unutrašnja tenzija, mišićni tonus može na trenutak oslabiti – što je signal da se upravo tu nalazi važna emocionalna informacija.</p>
                             <p>Zato miostatski test u Wingwave coachingu deluje kao kompas koji pokazuje gde se nalazi pravi uzrok problema. Često je tamo gde ga nismo svesno očekivali.</p>
-                            <h3>3. Obrada emocija kroz pokrete očiju</h3>
+                            <h2>3. Obrada emocija kroz pokrete očiju</h2>
                             <p>Klijent prati pokrete prsta coacha očima. Ovi pokreti stimulišu naizmeničnu, bilateralnu aktivaciju mozga, sličnu fazi brzih pokreta očiju tokom sna (REM faza), kada mozak prirodno obrađuje iskustva i emocije.</p>
                             <p>Tokom ovog procesa stresne emocije počinju da se smanjuju, a situacija dobija novu perspektivu.</p>
-                            <h3>4. Integracija resursa</h3>
+                            <h2>4. Integracija resursa</h2>
                             <p>Na kraju sesije jačamo pozitivne emocije, unutrašnju stabilnost i nove obrasce razmišljanja koji vas podržavaju u budućim situacijama.</p>
                             <p>Mnogi klijenti već tokom prve sesije imaju:</p>
                             <ul>

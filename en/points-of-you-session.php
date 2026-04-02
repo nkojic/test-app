@@ -40,7 +40,7 @@ include '../includes/en-header.php';
                             <p>And slowly, without force, the story begins to open on its own.</p>
                             <p>What was "in your head" becomes clear. What was unspoken — finds a voice.</p>
                             <p>Points of You® has its own structure, but it is not rigid — it is more like a map that guides you through the process:</p>
-                            <h3>See – Feel – Understand – Act</h3>
+                            <h2>See – Feel – Understand – Act</h2>
                             <ul>
                                 <li>first you pause and see things differently</li>
                                 <li>then you allow yourself to feel what is truly there</li>
@@ -58,20 +58,20 @@ include '../includes/en-header.php';
                             <p>And suddenly… things that were tangled become simple.</p>
                             <p>Not because they have disappeared — but because you see them from a new angle.</p>
                             <p>There are no instant solutions.</p>
-                            <h3>But you can expect:</h3>
+                            <h2>But you can expect:</h2>
                             <ul>
                                 <li>clarity where there was confusion</li>
                                 <li>relief where there was heaviness</li>
                                 <li>a new view where you were stuck</li>
                             </ul>
                             <p>And most importantly — a connection with yourself that is completely authentic.</p>
-                            <h3>This is for you if:</h3>
+                            <h2>This is for you if:</h2>
                             <ul>
                                 <li>you think too much and feel too little</li>
                                 <li>you know what you should do, but don't know why it's not working</li>
                                 <li>you want change that is real, not just rational</li>
                             </ul>
-                            <h3>In the end…</h3>
+                            <h2>In the end…</h2>
                             <p>Points of You® is not a tool you use. It is an experience that moves you.</p>
                             <p>Sometimes gently. Sometimes surprisingly directly.</p>
                             <p>But always — exactly where it needs to be.</p>

@@ -35,7 +35,7 @@ include 'includes/header.php';
                             <p>U vrhunskom sportu razlika između dobrog i izuzetnog rezultata često nije samo u fizičkoj spremi – već u mentalnoj snazi.</p>
                             <p>Sportisti se suočavaju sa pritiskom rezultata, očekivanjima okoline, strahom od greške i potrebom da u ključnim trenucima ostanu fokusirani i stabilni.</p>
                             <p>Sportski coaching pomaže sportistima da razviju mentalnu stabilnost, samopouzdanje i fokus koji su neophodni za vrhunske performanse.</p>
-                            <h3>Kroz coaching proces sportisti uče kako da:</h3>
+                            <h2>Kroz coaching proces sportisti uče kako da:</h2>
                             <ul>
                                 <li>upravljaju stresom i pritiskom takmičenja</li>
                                 <li>prevaziđu blokade i strah od neuspeha</li>

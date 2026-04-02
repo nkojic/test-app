@@ -45,17 +45,17 @@ include 'includes/header.php';
                                 <li>S.F.E.R.A. mentalni trening</li>
                             </ul>
                             <p>Svaka od ovih metoda donosi drugačiju dimenziju procesa promene i omogućava da u celosti radimo na više nivoa.</p>
-                            <h3>Kada telo dobije prostor da se opusti</h3>
+                            <h2>Kada telo dobije prostor da se opusti</h2>
                             <p>Bowen terapija deluje na duboku relaksaciju nervnog sistema i pomaže telu da aktivira svoje prirodne mehanizme oporavka. Kada se telo smiri i napetost počne da se oslobađa, često se menja i način na koji doživljavamo stres, emocije i svakodnevne izazove.</p>
                             <p>Telo tada postaje saveznik u procesu promene.</p>
-                            <h3>Kada emocije prestanu da nas blokiraju</h3>
+                            <h2>Kada emocije prestanu da nas blokiraju</h2>
                             <p>Ponekad jasno znamo šta želimo, ali nas emocije, stres ili stara iskustva i dalje zadržavaju na istom mestu.</p>
                             <p>Wingwave® coaching pomaže da se identifikuju i oslobode emocionalni okidači koji stoje iza unutrašnjih blokada.</p>
                             <p>Kada se emocionalni stres smanji, često se pojavi nova jasnoća i osećaj unutrašnje stabilnosti.</p>
-                            <h3>Kada promenimo perspektivu</h3>
+                            <h2>Kada promenimo perspektivu</h2>
                             <p>Points of You® metodologija koristi fotografije i metafore kako bi pokrenula intuiciju i otvorila nove načine razmišljanja.</p>
                             <p>Ponekad samo jedna nova perspektiva može promeniti način na koji doživljavamo situaciju – a time i odluke koje donosimo.</p>
-                            <h3>Kada se svi delovi u Vas usklade</h3>
+                            <h2>Kada se svi delovi u Vas usklade</h2>
                             <p>S.F.E.R.A. mentalni trening zasniva se na pet ključnih elemenata: sinhroniji, snazi (resursima), energiji, ritmu i aktivaciji — faktorima koji zajedno određuju kako funkcionišemo u svakodnevnim i zahtevnim situacijama.</p>
                             <p>Ne radi se o tome da „gurate sebe više". Već da naučite kako da dovedete sebe u stanje u kojem sve radi zajedno, u savršenom flow-u.</p>
                             <p>Kada postoji unutrašnja sinhronija, odluke postaju jasnije. Kada prepoznate Vaše snage, raste sigurnost. Kada upravljate energijom i ritmom, nestaje osećaj defokusiranosti. A aktivacija, to je onaj trenutak kada se pojave motivacija i želja da napravite korak. Ne zato što morate — već zato što želite.</p>

@@ -34,18 +34,18 @@ include 'includes/header.php';
                             <p>Coaching nije samo razgovor. To je proces koji otvara prostor da zastanete, sagledate širu sliku i pronađete rešenja koja su već u vama.</p>
                             <p>U mom radu coaching posmatram kao kombinaciju strukture, intuicije i savremenih metoda rada sa emocijama i uvidima. Svaka sesija je prilagođena osobi koja dolazi, njenim pitanjima, tempu i ciljevima.</p>
                             <p>Ne postoje dve iste sesije – jer ne postoje ni dve iste životne priče.</p>
-                            <h3>Metode koje koristim u radu</h3>
+                            <h2>Metode koje koristim u radu</h2>
                             <p>U zavisnosti od teme i cilja sesije, u coachingu koristim različite pristupe i alate.</p>
                             <p>Coaching razgovor – strukturisan proces pitanja i refleksije koji pomaže da sagledate situaciju iz više uglova i donesete jasnije odluke.</p>
                             <p>Points of You® metodologija – rad sa fotografijama i metaforama koji otvara nove perspektive i pokreće duboke uvide.</p>
                             <p>Wingwave® coaching – metoda rada sa emocijama koja pomaže da se identifikuju i oslobode stres i unutrašnje blokade.</p>
                             <p>Kombinacija ovih pristupa omogućava da radimo istovremeno na razumevanju situacije, emocijama i konkretnim koracima ka promeni.</p>
-                            <h3>Zašto kombinujem coaching, Wingwave® i Points of You®</h3>
+                            <h2>Zašto kombinujem coaching, Wingwave® i Points of You®</h2>
                             <p>Kada se spoje jasnoća, emocije i nova perspektiva</p>
                             <p>Svaka osoba nosi svoju priču, svoje emocije i svoje načine razmišljanja. Zato jedan pristup ponekad nije dovoljan da se sagleda cela slika.</p>
                             <p>U svom radu kombinujem coaching, Wingwave®, Points of You® metodologiju i S.F.E.R.A. mentalni trening jer se ove metode međusobno dopunjuju i stvaraju snažan proces promene.</p>
                             <p>Svaka od njih radi na drugačijem nivou.</p>
-                            <h3>Holistički pristup promeni</h3>
+                            <h2>Holistički pristup promeni</h2>
                             <p>Kombinacija ovih metoda omogućava da radimo na više nivoa:</p>
                             <ul>
                                 <li>razumevanje situacije</li>

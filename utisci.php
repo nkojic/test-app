@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $meta_description = 'Pročitajte utiske klijenata o radu sa Inner Dynamic Method – iskustva sa coaching sesijama, Wingwave® i Points of You® metodom.';
 $meta_keywords    = 'utisci, iskustva klijenata, coaching recenzije, Wingwave iskustvo, Inner Dynamic Method';
 $page_title       = 'Utisci | Inner Dynamic Method';

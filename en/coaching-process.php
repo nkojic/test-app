@@ -31,7 +31,7 @@ include '../includes/en-header.php';
                             <p>What the coaching process looks like</p>
                             <p>Coaching usually begins with a conversation about a topic that is currently important to you. This may be a decision you want to make, a situation that is weighing on you, or a desire for change and personal development.</p>
                             <p>Through guided questions, reflection and various coaching methods, we arrive at a deeper understanding of the situation.</p>
-                            <h3>In this process, these often emerge:</h3>
+                            <h2>In this process, these often emerge:</h2>
                             <ul>
                                 <li>new insights</li>
                                 <li>different perspectives</li>
@@ -40,7 +40,7 @@ include '../includes/en-header.php';
                             </ul>
                             <p>Coaching is not focused on the past, but on understanding the present and creating the desired future.</p>
                             <p>What you can expect from coaching</p>
-                            <h3>Clients often notice that through coaching they:</h3>
+                            <h2>Clients often notice that through coaching they:</h2>
                             <ul>
                                 <li>understand themselves and their reactions more clearly</li>
                                 <li>make decisions more easily</li>

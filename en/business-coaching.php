@@ -33,7 +33,7 @@ include '../includes/en-header.php';
                             <p>The modern business world demands fast decisions, clear communication and the ability to lead a team through constant change. Yet the people who carry the greatest responsibility often have the least space to pause and see the bigger picture.</p>
                             <p>Business coaching is a structured process that helps leaders, managers and entrepreneurs develop clarity in decision-making, enhance their leadership and achieve sustainable business results.</p>
                             <p>Coaching does not seek quick, superficial solutions. Instead, the focus is on understanding the situation, recognising patterns and finding strategies that are in line with your leadership style and values.</p>
-                            <h3>Business coaching can help in situations such as:</h3>
+                            <h2>Business coaching can help in situations such as:</h2>
                             <ul>
                                 <li>developing leadership and management skills</li>
                                 <li>making important business decisions</li>

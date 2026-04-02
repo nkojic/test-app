@@ -33,7 +33,7 @@ include '../includes/en-header.php';
                             <p>In everyday life, we often focus on obligations, expectations and responsibilities. We rarely pause to ask ourselves where we are actually going and whether we are living in accordance with what truly matters to us.</p>
                             <p>Life coaching is a process that helps people better understand themselves, their values and desires, and make decisions that are in line with their authentic life direction.</p>
                             <p>It is a space where you can pause, see the bigger picture and explore questions that often remain on the sidelines in the everyday rush.</p>
-                            <h3>Life coaching can help when:</h3>
+                            <h2>Life coaching can help when:</h2>
                             <ul>
                                 <li>you feel you are at a crossroads in life</li>
                                 <li>you want a change in career or personal life</li>

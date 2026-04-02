@@ -34,7 +34,7 @@ include '../includes/en-header.php';
                             <p>When we look at a situation from one perspective, we often do not see the possibilities that exist right beside us. Sometimes all it takes is a small shift, a change of angle – and suddenly new answers appear.</p>
                             <p>Points of You® coaching is a method of personal and professional development that does exactly this: it helps broaden perspective, awaken intuition and arrive at deeper insights about ourselves, our choices and the direction in which we want to go.</p>
                             <p>This method uses photographs, metaphors and guided questions as powerful triggers for thinking and introspection. When the rational mind, emotions and intuition are connected, a space opens up for entirely new understandings.</p>
-                            <h3>The first tool of this methodology was created as a creative approach to coaching that combines elements of:</h3>
+                            <h2>The first tool of this methodology was created as a creative approach to coaching that combines elements of:</h2>
                             <ul>
                                 <li>psychology</li>
                                 <li>visual thinking</li>
@@ -55,7 +55,7 @@ include '../includes/en-header.php';
                                 <li>desires and goals</li>
                             </ul>
                             <p>In this way, we arrive at insights that often surprise even the client themselves.</p>
-                            <h3>This method is particularly useful when:</h3>
+                            <h2>This method is particularly useful when:</h2>
                             <ul>
                                 <li>you feel stuck in the same way of thinking</li>
                                 <li>you want to view a situation from a new perspective</li>

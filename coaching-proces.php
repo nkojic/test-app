@@ -33,7 +33,7 @@ include 'includes/header.php';
                             <p>Kako izgleda coaching proces</p>
                             <p>Coaching obično počinje razgovorom o temi koja je trenutno važna za vas. To može biti odluka koju želite da donesete, situacija koja vas opterećuje ili želja za promenom i ličnim razvojem.</p>
                             <p>Kroz vođena pitanja, refleksiju i različite coaching metode dolazimo do dubljeg razumevanja situacije.</p>
-                            <h3>U tom procesu često se pojavljuju:</h3>
+                            <h2>U tom procesu često se pojavljuju:</h2>
                             <ul>
                                 <li>novi uvidi</li>
                                 <li>drugačije perspektive</li>
@@ -42,7 +42,7 @@ include 'includes/header.php';
                             </ul>
                             <p>Coaching nije fokusiran na prošlost već na razumevanje sadašnjosti i stvaranje željene budućnosti.</p>
                             <p>Šta možete očekivati od coachinga</p>
-                            <h3>Klijenti često primećuju da kroz coaching:</h3>
+                            <h2>Klijenti često primećuju da kroz coaching:</h2>
                             <ul>
                                 <li>jasnije razumeju sebe i svoje reakcije</li>
                                 <li>lakše donose odluke</li>

@@ -35,7 +35,7 @@ include 'includes/header.php';
                             <p>U svakodnevnom životu često smo fokusirani na obaveze, očekivanja i odgovornosti. Retko zastanemo da se zapitamo gde zapravo idemo i da li živimo u skladu sa onim što nam je zaista važno.</p>
                             <p>Life coaching je proces koji pomaže ljudima da bolje razumeju sebe, svoje vrednosti i želje, i da donose odluke koje su u skladu sa njihovim autentičnim životnim pravcem.</p>
                             <p>To je prostor u kojem možete da zastanete, sagledate širu sliku i istražite pitanja koja često ostaju po strani u svakodnevnoj žurbi.</p>
-                            <h3>Life coaching može pomoći kada:</h3>
+                            <h2>Life coaching može pomoći kada:</h2>
                             <ul>
                                 <li>osećate da ste na životnoj prekretnici</li>
                                 <li>želite promenu u karijeri ili privatnom životu</li>

@@ -32,7 +32,7 @@ include 'includes/header.php';
                             </h1>
                             <p>Kada se koristi coaching</p>
                             <p>Ljudi dolaze na coaching iz različitih razloga, ali gotovo uvek postoji jedan zajednički motiv: želja za promenom.</p>
-                            <h3>Coaching može biti veoma koristan kada:</h3>
+                            <h2>Coaching može biti veoma koristan kada:</h2>
                             <ul>
                                 <li>osećate da ste zaglavljeni u istoj situaciji ili obrascu</li>
                                 <li>želite da donesete važnu životnu ili poslovnu odluku</li>
@@ -44,7 +44,7 @@ include 'includes/header.php';
                             <p>Coaching nije rezervisan samo za ljude koji imaju problem – često ga koriste upravo oni koji žele da rastu, napreduju i razvijaju svoje kapacitete.</p>
                             <p>Ko sve može imati benefite od coachinga</p>
                             <p>Jedna od najvećih prednosti coachinga je njegova univerzalnost.</p>
-                            <h3>Coaching koriste:</h3>
+                            <h2>Coaching koriste:</h2>
                             <ul>
                                 <li>ljudi koji žele lični razvoj</li>
                                 <li>preduzetnici i lideri</li>
@@ -56,7 +56,7 @@ include 'includes/header.php';
                             <p>Drugim rečima – svako ko želi da bolje razume sebe i napravi korak napred.</p>
                             <p>Šta coaching zapravo donosi</p>
                             <p>Kvalitetan coaching proces može doneti vrlo konkretne promene.</p>
-                            <h3>Klijenti često primećuju da:</h3>
+                            <h2>Klijenti često primećuju da:</h2>
                             <ul>
                                 <li>jasnije razumeju svoje misli i emocije</li>
                                 <li>lakše donose odluke</li>
