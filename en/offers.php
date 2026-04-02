@@ -28,7 +28,30 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <p>A session for every kind of change</p>
+                            <p>Change is not a single event — it is a process. Depending on where you are and what you need, different approaches work best at different moments.</p>
+                            <p>Below you will find an overview of the individual sessions and packages I offer. If you are unsure which one suits you best, we can figure that out together in a short introductory call.</p>
+                            <h2>Individual sessions</h2>
+                            <p>Each session lasts approximately 60 minutes and is tailored to your topic and goal for that day.</p>
+                            <ul>
+                                <li><strong>Coaching session</strong> – structured conversation, reflection and goal-setting for clarity and purposeful action</li>
+                                <li><strong>Wingwave® session</strong> – working with emotional stress, inner blocks and limiting beliefs</li>
+                                <li><strong>Points of You® session</strong> – a different kind of conversation, through photographs and metaphors, for new perspectives and authentic insights</li>
+                                <li><strong>Bowen therapy</strong> – gentle bodywork for deep nervous system relaxation and natural recovery</li>
+                                <li><strong>Combined session</strong> – integrating two or more methods depending on the topic and your needs</li>
+                            </ul>
+                            <h2>Coaching packages</h2>
+                            <p>For deeper and more lasting change, a series of sessions is often more effective than working session by session. Packages offer continuity — and continuity creates real transformation.</p>
+                            <ul>
+                                <li><strong>Starter package</strong> – 3 sessions to clarify your direction and take the first steps</li>
+                                <li><strong>Change package</strong> – 6 sessions for a deeper and more sustained process of change</li>
+                                <li><strong>Transformation package</strong> – 10 sessions for long-term personal or professional development</li>
+                            </ul>
+                            <h2>Group workshops</h2>
+                            <p>Points of You® and Wingwave® are also available in group formats — for teams, workshops, or small groups of up to 8 people. These can be held in person or online.</p>
+                            <h2>Custom programmes</h2>
+                            <p>For companies, sports clubs and organisations, I design tailored programmes based on your specific needs and goals.</p>
+                            <p>✨ Not sure which option is right for you? Reach out and we will find the best fit together.</p>
                         </section>
                     </article>
                 </div>

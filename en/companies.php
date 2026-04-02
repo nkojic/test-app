@@ -28,7 +28,40 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <p>When people grow, companies grow</p>
+                            <p>Behind every successful organisation there are people — and people carry everything with them: their strengths, their habits, their blind spots and their potential.</p>
+                            <p>I work with companies that understand that the most valuable investment is in the people who drive results.</p>
+                            <h2>What I offer to companies</h2>
+                            <p>Depending on the needs of your team and organisation, I design tailored programmes that combine coaching, Points of You® methodology, Wingwave® and S.F.E.R.A. mental training.</p>
+                            <h2>Leadership development</h2>
+                            <p>Good leadership is not just about authority — it is about self-awareness, emotional intelligence and the ability to inspire others. Through individual and group coaching, leaders develop:</p>
+                            <ul>
+                                <li>clarity about their role and direction</li>
+                                <li>stronger communication skills</li>
+                                <li>the ability to manage stress and uncertainty</li>
+                                <li>authentic leadership presence</li>
+                            </ul>
+                            <h2>Team coaching and workshops</h2>
+                            <p>When a team is under pressure, communication often breaks down and trust erodes. Team coaching creates a space for honest conversation, rebuilding connection and developing a shared direction.</p>
+                            <p>Points of You® workshops are particularly effective for:</p>
+                            <ul>
+                                <li>opening dialogue in teams that have grown apart</li>
+                                <li>creative problem-solving and strategic thinking</li>
+                                <li>building trust and psychological safety</li>
+                                <li>onboarding and team building</li>
+                            </ul>
+                            <h2>Stress and resilience</h2>
+                            <p>Workplace stress is one of the leading causes of reduced performance, sick leave and employee turnover. Wingwave® coaching and S.F.E.R.A. mental training offer practical tools for:</p>
+                            <ul>
+                                <li>identifying and releasing stress triggers</li>
+                                <li>building inner stability and resilience</li>
+                                <li>improving focus and energy management</li>
+                                <li>sustaining performance under pressure</li>
+                            </ul>
+                            <h2>How we work together</h2>
+                            <p>Every engagement begins with a consultation where we clarify your goals, the profile of participants and the desired outcomes. From there I design a programme that fits your context — whether that means one workshop, a series of team sessions or ongoing individual coaching for key people.</p>
+                            <p>Programmes can be delivered in person in Belgrade or online.</p>
+                            <p>✨ If you would like to explore how I can support your team or organisation, get in touch and we can arrange an initial conversation.</p>
                         </section>
                     </article>
                 </div>

@@ -28,7 +28,27 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <p>From dentistry to inner dynamics</p>
+                            <p>My path was not a straight line — and I think that is precisely what makes it valuable.</p>
+                            <p>I trained and worked as a dentist. For years I focused on the physical — on health, precision, care. But over time I became increasingly interested in something that went beyond the body: the inner processes that shape how people feel, how they make decisions, and how they change.</p>
+                            <p>That curiosity gradually led me in a new professional direction.</p>
+                            <h2>The Inner Dynamic Method</h2>
+                            <p>Over the years I developed the Inner Dynamic Method — an integrative approach that connects work with the body, emotions and inner insights, because experience shows that real change often happens at the intersection of all three.</p>
+                            <p>The name reflects exactly that: the dynamics that happen within us, beneath the surface of what we show to the world.</p>
+                            <h2>What I work with</h2>
+                            <p>In my practice I combine several complementary methods:</p>
+                            <ul>
+                                <li><strong>Bowen therapy</strong> – a gentle technique that works on deep relaxation of the nervous system and activates the body's natural healing mechanisms</li>
+                                <li><strong>Coaching</strong> – a structured process of reflection and goal-setting that helps you see your situation more clearly and take purposeful steps forward</li>
+                                <li><strong>Wingwave® method</strong> – a method of working with emotions that identifies and releases stress and inner blocks at their root</li>
+                                <li><strong>Points of You® methodology</strong> – working with photographs and metaphors to open new perspectives and spark authentic insights</li>
+                                <li><strong>S.F.E.R.A. mental training</strong> – a system for developing inner synchrony, resilience, energy management and focused activation</li>
+                            </ul>
+                            <h2>How I work</h2>
+                            <p>Every person who comes to me brings their own story, their own pace and their own goals. That is why there is no universal programme — each process is shaped around the individual.</p>
+                            <p>Sometimes we work primarily with the body. Sometimes with emotions. Sometimes with perspective and decisions. Often all three at once.</p>
+                            <p>What does not change is my intention: to create a space where real change becomes possible.</p>
+                            <p>✨ If you feel ready to take that first step, I will be glad to walk alongside you on that journey.</p>
                         </section>
                     </article>
                 </div>
