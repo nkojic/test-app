@@ -1,13 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bowencen/innerdynamiccoaching
-    - /bin/cp -rp css "$DEPLOYPATH/"
-    - /bin/cp -rp js "$DEPLOYPATH/"
-    - /bin/cp -rp images "$DEPLOYPATH/"
-    - /bin/cp -rp font "$DEPLOYPATH/"
-    - /bin/cp -rp includes "$DEPLOYPATH/"
-    - /bin/cp -p *.php "$DEPLOYPATH/"
-    - /bin/cp -p .htaccess "$DEPLOYPATH/"
-    - /bin/cp -p robots.txt "$DEPLOYPATH/"
-    - /bin/cp -p sitemap.xml "$DEPLOYPATH/"
+    - /bin/true
