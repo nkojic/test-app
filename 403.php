@@ -24,7 +24,7 @@ include 'includes/header.php';
                 <div class="content">
                     <article class="post post_item_single">
                         <section class="post_content" style="text-align:center; padding: 3em 0;">
-                            <h2 style="font-size:6em; margin:0; color:#f9a392;">403</h2>
+                            <h2 style="font-size:6em; margin:0; color:#af3850;">403</h2>
                             <h3>Pristup ovoj stranici je zabranjen.</h3>
                             <p>Nemate dozvolu za pristup ovom resursu.</p>
                             <div style="margin:1.5em 0;">
