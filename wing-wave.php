@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';  // TODO: SEO opis stranice
+﻿<?php
+$meta_description = 'Wingwave® coaching je savremena metoda oslobađanja emocionalnih blokada koja kombinuje EMDR, NLP i miostatski test. Brza i precizna promena unutrašnjih obrazaca.';
+$meta_keywords    = 'wingwave coaching, emocionalne blokade, EMDR, NLP, miostatski test, stres, strahovi';
 $page_title       = 'Wing Wave Coaching Emocija | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'wing-wave';

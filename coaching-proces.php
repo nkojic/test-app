@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';  // TODO: SEO opis stranice
+﻿<?php
+$meta_description = 'Saznajte kako izgleda coaching proces — od prvog razgovora do konkretnih uvida i novih koraka. Coaching nije fokusiran na prošlost, već na stvaranje željene budućnosti.';
+$meta_keywords    = 'coaching proces, kako izgleda coaching, coaching sesija, uvidi, promene, novi pravac';
 $page_title       = 'Coaching Proces | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'coaching-proces';

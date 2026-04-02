@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';  // TODO: SEO opis stranice
+﻿<?php
+$meta_description = 'Coaching pravi razliku kada ste zaglavljeni, donosite važnu odluku ili želite da razvijete potencijal. Saznajte ko koristi coaching i kakve konkretne promene donosi.';
+$meta_keywords    = 'kada koristiti coaching, prednosti coachinga, lični razvoj, coaching za promenu, blokade';
 $page_title       = 'Gde Coaching pravi razliku | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'coaching-gde-pravi-razliku';

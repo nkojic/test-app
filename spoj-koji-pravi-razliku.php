@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';  // TODO: SEO opis stranice
+﻿<?php
+$meta_description = 'Kombinacija coachinga, Wingwave® i Points of You® stvara dublji i transformativan proces promene — istovremeni rad na razumevanju situacije, emocijama i novoj perspektivi.';
+$meta_keywords    = 'coaching kombinacija, Wingwave, Points of You, transformacija, holistički coaching, promena';
 $page_title       = 'Spoj koji pravi razliku | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'spoj-koji-pravi-razliku';

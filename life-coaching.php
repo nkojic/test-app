@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';  // TODO: SEO opis stranice
+﻿<?php
+$meta_description = 'Life coaching za jasniji pravac, više balansa i veću povezanost sa sobom. Pomažemo vam da donosite odluke u skladu sa vašim vrednostima i autentičnim životnim pravcem.';
+$meta_keywords    = 'life coaching, lični razvoj, životna promena, balans, samopouzdanje, životni pravac';
 $page_title       = 'Life Coaching | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'life-coaching';

@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';  // TODO: SEO opis stranice
+﻿<?php
+$meta_description = 'Inner Dynamic Method integriše Bowen terapiju, coaching, Wingwave® i Points of You® za holistički pristup promeni — rad sa telom, emocijama i načinom razmišljanja.';
+$meta_keywords    = 'Inner Dynamic Method, Bowen terapija, Wingwave, Points of You, holistički pristup, integracija';
 $page_title       = 'Moj pristup radu | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'moj-pristup-radu';

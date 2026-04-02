@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';  // TODO: SEO opis stranice
+﻿<?php
+$meta_description = 'Sportski coaching za razvoj mentalne snage, samopouzdanja i fokusa. Pomažemo sportistima da prevaziđu blokade, upravljaju pritiskom i ostvare vrhunske performanse.';
+$meta_keywords    = 'sportski coaching, mentalna priprema, sportske performanse, fokus, samopouzdanje, strah od greške';
 $page_title       = 'Sportski Coaching | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-coaching';

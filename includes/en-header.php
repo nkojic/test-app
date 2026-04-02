@@ -26,6 +26,9 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <?php if (!empty($meta_description)): ?>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
     <?php endif; ?>
+    <?php if (!empty($meta_keywords)): ?>
+    <meta name="keywords" content="<?php echo htmlspecialchars($meta_keywords, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php endif; ?>
 
     <!-- Canonical + hreflang -->
     <link rel="canonical" href="<?php echo htmlspecialchars($_canonical, ENT_QUOTES, 'UTF-8'); ?>">
