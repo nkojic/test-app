@@ -467,6 +467,7 @@ $extra_head_html = '<style>
 .newsletter-subtitle { text-align:center; font-size:13px; opacity:.8; margin-top:6px; }
 </style>';
 
+$lang_en_url      = '/en/contact.php';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

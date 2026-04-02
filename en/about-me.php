@@ -1,17 +1,15 @@
 <?php
-$meta_description = '';  // TODO: SEO opis stranice
-$page_title       = 'Primena Points of You | Inner Dynamic Method';
+$meta_description = '';
+$page_title       = 'About Me | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
-$current_page     = 'primena-points-of-you';
-$page_hero_icon   = 'icon-book-open';
-$page_hero_title  = 'Primena Points of You';
-$featured_image     = '';
-$featured_image_alt = '';
-$page_hero_bg       = 'images/1170x700.jpg';
-$header_scheme   = 'scheme_original';
-$header_position = 'top_panel_position_above';
-$lang_en_url      = '/en/points-of-you-application.php';
-include 'includes/header.php';
+$current_page     = 'o-meni';
+$page_hero_icon   = 'icon-user';
+$page_hero_title  = 'About Me';
+$page_hero_bg     = '../images/1170x700.jpg';
+$header_scheme    = 'scheme_original';
+$header_position  = 'top_panel_position_above';
+$lang_sr_url      = '/o-meni.php';
+include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
             <div class="top_panel_image_hover"></div>
@@ -29,10 +27,10 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Primena Points of You" — biće dodat naknadno.</p>
+                            <p>Content coming soon.</p>
                         </section>
                     </article>
                 </div>
             </div>
         </div>
-<?php include 'includes/footer.php'; ?>
+<?php include '../includes/footer.php'; ?>

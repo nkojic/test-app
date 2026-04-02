@@ -3,6 +3,7 @@ $meta_description = '';  // TODO: SEO opis stranice
 $page_title  = 'Inner Dynamic Method | Coaching, Wing Wave, Points of You';
 $body_class  = 'page home2 body_filled article_style_stretch scheme_original top_panel_over sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page = 'home';
+$lang_en_url      = '/en/index.php';
 include 'includes/header.php';
 ?>
         <section class="slider_wrap slider_fullscreen slider_engine_revo slider_alias_home-2">

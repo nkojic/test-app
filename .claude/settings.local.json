@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(head -10 grep -rn \"instagram.com\\\\|facebook.com\" 'D:/AI projekti/test-app/uslovi/public_html/' --include=*.php)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "Bash(echo \"=== SLIKE KOJE POSTOJE ALI SE NE KORISTE ===\" echo \"\" find /d/AI projekti/test-app/images -type f \\\\\\( -iname \"*.jpg\" -o -iname \"*.jpeg\" -o -iname \"*.png\" -o -iname \"*.gif\" -o -iname \"*.svg\" -o -iname \"*.webp\" \\\\\\))",
+      "Bash(while read:*)",
+      "Bash(do if:*)",
+      "Bash(then echo:*)",
+      "Bash(head -10 grep -n \"lang_sr_url\\\\|lang_en_url\\\\|sr\\\\.svg\\\\|en\\\\.svg\" \"D:/AI projekti/test-app/uslovi/public_html/kontakt.php\")",
+      "Bash(xargs -I{} basename {})"
     ]
   }
 }

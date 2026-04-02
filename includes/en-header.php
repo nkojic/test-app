@@ -4,12 +4,13 @@ $_wing_wave_pages    = ['wing-wave','wing-wave-sesija'];
 $_poy_pages          = ['points-of-you','points-of-you-sesija','primena-points-of-you'];
 $_inner_pages        = array_merge($_coaching_pages, $_wing_wave_pages, $_poy_pages);
 
-if (!isset($lang)) $lang = 'sr';
-if (!isset($lang_sr_url)) $lang_sr_url = strtok($_SERVER['REQUEST_URI'], '?');
-if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
+$lang       = 'en';
+$base_path  = '../';
+if (!isset($lang_sr_url)) $lang_sr_url = '/index.php';
+if (!isset($lang_en_url)) $lang_en_url = strtok($_SERVER['REQUEST_URI'], '?');
 ?>
 <!DOCTYPE html>
-<html lang="<?php echo $lang; ?>" class="scheme_original">
+<html lang="en" class="scheme_original">
 
 <head>
     <title><?php echo htmlspecialchars($page_title); ?></title>
@@ -30,29 +31,28 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
     <?php endif; ?>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i|Montserrat:400,700|Mr+De+Haviland|Open+Sans:300,400,600,700,800|Raleway:100,200,300,300i,400,400i,500,600,700,700i,800,900&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese' type='text/css' media='all' />
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/tooltipster/tooltipster.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/tooltipster/tooltipster-light.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/essgrid/esg.settings.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/revslider/rev.settings.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/core.animation.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/shortcodes.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/instagram-widget.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/skin.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/custom-style.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/skin.responsive.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/custom.responsive.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/grid.layout/grid.layout.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/core.messages.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/isotope/core.portfolio.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/hotspot/style.min.css' type='text/css' media='all' />
-    <!-- tooltipster.css već učitan gore (js/vendor/tooltipster/tooltipster.css) -->
-    <link rel='stylesheet' href='js/vendor/swiper/swiper.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='js/vendor/essgrid/lightbox.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/plugins.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/custom.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/tooltipster/tooltipster.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/tooltipster/tooltipster-light.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/essgrid/esg.settings.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/revslider/rev.settings.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/fontello/css/fontello.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/core.animation.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/shortcodes.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/instagram-widget.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/skin.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/custom-style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/responsive.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/skin.responsive.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/custom.responsive.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/grid.layout/grid.layout.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/core.messages.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/isotope/core.portfolio.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/hotspot/style.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/swiper/swiper.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../js/vendor/essgrid/lightbox.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/plugins.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='../css/custom.css' type='text/css' media='all' />
     <?php if (!empty($extra_head_html)) echo $extra_head_html; ?>
 </head>
 
@@ -68,7 +68,7 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                 <div class="menu_button icon-menu"></div>
                 <div class="logo">
                     <a href="index.php">
-                        <img src="images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
+                        <img src="../images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
                     </a>
                 </div>
             </div>
@@ -82,43 +82,43 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_coaching_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Coaching</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">O Coachingu</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'coaching-gde-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="coaching-gde-pravi-razliku.php">Gde Coaching pravi razliku</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'coaching-proces') ? ' current-menu-item' : ''; ?>"><a href="coaching-proces.php">Coaching Proces</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">About Coaching</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'coaching-gde-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="coaching-making-a-difference.php">Where Coaching Makes a Difference</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'coaching-proces') ? ' current-menu-item' : ''; ?>"><a href="coaching-process.php">Coaching Process</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'business-coaching') ? ' current-menu-item' : ''; ?>"><a href="business-coaching.php">Business Coaching</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'sportski-coaching') ? ' current-menu-item' : ''; ?>"><a href="sportski-coaching.php">Sportski Coaching</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'sportski-coaching') ? ' current-menu-item' : ''; ?>"><a href="sports-coaching.php">Sports Coaching</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'life-coaching') ? ' current-menu-item' : ''; ?>"><a href="life-coaching.php">Life Coaching</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_wing_wave_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Wing Wave</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item<?php echo ($current_page == 'wing-wave') ? ' current-menu-item' : ''; ?>"><a href="wing-wave.php">Wing Wave Coaching Emocija</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'wing-wave-sesija') ? ' current-menu-item' : ''; ?>"><a href="wing-wave-sesija.php">Wing Wave Sesija</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'wing-wave') ? ' current-menu-item' : ''; ?>"><a href="wing-wave.php">Wing Wave Emotional Coaching</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'wing-wave-sesija') ? ' current-menu-item' : ''; ?>"><a href="wing-wave-session.php">Wing Wave Session</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_poy_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Points of You</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item<?php echo ($current_page == 'points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you.php">Points of You Coaching</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'points-of-you-sesija') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-sesija.php">Points of You Sesija</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="primena-points-of-you.php">Primena Points of You</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'points-of-you-sesija') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-session.php">Points of You Session</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-application.php">Applying Points of You</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </li>
-                            <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : (($current_page == 'o-meni') ? ' current-menu-item' : ''); ?>"><a href="o-meni.php">O Meni</a>
+                            <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : (($current_page == 'o-meni') ? ' current-menu-item' : ''); ?>"><a href="about-me.php">About Me</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item<?php echo ($current_page == 'moj-pristup-radu') ? ' current-menu-item' : ''; ?>"><a href="moj-pristup-radu.php">Moj pristup radu</a></li>
-                                    <li class="menu-item<?php echo ($current_page == 'spoj-koji-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                                    <li class="menu-item<?php echo ($current_page == 'moj-pristup-radu') ? ' current-menu-item' : ''; ?>"><a href="my-approach.php">My Approach</a></li>
+                                    <li class="menu-item<?php echo ($current_page == 'spoj-koji-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="the-connection.php">The Connection That Makes a Difference</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item<?php echo ($current_page == 'utisci') ? ' current-menu-item' : ''; ?>"><a href="utisci.php">Utisci</a></li>
-                            <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['ponude','sportski-klubovi','kompanije']) ? ' current-menu-ancestor' : (($current_page == 'ponude') ? ' current-menu-item' : ''); ?>"><a href="ponude.php">Ponude</a>
+                            <li class="menu-item<?php echo ($current_page == 'utisci') ? ' current-menu-item' : ''; ?>"><a href="testimonials.php">Testimonials</a></li>
+                            <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['ponude','sportski-klubovi','kompanije']) ? ' current-menu-ancestor' : (($current_page == 'ponude') ? ' current-menu-item' : ''); ?>"><a href="offers.php">Offers</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item<?php echo ($current_page == 'sportski-klubovi') ? ' current-menu-item' : ''; ?>"><a href="sportski-klubovi.php">Sportski klubovi</a></li>
-                                    <li class="menu-item<?php echo ($current_page == 'kompanije') ? ' current-menu-item' : ''; ?>"><a href="kompanije.php">Kompanije</a></li>
+                                    <li class="menu-item<?php echo ($current_page == 'sportski-klubovi') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs.php">Sports Clubs</a></li>
+                                    <li class="menu-item<?php echo ($current_page == 'kompanije') ? ' current-menu-item' : ''; ?>"><a href="companies.php">Companies</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item<?php echo ($current_page == 'kontakt') ? ' current-menu-item' : ''; ?>"><a href="kontakt.php">Kontakt</a></li>
+                            <li class="menu-item<?php echo ($current_page == 'kontakt') ? ' current-menu-item' : ''; ?>"><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
                     <div class="search_wrap search_style_regular search_state_fixed search_ajax">
@@ -153,10 +153,10 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                         <div class="top_panel_top_user_area">
                             <div class="lang_switch" style="display:flex;gap:10px;align-items:center;">
                                 <a href="<?php echo htmlspecialchars($lang_sr_url, ENT_QUOTES, 'UTF-8'); ?>" lang="sr" aria-label="Srpski" title="Srpski" style="display:inline-flex;align-items:center;">
-                                    <img src="images/flags/sr.svg" alt="Srpski" width="20" height="14" style="display:block;border:1px solid rgba(0,0,0,.15);border-radius:2px;" />
+                                    <img src="../images/flags/sr.svg" alt="Srpski" width="20" height="14" style="display:block;border:1px solid rgba(0,0,0,.15);border-radius:2px;" />
                                 </a>
                                 <a href="<?php echo htmlspecialchars($lang_en_url, ENT_QUOTES, 'UTF-8'); ?>" lang="en" aria-label="English" title="English" style="display:inline-flex;align-items:center;">
-                                    <img src="images/flags/en.svg" alt="English" width="20" height="14" style="display:block;border:1px solid rgba(0,0,0,.15);border-radius:2px;" />
+                                    <img src="../images/flags/en.svg" alt="English" width="20" height="14" style="display:block;border:1px solid rgba(0,0,0,.15);border-radius:2px;" />
                                 </a>
                             </div>
                         </div>
@@ -182,8 +182,8 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                         <div class="contact_logo">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
-                                    <img src="images/logo_dark-1.png" class="logo_fixed" alt="Inner Dynamic Method" width="238" height="56">
+                                    <img src="../images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
+                                    <img src="../images/logo_dark-1.png" class="logo_fixed" alt="Inner Dynamic Method" width="238" height="56">
                                 </a>
                             </div>
                         </div>
@@ -195,43 +195,43 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
                                         <ul class="sub-menu">
                                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_coaching_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Coaching</a>
                                                 <ul class="sub-menu">
-                                                    <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">O Coachingu</a></li>
-                                                    <li class="menu-item<?php echo ($current_page == 'coaching-gde-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="coaching-gde-pravi-razliku.php">Gde Coaching pravi razliku</a></li>
-                                                    <li class="menu-item<?php echo ($current_page == 'coaching-proces') ? ' current-menu-item' : ''; ?>"><a href="coaching-proces.php">Coaching Proces</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">About Coaching</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'coaching-gde-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="coaching-making-a-difference.php">Where Coaching Makes a Difference</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'coaching-proces') ? ' current-menu-item' : ''; ?>"><a href="coaching-process.php">Coaching Process</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'business-coaching') ? ' current-menu-item' : ''; ?>"><a href="business-coaching.php">Business Coaching</a></li>
-                                                    <li class="menu-item<?php echo ($current_page == 'sportski-coaching') ? ' current-menu-item' : ''; ?>"><a href="sportski-coaching.php">Sportski Coaching</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'sportski-coaching') ? ' current-menu-item' : ''; ?>"><a href="sports-coaching.php">Sports Coaching</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'life-coaching') ? ' current-menu-item' : ''; ?>"><a href="life-coaching.php">Life Coaching</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_wing_wave_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Wing Wave</a>
                                                 <ul class="sub-menu">
-                                                    <li class="menu-item<?php echo ($current_page == 'wing-wave') ? ' current-menu-item' : ''; ?>"><a href="wing-wave.php">Wing Wave Coaching Emocija</a></li>
-                                                    <li class="menu-item<?php echo ($current_page == 'wing-wave-sesija') ? ' current-menu-item' : ''; ?>"><a href="wing-wave-sesija.php">Wing Wave Sesija</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'wing-wave') ? ' current-menu-item' : ''; ?>"><a href="wing-wave.php">Wing Wave Emotional Coaching</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'wing-wave-sesija') ? ' current-menu-item' : ''; ?>"><a href="wing-wave-session.php">Wing Wave Session</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_poy_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Points of You</a>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item<?php echo ($current_page == 'points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you.php">Points of You Coaching</a></li>
-                                                    <li class="menu-item<?php echo ($current_page == 'points-of-you-sesija') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-sesija.php">Points of You Sesija</a></li>
-                                                    <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="primena-points-of-you.php">Primena Points of You</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'points-of-you-sesija') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-session.php">Points of You Session</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-application.php">Applying Points of You</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : (($current_page == 'o-meni') ? ' current-menu-item' : ''); ?>"><a href="o-meni.php">O Meni</a>
+                                    <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : (($current_page == 'o-meni') ? ' current-menu-item' : ''); ?>"><a href="about-me.php">About Me</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item<?php echo ($current_page == 'moj-pristup-radu') ? ' current-menu-item' : ''; ?>"><a href="moj-pristup-radu.php">Moj pristup radu</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'spoj-koji-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'moj-pristup-radu') ? ' current-menu-item' : ''; ?>"><a href="my-approach.php">My Approach</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'spoj-koji-pravi-razliku') ? ' current-menu-item' : ''; ?>"><a href="the-connection.php">The Connection That Makes a Difference</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item<?php echo ($current_page == 'utisci') ? ' current-menu-item' : ''; ?>"><a href="utisci.php">Utisci</a></li>
-                                    <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['ponude','sportski-klubovi','kompanije']) ? ' current-menu-ancestor' : (($current_page == 'ponude') ? ' current-menu-item' : ''); ?>"><a href="ponude.php">Ponude</a>
+                                    <li class="menu-item<?php echo ($current_page == 'utisci') ? ' current-menu-item' : ''; ?>"><a href="testimonials.php">Testimonials</a></li>
+                                    <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['ponude','sportski-klubovi','kompanije']) ? ' current-menu-ancestor' : (($current_page == 'ponude') ? ' current-menu-item' : ''); ?>"><a href="offers.php">Offers</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item<?php echo ($current_page == 'sportski-klubovi') ? ' current-menu-item' : ''; ?>"><a href="sportski-klubovi.php">Sportski klubovi</a></li>
-                                            <li class="menu-item<?php echo ($current_page == 'kompanije') ? ' current-menu-item' : ''; ?>"><a href="kompanije.php">Kompanije</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'sportski-klubovi') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs.php">Sports Clubs</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'kompanije') ? ' current-menu-item' : ''; ?>"><a href="companies.php">Companies</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item<?php echo ($current_page == 'kontakt') ? ' current-menu-item' : ''; ?>"><a href="kontakt.php">Kontakt</a></li>
+                                    <li class="menu-item<?php echo ($current_page == 'kontakt') ? ' current-menu-item' : ''; ?>"><a href="contact.php">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
