@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';
+﻿<?php
+$meta_description = 'Discover what the coaching process looks like, from the first conversation to concrete insights and new steps. Coaching is not focused on the past, but on creating the desired future.';
+$meta_keywords    = 'coaching process, what coaching looks like, coaching session, insights, change, new direction';
 $page_title       = 'Coaching Process | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'coaching-proces';
@@ -27,7 +28,33 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <p>What the coaching process looks like</p>
+                            <p>Coaching usually begins with a conversation about a topic that is currently important to you. This may be a decision you want to make, a situation that is weighing on you, or a desire for change and personal development.</p>
+                            <p>Through guided questions, reflection and various coaching methods, we arrive at a deeper understanding of the situation.</p>
+                            <h3>In this process, these often emerge:</h3>
+                            <ul>
+                                <li>new insights</li>
+                                <li>different perspectives</li>
+                                <li>an understanding of the emotions behind decisions</li>
+                                <li>clearer next steps</li>
+                            </ul>
+                            <p>Coaching is not focused on the past, but on understanding the present and creating the desired future.</p>
+                            <p>What you can expect from coaching</p>
+                            <h3>Clients often notice that through coaching they:</h3>
+                            <ul>
+                                <li>understand themselves and their reactions more clearly</li>
+                                <li>make decisions more easily</li>
+                                <li>release stress and inner blocks</li>
+                                <li>develop self-confidence</li>
+                                <li>find a new direction in life or work</li>
+                            </ul>
+                            <p>Coaching does not provide ready-made solutions. It helps you find solutions that are truly your own.</p>
+                            <p>The space where things shift</p>
+                            <p>In everyday life, we rarely have the space to stop and think about ourselves without pressure and expectations.</p>
+                            <p>Coaching is exactly that space.</p>
+                            <p>Ideas, insights and decisions that drive change often arise there.</p>
+                            <p>✨ If you feel it's time for a new perspective or the next step in your life or career, coaching can be a powerful support on that journey.</p>
+                            <p>Schedule your coaching session and take the first step towards change.</p>
                         </section>
                     </article>
                 </div>

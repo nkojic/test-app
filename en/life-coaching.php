@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';
+﻿<?php
+$meta_description = 'Life coaching for a clearer direction, more balance and a deeper connection with yourself. We help you make decisions aligned with your values and your authentic life path.';
+$meta_keywords    = 'life coaching, personal development, life change, balance, self-confidence, life direction';
 $page_title       = 'Life Coaching | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'life-coaching';
@@ -27,7 +28,22 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <p>Life coaching</p>
+                            <p>A clearer direction, more balance and a deeper connection with yourself</p>
+                            <p>In everyday life, we often focus on obligations, expectations and responsibilities. We rarely pause to ask ourselves where we are actually going and whether we are living in accordance with what truly matters to us.</p>
+                            <p>Life coaching is a process that helps people better understand themselves, their values and desires, and make decisions that are in line with their authentic life direction.</p>
+                            <p>It is a space where you can pause, see the bigger picture and explore questions that often remain on the sidelines in the everyday rush.</p>
+                            <h3>Life coaching can help when:</h3>
+                            <ul>
+                                <li>you feel you are at a crossroads in life</li>
+                                <li>you want a change in career or personal life</li>
+                                <li>you are looking for more balance between different areas of life</li>
+                                <li>you want to develop self-confidence and a clearer direction</li>
+                                <li>you feel you can do more, but don't know where to start</li>
+                            </ul>
+                            <p>Through the coaching process, new insights, different perspectives and the courage to make changes that have long been waiting often emerge.</p>
+                            <p>Sometimes all it takes is a little space for reflection for a completely new direction to appear.</p>
+                            <p>✨ If you want more clarity, balance and connection with yourself, book a life coaching session.</p>
                         </section>
                     </article>
                 </div>

@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';
+﻿<?php
+$meta_description = 'Wingwave® coaching is a modern method for releasing emotional blocks, combining EMDR, NLP and the myostatic test. Fast and precise change of inner patterns.';
+$meta_keywords    = 'wingwave coaching, emotional blocks, EMDR, NLP, myostatic test, stress, fears';
 $page_title       = 'Wing Wave Emotional Coaching | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'wing-wave';
@@ -27,7 +28,43 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <p>Wingwave® emotional coaching</p>
+                            <p>Sometimes we know what we want, but something inside holds us back. Stress, past experiences, unconscious fears or blocks can influence our decisions, mood and ability to move forward.</p>
+                            <p>Wingwave® coaching is a modern method of working with emotions that helps quickly and precisely release emotional blocks and activate inner resources.</p>
+                            <p>This method combines insights from psychology, neurobiology and coaching and is used worldwide for working with stress, fears, self-confidence, performance and personal development.</p>
+                            <p>Wingwave® coaching was developed by German psychologists Cora Besser-Siegmund and Harry Siegmund in Hamburg in the early 2000s.</p>
+                            <p>The method was created as a combination of several highly effective approaches:</p>
+                            <ul>
+                                <li>EMDR – an emotion processing technique using guided eye movements</li>
+                                <li>NLP (Neuro-Linguistic Programming) – working with inner patterns and language</li>
+                                <li>Myostatic test – a muscle test that helps precisely identify the source of stress</li>
+                            </ul>
+                            <p>The name of the method comes from two ideas:</p>
+                            <ul>
+                                <li>"Wing" – a metaphor of the butterfly's wing and the "butterfly effect", where a small change can cause a large effect</li>
+                                <li>"Wave" – an association with "brainwave", a moment of insight or new idea</li>
+                            </ul>
+                            <p>In other words, a small intervention in the right place can trigger a major inner change.</p>
+                            <p>Wingwave is used in various areas of life:</p>
+                            <ul>
+                                <li>stress management</li>
+                                <li>overcoming fears and blocks</li>
+                                <li>building self-confidence</li>
+                                <li>preparation for public speaking or important events</li>
+                                <li>working with athletes and performance</li>
+                                <li>emotional balance and personal development</li>
+                            </ul>
+                            <p>The method is particularly useful when you rationally know what you need to do – but your emotions are sabotaging you.</p>
+                            <p>Wingwave coaching does not analyse a problem endlessly. Instead, the focus is on finding the emotional trigger and resolving it quickly.</p>
+                            <p>The goal is for:</p>
+                            <ul>
+                                <li>stress to lose its intensity</li>
+                                <li>emotions to return to balance</li>
+                                <li>you to regain a sense of inner stability</li>
+                                <li>your natural resources and potential to be activated</li>
+                            </ul>
+                            <p>Sometimes only a small shift in the way the brain processes one experience is needed – to change the entire experience of a situation.</p>
+                            <p>That is exactly what Wingwave does.</p>
                         </section>
                     </article>
                 </div>

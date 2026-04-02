@@ -1,5 +1,6 @@
-<?php
-$meta_description = '';
+﻿<?php
+$meta_description = 'Coaching is a space where real change begins. Discover how coaching helps you gain clarity about yourself, find your own solutions and take the first step towards meaningful change.';
+$meta_keywords    = 'coaching, personal development, coaching session, change, Inner Dynamic Method';
 $page_title       = 'About Coaching | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'coaching';
@@ -27,7 +28,14 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <p>Coaching – a space where real change begins</p>
+                            <p>There are moments in life when we know we want change, but we don't know where to start. Sometimes we have many ideas but clarity is missing. Sometimes we feel we can do more, but something inside holds us back.</p>
+                            <p>This is exactly where coaching has its greatest value.</p>
+                            <p>Coaching is a process that helps people gain a clearer understanding of themselves, their thoughts, emotions and potential – and find their own solutions to the challenges they face.</p>
+                            <p>It is a structured, yet deeply personal process of conversation, exploration and insight that leads to change.</p>
+                            <p>Unlike advice or ready-made solutions, coaching starts from the idea that every person already has the answers and resources within them – sometimes all it takes is the right question or method to discover them.</p>
+                            <p>✨ If you feel it's time for the next step in your life or career, coaching can be the beginning of that change.</p>
+                            <p>Schedule your session and take the first step towards what you want.</p>
                         </section>
                     </article>
                 </div>
