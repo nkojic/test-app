@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';
+$meta_description = 'Inner Dynamic Method for sports clubs – mental training, sports coaching and Wingwave® for athletes and teams. Develop mental strength and peak performance.';
+$meta_keywords    = 'sports clubs, athlete mental training, sports coaching, Wingwave sport, performance';
 $page_title       = 'Sports Clubs | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-klubovi';

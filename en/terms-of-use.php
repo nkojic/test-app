@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';
+$meta_description = 'Terms of use of the Inner Dynamic Method website – rules and conditions for using the website and its content.';
+$meta_keywords    = 'terms of use, conditions, Inner Dynamic Method';
 $page_title       = 'Terms of Use | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'uslovi-koriscenja';

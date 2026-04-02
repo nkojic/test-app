@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';
+$meta_description = 'Contact Inner Dynamic Method and book your coaching, Wingwave® or Points of You® session. Reach us by phone, email or contact form.';
+$meta_keywords    = 'contact, book a session, coaching Belgrade, Inner Dynamic Method contact';
 $page_title       = 'Contact | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kontakt';

@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';
+$meta_description = 'Read client testimonials about working with Inner Dynamic Method – experiences with coaching sessions, Wingwave® and Points of You® method.';
+$meta_keywords    = 'testimonials, client experiences, coaching reviews, Wingwave experience, Inner Dynamic Method';
 $page_title       = 'Testimonials | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'utisci';

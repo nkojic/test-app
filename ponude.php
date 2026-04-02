@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';  // TODO: SEO opis stranice
+$meta_description = 'Pogledajte ponude Inner Dynamic Method – individualne i grupne coaching sesije, Wingwave® i Points of You® tretmani. Pronađite paket koji odgovara vašim potrebama.';
+$meta_keywords    = 'ponude, coaching paketi, Wingwave sesija, Points of You sesija, Inner Dynamic Method cene';
 $page_title       = 'Ponude | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'ponude';

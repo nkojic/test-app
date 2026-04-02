@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';  // TODO: SEO opis stranice
+$meta_description = 'Inner Dynamic Method za kompanije – coaching za timove, lidere i menadžere. Razvoj liderstva, komunikacije i organizacione kulture kroz savremene coaching metode.';
+$meta_keywords    = 'coaching za kompanije, timski coaching, liderstvo, menadžment razvoj, organizacioni coaching';
 $page_title       = 'Kompanije | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kompanije';

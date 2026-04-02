@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';  // TODO: SEO opis stranice
+$meta_description = 'Pročitajte utiske klijenata o radu sa Inner Dynamic Method – iskustva sa coaching sesijama, Wingwave® i Points of You® metodom.';
+$meta_keywords    = 'utisci, iskustva klijenata, coaching recenzije, Wingwave iskustvo, Inner Dynamic Method';
 $page_title       = 'Utisci | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'utisci';

@@ -1,5 +1,8 @@
 User-agent: *
 Disallow: /includes/
 Disallow: /cgi-bin/
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/flags/
 
 Sitemap: https://innerdynamicmethod.rs/sitemap.xml

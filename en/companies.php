@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';
+$meta_description = 'Inner Dynamic Method for companies – coaching for teams, leaders and managers. Leadership, communication and organisational culture development through modern coaching methods.';
+$meta_keywords    = 'coaching for companies, team coaching, leadership, management development, organisational coaching';
 $page_title       = 'Companies | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kompanije';

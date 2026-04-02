@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';  // TODO: SEO opis stranice
+$meta_description = 'Politika privatnosti sajta Inner Dynamic Method – informacije o prikupljanju, korišćenju i zaštiti ličnih podataka korisnika.';
+$meta_keywords    = 'politika privatnosti, zaštita podataka, GDPR, Inner Dynamic Method';
 $page_title       = 'Politika privatnosti | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'politika-privatnosti';

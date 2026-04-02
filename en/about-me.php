@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';
+$meta_description = 'Learn about the Inner Dynamic Method approach. A combination of Bowen therapy, coaching, Wingwave® and Points of You® for holistic support in personal and professional change.';
+$meta_keywords    = 'about me, Inner Dynamic Method, coaching, Bowen therapy, personal development, Belgrade';
 $page_title       = 'About Me | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'o-meni';

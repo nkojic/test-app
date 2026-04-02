@@ -1,5 +1,6 @@
 <?php
-$meta_description = '';  // TODO: SEO opis stranice
+$meta_description = 'Inner Dynamic Method – coaching, Wingwave® i Points of You® u Beogradu. Holistički pristup ličnoj i profesionalnoj promeni kroz rad sa telom, emocijama i perspektivom.';
+$meta_keywords    = 'Inner Dynamic Method, coaching Beograd, Wingwave coaching, Points of You, lični razvoj, promena';
 $page_title  = 'Inner Dynamic Method | Coaching, Wing Wave, Points of You';
 $body_class  = 'page home2 body_filled article_style_stretch scheme_original top_panel_over sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page = 'home';

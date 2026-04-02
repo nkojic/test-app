@@ -451,7 +451,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 // -----------------------------
 // Prikaz stranice
 // -----------------------------
-$meta_description = '';  // TODO: SEO opis stranice
+$meta_description = 'Kontaktirajte Inner Dynamic Method i zakažite coaching, Wingwave® ili Points of You® sesiju. Dostupni smo putem telefona, emaila ili kontakt forme.';
+$meta_keywords    = 'kontakt, zakazivanje sesije, coaching Beograd, Inner Dynamic Method kontakt';
 $page_title       = 'Kontakt | Inner Dynamic Method';
 $body_class       = 'contactus page body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kontakt';
