@@ -1,7 +1,8 @@
 <?php
 header("HTTP/1.0 404 Not Found");
 
-$meta_description = '';  // TODO: SEO opis stranice
+$meta_description = '';
+$meta_robots     = 'noindex, nofollow';
 $page_title      = 'Stranica nije pronađena | Inner Dynamic Method';
 $body_class      = 'singlepost page body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page    = '';

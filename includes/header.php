@@ -4,31 +4,73 @@ $_wing_wave_pages    = ['wing-wave','wing-wave-sesija'];
 $_poy_pages          = ['points-of-you','points-of-you-sesija','primena-points-of-you'];
 $_inner_pages        = array_merge($_coaching_pages, $_wing_wave_pages, $_poy_pages);
 
-if (!isset($lang)) $lang = 'sr';
+if (!isset($lang))        $lang        = 'sr';
 if (!isset($lang_sr_url)) $lang_sr_url = strtok($_SERVER['REQUEST_URI'], '?');
 if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
+if (!isset($meta_robots)) $meta_robots = 'index, follow';
+if (!isset($og_image))    $og_image    = '';
+
+$_site_url  = 'https://innerdynamicmethod.rs';
+$_canonical = $_site_url . strtok($_SERVER['REQUEST_URI'], '?');
+$_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo_dark-1.png';
 ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang; ?>" class="scheme_original">
 
 <head>
-    <title><?php echo htmlspecialchars($page_title); ?></title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title><?php echo htmlspecialchars($page_title); ?></title>
+    <meta name="robots" content="<?php echo htmlspecialchars($meta_robots); ?>">
     <?php if (!empty($meta_description)): ?>
     <meta name="description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
     <?php endif; ?>
+
+    <!-- Canonical + hreflang -->
+    <link rel="canonical" href="<?php echo htmlspecialchars($_canonical, ENT_QUOTES, 'UTF-8'); ?>">
+    <link rel="alternate" hreflang="sr" href="<?php echo htmlspecialchars($_site_url . $lang_sr_url, ENT_QUOTES, 'UTF-8'); ?>">
+    <link rel="alternate" hreflang="en" href="<?php echo htmlspecialchars($_site_url . $lang_en_url, ENT_QUOTES, 'UTF-8'); ?>">
+    <link rel="alternate" hreflang="x-default" href="<?php echo htmlspecialchars($_canonical, ENT_QUOTES, 'UTF-8'); ?>">
+
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Inner Dynamic Method">
+    <meta property="og:locale" content="sr_RS">
+    <meta property="og:url" content="<?php echo htmlspecialchars($_canonical, ENT_QUOTES, 'UTF-8'); ?>">
     <meta property="og:title" content="<?php echo htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8'); ?>">
     <?php if (!empty($meta_description)): ?>
     <meta property="og:description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
     <?php endif; ?>
-    <?php if (!empty($og_image)): ?>
-    <meta property="og:image" content="<?php echo htmlspecialchars($og_image, ENT_QUOTES, 'UTF-8'); ?>">
-    <?php endif; ?>
-    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i|Montserrat:400,700|Mr+De+Haviland|Open+Sans:300,400,600,700,800|Raleway:100,200,300,300i,400,400i,500,600,700,700i,800,900&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese' type='text/css' media='all' />
+    <meta property="og:image" content="<?php echo htmlspecialchars($_og_image, ENT_QUOTES, 'UTF-8'); ?>">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/images/logo_dark-1.png">
+    <link rel="apple-touch-icon" href="/images/logo_dark-1.png">
+
+    <!-- Schema.org JSON-LD -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Inner Dynamic Method",
+        "url": "https://innerdynamicmethod.rs",
+        "telephone": "+381641112202",
+        "email": "office@bowencentar.rs",
+        "logo": "https://innerdynamicmethod.rs/images/logo_dark-1.png",
+        "image": "https://innerdynamicmethod.rs/images/logo_dark-1.png",
+        "address": { "@type": "PostalAddress", "addressCountry": "RS" },
+        "serviceType": ["Coaching", "Wing Wave Coaching", "Points of You Coaching"],
+        "sameAs": [
+            "https://www.instagram.com/ovdeisada_/",
+            "https://www.facebook.com/ovdeisada"
+        ]
+    }
+    </script>
+
+    <!-- Google Fonts (preconnect + display=swap) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i|Montserrat:400,700|Mr+De+Haviland|Open+Sans:300,400,600,700,800|Raleway:100,200,300,300i,400,400i,500,600,700,700i,800,900&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese&display=swap' type='text/css' media='all' />
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/tooltipster/tooltipster.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/tooltipster/tooltipster-light.css' type='text/css' media='all' />
