@@ -39,7 +39,7 @@ if (!isset($lang_en_url)) $lang_en_url = '/en/index.php';
     <link rel='stylesheet' href='css/core.animation.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/shortcodes.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/instagram-widget.css' type='text/css' media='all' />
-    <!-- css/skin.css uklonjen — prazan fajl (0 bytes) -->
+    <link rel='stylesheet' href='css/skin.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/custom-style.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/skin.responsive.css' type='text/css' media='all' />
