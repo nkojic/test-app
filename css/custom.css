@@ -6,8 +6,8 @@
 :root {
     --color-primary:        #af3850;  /* vino/ciklama - dugmad, linkovi, akcenti */
     --color-primary-hover:  #8c3040;  /* tamnija varijanta za hover */
-    --color-secondary:      #8c8c8c;  /* tamna sivo/zelena - sekundarni elementi */
-    --color-secondary-hover:#737373;  /* tamnija varijanta za hover */
+    --color-secondary:      #5f6e44;  /* tamna sivo/zelena - sekundarni elementi */
+    --color-secondary-hover:#4d5a37;  /* tamnija varijanta za hover */
 }
 /* ============================================= */
 
@@ -42,7 +42,7 @@
 	background-image: url(../images/1170x700.jpg) !important;
 }
 .sc_custom_1459502371704 {
-	background-color: #8c8c8c !important;
+	background-color: #5f6e44 !important;
 }
 .sc_custom_1459503174388 {
 	background-color: #f8f8f8 !important;
@@ -65,7 +65,7 @@
     background-color: #f8f8f8!important;
 }
 .sc_custom_1459776057240 {
-    background-color: #8c8c8c!important;
+    background-color: #5f6e44!important;
 }
 .sc_custom_1459766274952 {
     margin-bottom: 13px!important;
@@ -88,7 +88,7 @@
 
 
 .sc_custom_1459502371704{
-	background-color:#8c8c8c!important;
+	background-color:#5f6e44!important;
 }
 .sc_custom_1459783303281{
 	background-color:#f8f8f8!important;
@@ -110,7 +110,7 @@
 }
 
 .sc_custom_1459502371704 {
-	background-color: #8c8c8c!important;
+	background-color: #5f6e44!important;
 }
 
 .sc_custom_1459783303281 {
@@ -176,7 +176,7 @@
     background-color: #f8f8f8!important;
 }
 .sc_custom_1459776057240 {
-    background-color: #8c8c8c!important;
+    background-color: #5f6e44!important;
 }
 .sc_custom_1459766274952 {
     margin-bottom: 13px!important;
@@ -365,17 +365,17 @@
 .cu_block_15 {
 	text-transform: none;
 	text-align:center!important;
-	color:#8c8c8c!important;
+	color:#5f6e44!important;
 }
 .cu_block_16 {
 	margin-bottom:2.1em;
 	font-size:1.46em;
-	color:#8c8c8c;
+	color:#5f6e44;
 }
 .cu_block_17 {
 	margin-top:3em;
-	background-color:#8c8c8c!important; 
-	border-color:#8c8c8c!important;
+	background-color:#5f6e44!important; 
+	border-color:#5f6e44!important;
 }
 .cu_block_18 {
 	margin-top:1.5em;
@@ -582,7 +582,7 @@
 .home .custom_services_pricing {
 	margin-top:0px;
 	margin-bottom:0px;
-	background-color:#8c8c8c;
+	background-color:#5f6e44;
 	width:585px;
 }
 .home .sc_icon_shape_square {
@@ -616,8 +616,8 @@
 .home2 .cu_block_5 .aligncenter {
 	margin-top:2em;
 	margin-bottom:7em;
-	background-color:#8c8c8c!important; 
-	border-color:#8c8c8c!important;
+	background-color:#5f6e44!important; 
+	border-color:#5f6e44!important;
 }
 .home2 .cu_block_5 .sc_align_center {
 	margin-top:2.45em;
@@ -659,8 +659,8 @@
 }
 .home2 .custom_product_we_use .sc_button {
 	margin-top:2em;
-	background-color:#8c8c8c!important;
-	border-color:#8c8c8c!important;
+	background-color:#5f6e44!important;
+	border-color:#5f6e44!important;
 }
 #sc_tab_009_1 .sc_button,
 #sc_tab_009_2 .sc_button,
@@ -669,8 +669,8 @@
 #sc_tab_655_1_94 .sc_button {
 	margin-top:2em;
 	margin-bottom:5em;
-	background-color:#8c8c8c; 
-	border-color:#8c8c8c;
+	background-color:#5f6e44; 
+	border-color:#5f6e44;
 }
 
 .home3 .body_wrap {
@@ -855,8 +855,8 @@
 	margin-bottom:2.4em;
 }
 .services1 .sc_button.odd {
-	background-color:#8c8c8c; 
-	border-color:#8c8c8c;
+	background-color:#5f6e44; 
+	border-color:#5f6e44;
 }
 .services1 .sc_button.even {
 	background-color:#af3850; 
@@ -869,8 +869,8 @@
 .services2 .sc_tabs_style_2 .sc_button_style_filled {
 	margin-top:2em;
 	margin-bottom:5em;
-	background-color:#8c8c8c; 
-	border-color:#8c8c8c;
+	background-color:#5f6e44; 
+	border-color:#5f6e44;
 }
 .services2 .sc_promo_block {
 	width: 50%; 
@@ -890,8 +890,8 @@
 }
 .aboutus .sc_skills_count.odd,
 .single-team .sc_skills_count.even {
-	background-color:#8c8c8c!important; 
-	border-color:#8c8c8c!important;
+	background-color:#5f6e44!important; 
+	border-color:#5f6e44!important;
 }
 .aboutus .sc_skills_count.even
 .single-team .sc_skills_count.odd {
@@ -955,7 +955,7 @@
 	width:220px;
 }
 .typographic .icon-point {
-	color:#8c8c8c;
+	color:#5f6e44;
 }
 .typographic .cu_pds_2 span  {
 	color:#757575!important;
@@ -1027,8 +1027,8 @@
 	border-color:#323232!important;
 }
 .sc_button.blue {
-	background-color:#8c8c8c!important;
-	border-color:#8c8c8c!important;
+	background-color:#5f6e44!important;
+	border-color:#5f6e44!important;
 }
 .shortcodespg .sc_googlemap {
 	width:100%;
@@ -1056,8 +1056,8 @@
 	border-color:#000000
 }
 #sc_skills_diagram_935 .sc_skills_item.odd .sc_skills_count {
-	background-color:#8c8c8c;
-	border-color:#8c8c8c
+	background-color:#5f6e44;
+	border-color:#5f6e44
 }
 #sc_skills_diagram_935 .sc_skills_item.even .sc_skills_count {
 	background-color:#af3850; 
