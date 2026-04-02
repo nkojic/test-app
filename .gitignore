@@ -4,3 +4,6 @@ images/*
 
 # Originalni zip
 *.zip
+
+# Referentni materijal sa starog sajta - ne ide na GitHub
+uslovi/
