@@ -29,7 +29,50 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Utisci" — biće dodat naknadno.</p>
+                            <div id="sc_testimonials_utisci" class="sc_testimonials sc_testimonials_style_testimonials-1 cu_fullwidth">
+                                <div class="sc_slider_swiper swiper-slider-container sc_slider_nopagination sc_slider_controls sc_slider_controls_side" data-interval="7000" data-slides-min-width="250">
+                                    <div class="slides swiper-wrapper">
+                                        <div class="swiper-slide" data-style="width:100%;">
+                                            <div class="sc_testimonial_item">
+                                                <div class="sc_testimonial_content">
+                                                    <p>Imam 55 godina i moje iskustvo je pozitivno. Zahvaljujem se što mi je pomogla da se oslobodim dugotrajnih bolova u ramenu, nadlaktici i ukočenim leđima koja su nastala od dugog sedenja na poslu i lošeg držanja. Posle tri sesije nestao mi je bol u ramenu i nadlaktici i vrat se opustio. Opuštenije spavam, pokretljivost ruke i ramena je veća. Uz rad sa njom uspela sam da se povratim psiho fizički.</p>
+                                                    <p>Topla preporuka!</p>
+                                                </div>
+                                                <div class="sc_testimonial_author">
+                                                    <a href="#" class="sc_testimonial_author_name">Ivana, 55</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide" data-style="width:100%;">
+                                            <div class="sc_testimonial_item">
+                                                <div class="sc_testimonial_content">
+                                                    <p>Ovo je jedina terapija koja mi je donela duboko opuštanje već nakon prvog tretmana. Prija i telu i umu. Neprocenjiv je osećaj mira i lakoće posle sesije koji ostaje dugo i nastavlja se iz dana u dan. Mali, nežni pokreti, a promena velika.</p>
+                                                    <p>Topla preporuka za sve koji žele da se sami vole ❤️</p>
+                                                </div>
+                                                <div class="sc_testimonial_author">
+                                                    <a href="#" class="sc_testimonial_author_name">Tanja, 47</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide" data-style="width:100%;">
+                                            <div class="sc_testimonial_item">
+                                                <div class="sc_testimonial_content">
+                                                    <p>Upoznala sam je sasvim slučajno pre nekoliko godina — nikada do tada nisam ni čula za ovaj pristup. Odlučila sam da probam zbog čestih bolova u leđima i mišićima, usled stresa i dugog sedenja. Iskustvo je bilo predivno — tretman je izuzetno prijatan i opuštajući, odmah bih osetila veliko olakšanje. Ali više od toga, želim da istaknem njen odnos prema klijentima — ona je jedna divna, nežna, empatična osoba koja te istinski sluša i razume.</p>
+                                                    <p>Svakome bih preporučila od srca!</p>
+                                                </div>
+                                                <div class="sc_testimonial_author">
+                                                    <a href="#" class="sc_testimonial_author_name">Tamara, 48</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sc_slider_controls_wrap">
+                                        <a class="sc_slider_prev" href="#"></a>
+                                        <a class="sc_slider_next" href="#"></a>
+                                    </div>
+                                    <div class="sc_slider_pagination_wrap"></div>
+                                </div>
+                            </div>
                         </section>
                     </article>
                 </div>

@@ -27,7 +27,50 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Content coming soon.</p>
+                            <div id="sc_testimonials_utisci" class="sc_testimonials sc_testimonials_style_testimonials-1 cu_fullwidth">
+                                <div class="sc_slider_swiper swiper-slider-container sc_slider_nopagination sc_slider_controls sc_slider_controls_side" data-interval="7000" data-slides-min-width="250">
+                                    <div class="slides swiper-wrapper">
+                                        <div class="swiper-slide" data-style="width:100%;">
+                                            <div class="sc_testimonial_item">
+                                                <div class="sc_testimonial_content">
+                                                    <p>I am 55 years old and my experience has been very positive. I am grateful for the help I received in relieving long-standing pain in my shoulder, upper arm and stiff back caused by sitting at work for long hours and poor posture. After just three sessions the pain in my shoulder and upper arm disappeared and my neck relaxed. I sleep more peacefully and my range of motion has greatly improved.</p>
+                                                    <p>Warm recommendation!</p>
+                                                </div>
+                                                <div class="sc_testimonial_author">
+                                                    <a href="#" class="sc_testimonial_author_name">Ivana, 55</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide" data-style="width:100%;">
+                                            <div class="sc_testimonial_item">
+                                                <div class="sc_testimonial_content">
+                                                    <p>This is the only approach that brought me deep relaxation already after the first session. It is good for both body and mind. The indescribable sense of peace and lightness after each session stays with me for days and keeps growing. Small, gentle moves — yet a big change.</p>
+                                                    <p>A warm recommendation for everyone who wants to show themselves some love ❤️</p>
+                                                </div>
+                                                <div class="sc_testimonial_author">
+                                                    <a href="#" class="sc_testimonial_author_name">Tanja, 47</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide" data-style="width:100%;">
+                                            <div class="sc_testimonial_item">
+                                                <div class="sc_testimonial_content">
+                                                    <p>I came across her completely by chance a few years ago — I had never even heard of this approach before. I decided to try it because of frequent back and muscle pain caused by stress and long hours of sitting. The experience was wonderful — the sessions are extremely pleasant and relaxing, and I would feel great relief immediately. But more than that, I want to highlight the relationship with clients — she is a wonderful, gentle, empathetic person who truly listens and understands.</p>
+                                                    <p>I would recommend her to everyone, wholeheartedly!</p>
+                                                </div>
+                                                <div class="sc_testimonial_author">
+                                                    <a href="#" class="sc_testimonial_author_name">Tamara, 48</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sc_slider_controls_wrap">
+                                        <a class="sc_slider_prev" href="#"></a>
+                                        <a class="sc_slider_next" href="#"></a>
+                                    </div>
+                                    <div class="sc_slider_pagination_wrap"></div>
+                                </div>
+                            </div>
                         </section>
                     </article>
                 </div>
