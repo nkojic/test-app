@@ -152,4 +152,154 @@
         <priority>0.3</priority>
     </url>
 
+    <!-- EN - Početna -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- EN - Coaching -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/coaching-making-a-difference.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/coaching-process.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/business-coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sports-coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/life-coaching.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- EN - Wing Wave -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/wing-wave.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/wing-wave-session.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- EN - Points of You -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/points-of-you.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/points-of-you-session.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/points-of-you-application.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- EN - O Meni -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/about-me.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/my-approach.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/the-connection.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- EN - Utisci -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/testimonials.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- EN - Ponude -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/offers.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sports-clubs.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/companies.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- EN - Kontakt -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/contact.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- EN - Pravne stranice -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/terms-of-use.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/privacy-policy.php</loc>
+        <lastmod>2026-04-02</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
 </urlset>

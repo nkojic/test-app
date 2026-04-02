@@ -1,11 +1,22 @@
 /*other*/
 
+/* =============================================
+   PRIMARNE BOJE SAJTA - menjati ovde
+   ============================================= */
+:root {
+    --color-primary:        #af3850;  /* vino/ciklama - dugmad, linkovi, akcenti */
+    --color-primary-hover:  #8c3040;  /* tamnija varijanta za hover */
+    --color-secondary:      #8c8c8c;  /* tamna sivo/zelena - sekundarni elementi */
+    --color-secondary-hover:#737373;  /* tamnija varijanta za hover */
+}
+/* ============================================= */
+
 
 .sc_custom_1459259915855 {
 	background-color: #f8f8f8!important;
 }
 .sc_custom_1459330954110 {
-	background-color: #f9a392!important;
+	background-color: #af3850!important;
 }
 .sc_custom_1459343317996 {
 	background-color: #f8f8f8!important;
@@ -31,7 +42,7 @@
 	background-image: url(../images/1170x700.jpg) !important;
 }
 .sc_custom_1459502371704 {
-	background-color: #8ed4cc !important;
+	background-color: #8c8c8c !important;
 }
 .sc_custom_1459503174388 {
 	background-color: #f8f8f8 !important;
@@ -48,13 +59,13 @@
     background-color: #f8f8f8!important;
 }
 .sc_custom_1459330954110 {
-    background-color: #f9a392!important;
+    background-color: #af3850!important;
 }
 .sc_custom_1459773167157 {
     background-color: #f8f8f8!important;
 }
 .sc_custom_1459776057240 {
-    background-color: #8ed4cc!important;
+    background-color: #8c8c8c!important;
 }
 .sc_custom_1459766274952 {
     margin-bottom: 13px!important;
@@ -77,7 +88,7 @@
 
 
 .sc_custom_1459502371704{
-	background-color:#8ed4cc!important;
+	background-color:#8c8c8c!important;
 }
 .sc_custom_1459783303281{
 	background-color:#f8f8f8!important;
@@ -99,7 +110,7 @@
 }
 
 .sc_custom_1459502371704 {
-	background-color: #8ed4cc!important;
+	background-color: #8c8c8c!important;
 }
 
 .sc_custom_1459783303281 {
@@ -159,13 +170,13 @@
     background-color: #f8f8f8!important;
 }
 .sc_custom_1459330954110 {
-    background-color: #f9a392!important;
+    background-color: #af3850!important;
 }
 .sc_custom_1459773167157 {
     background-color: #f8f8f8!important;
 }
 .sc_custom_1459776057240 {
-    background-color: #8ed4cc!important;
+    background-color: #8c8c8c!important;
 }
 .sc_custom_1459766274952 {
     margin-bottom: 13px!important;
@@ -354,17 +365,17 @@
 .cu_block_15 {
 	text-transform: none;
 	text-align:center!important;
-	color:#8ed4cc!important;
+	color:#8c8c8c!important;
 }
 .cu_block_16 {
 	margin-bottom:2.1em;
 	font-size:1.46em;
-	color:#8ed4cc;
+	color:#8c8c8c;
 }
 .cu_block_17 {
 	margin-top:3em;
-	background-color:#8ed4cc!important; 
-	border-color:#8ed4cc!important;
+	background-color:#8c8c8c!important; 
+	border-color:#8c8c8c!important;
 }
 .cu_block_18 {
 	margin-top:1.5em;
@@ -571,7 +582,7 @@
 .home .custom_services_pricing {
 	margin-top:0px;
 	margin-bottom:0px;
-	background-color:#8ed4cc;
+	background-color:#8c8c8c;
 	width:585px;
 }
 .home .sc_icon_shape_square {
@@ -582,8 +593,8 @@
 	margin-bottom:0px;
 	font-size:18px;
 	color:#ffffff!important;
-	background-color:#f9a392!important;
-	border-color:#f9a392!important;
+	background-color:#af3850!important;
+	border-color:#af3850!important;
 }
 .home .columns_nofluid .sc_align_center {
 	margin-bottom:1.8em;
@@ -605,8 +616,8 @@
 .home2 .cu_block_5 .aligncenter {
 	margin-top:2em;
 	margin-bottom:7em;
-	background-color:#8ed4cc!important; 
-	border-color:#8ed4cc!important;
+	background-color:#8c8c8c!important; 
+	border-color:#8c8c8c!important;
 }
 .home2 .cu_block_5 .sc_align_center {
 	margin-top:2.45em;
@@ -634,7 +645,7 @@
 	font-family: "Mr De Haviland", cursive; 
 	text-transform: none;
 	margin-bottom:-0.05em;
-	color:#f9a392;
+	color:#af3850;
 }
 .home2 h1.even {
 	margin-bottom:0.3em;
@@ -648,8 +659,8 @@
 }
 .home2 .custom_product_we_use .sc_button {
 	margin-top:2em;
-	background-color:#8ed4cc!important;
-	border-color:#8ed4cc!important;
+	background-color:#8c8c8c!important;
+	border-color:#8c8c8c!important;
 }
 #sc_tab_009_1 .sc_button,
 #sc_tab_009_2 .sc_button,
@@ -658,8 +669,8 @@
 #sc_tab_655_1_94 .sc_button {
 	margin-top:2em;
 	margin-bottom:5em;
-	background-color:#8ed4cc; 
-	border-color:#8ed4cc;
+	background-color:#8c8c8c; 
+	border-color:#8c8c8c;
 }
 
 .home3 .body_wrap {
@@ -679,7 +690,7 @@
 	margin-bottom:2em;
 }
 .home3 .icon-garden111 {
-	color:#f9a392!important;
+	color:#af3850!important;
 }
 .home3 .esg-filters {
 	margin-bottom: 45px!important; 
@@ -711,7 +722,7 @@
 	margin-right:10px;
 	margin-left:10px;
 	width:9em;
-	color:#f9a392!important;
+	color:#af3850!important;
 	background-color:#ffffff!important;
 	border-color:#ffffff!important;
 }
@@ -844,12 +855,12 @@
 	margin-bottom:2.4em;
 }
 .services1 .sc_button.odd {
-	background-color:#8ed4cc; 
-	border-color:#8ed4cc;
+	background-color:#8c8c8c; 
+	border-color:#8c8c8c;
 }
 .services1 .sc_button.even {
-	background-color:#f9a392; 
-	border-color:#f9a392;
+	background-color:#af3850; 
+	border-color:#af3850;
 }
 
 .services2 .sc_tabs_style_2 {
@@ -858,8 +869,8 @@
 .services2 .sc_tabs_style_2 .sc_button_style_filled {
 	margin-top:2em;
 	margin-bottom:5em;
-	background-color:#8ed4cc; 
-	border-color:#8ed4cc;
+	background-color:#8c8c8c; 
+	border-color:#8c8c8c;
 }
 .services2 .sc_promo_block {
 	width: 50%; 
@@ -871,7 +882,7 @@
 
 .services2 .icon-garden111, 
 .pricetables .icon-garden111 {
-	color:#f9a392!important;
+	color:#af3850!important;
 }
 
 .aboutus .sc_image_shape_square {
@@ -879,13 +890,13 @@
 }
 .aboutus .sc_skills_count.odd,
 .single-team .sc_skills_count.even {
-	background-color:#8ed4cc!important; 
-	border-color:#8ed4cc!important;
+	background-color:#8c8c8c!important; 
+	border-color:#8c8c8c!important;
 }
 .aboutus .sc_skills_count.even
 .single-team .sc_skills_count.odd {
-	background-color:#F9A392!important; 
-	border-color:#F9A392!important;
+	background-color:#af3850!important; 
+	border-color:#af3850!important;
 }
 
 .aboutus .sc_team_style_team-3,
@@ -944,7 +955,7 @@
 	width:220px;
 }
 .typographic .icon-point {
-	color:#8ed4cc;
+	color:#8c8c8c;
 }
 .typographic .cu_pds_2 span  {
 	color:#757575!important;
@@ -1016,8 +1027,8 @@
 	border-color:#323232!important;
 }
 .sc_button.blue {
-	background-color:#8ed4cc!important;
-	border-color:#8ed4cc!important;
+	background-color:#8c8c8c!important;
+	border-color:#8c8c8c!important;
 }
 .shortcodespg .sc_googlemap {
 	width:100%;
@@ -1045,12 +1056,12 @@
 	border-color:#000000
 }
 #sc_skills_diagram_935 .sc_skills_item.odd .sc_skills_count {
-	background-color:#8ed4cc;
-	border-color:#8ed4cc
+	background-color:#8c8c8c;
+	border-color:#8c8c8c
 }
 #sc_skills_diagram_935 .sc_skills_item.even .sc_skills_count {
-	background-color:#F9A392; 
-	border-color:#F9A392;
+	background-color:#af3850; 
+	border-color:#af3850;
 }
 .gpolaroid .soc_low {
 	display: block; 
@@ -1089,6 +1100,21 @@
     z-index: 2;
     padding-top: 60px !important;
     padding-bottom: 60px !important;
+}
+
+/* Fix: lang_switch overlay - zastavice klikabilne u celosti */
+.lang_switch {
+    position: relative;
+    z-index: 9999;
+}
+
+.lang_switch img {
+    transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.lang_switch img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 4px rgba(0,0,0,.2);
 }
 
 /* Fix: 3 tamne kartice - bypass isotope, direktni flexbox layout */
