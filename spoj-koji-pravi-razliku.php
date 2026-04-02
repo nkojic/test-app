@@ -56,6 +56,13 @@ include 'includes/header.php';
                             <p>Na taj način coaching proces postaje dublji, brži i često transformativan.</p>
                             <p>✨ Ako želite da sagledate svoju situaciju iz nove perspektive i pokrenete stvarnu promenu, rado ću vas podržati na tom putu.</p>
                             <p>Zakažite svoju sesiju i napravite prvi korak.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching.php">O coachingu</a></li>
+                                <li><a href="/wing-wave.php">Wingwave® coaching emocija</a></li>
+                                <li><a href="/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/moj-pristup-radu.php">Moj pristup radu</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

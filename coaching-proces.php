@@ -57,6 +57,11 @@ include 'includes/header.php';
                             <p>U njemu često nastaju ideje, uvidi i odluke koje pokreću promene.</p>
                             <p>✨ Ako osećate da je vreme za novu perspektivu ili sledeći korak u vašem životu ili karijeri, coaching može biti snažna podrška na tom putu.</p>
                             <p>Zakažite svoju coaching sesiju i napravite prvi korak ka promeni.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching.php">O coachingu</a></li>
+                                <li><a href="/coaching-gde-pravi-razliku.php">Gde coaching pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

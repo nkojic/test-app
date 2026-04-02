@@ -47,6 +47,12 @@ include 'includes/header.php';
                             <p>Sve više uspešnih kompanija i lidera koristi coaching kao alat za razvoj jer razumeju da kvalitet odluka često zavisi od kvaliteta razmišljanja koje stoji iza njih.</p>
                             <p>Kada lider dobije jasniju perspektivu, koristi imaju i tim, organizacija i rezultati.</p>
                             <p>✨ Ako želite da razvijete svoje liderstvo i donesete jasnije poslovne odluke, zakažite business coaching sesiju.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching.php">O coachingu</a></li>
+                                <li><a href="/kompanije.php">Coaching za kompanije</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

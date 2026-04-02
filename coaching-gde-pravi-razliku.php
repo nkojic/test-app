@@ -67,6 +67,12 @@ include 'includes/header.php';
                             </ul>
                             <p>Ponekad je dovoljan samo jedan razgovor da se stvari poslože na drugačiji način.</p>
                             <p>A kada se promeni način razmišljanja, menjaju se i odluke koje donosimo.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching.php">O coachingu</a></li>
+                                <li><a href="/coaching-proces.php">Kako izgleda coaching proces</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

@@ -55,6 +55,11 @@ include '../includes/en-header.php';
                             <p>Ideas, insights and decisions that drive change often arise there.</p>
                             <p>✨ If you feel it's time for a new perspective or the next step in your life or career, coaching can be a powerful support on that journey.</p>
                             <p>Schedule your coaching session and take the first step towards change.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/coaching-making-a-difference.php">Where coaching makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

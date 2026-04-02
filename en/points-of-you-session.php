@@ -75,6 +75,11 @@ include '../includes/en-header.php';
                             <p>Points of You® is not a tool you use. It is an experience that moves you.</p>
                             <p>Sometimes gently. Sometimes surprisingly directly.</p>
                             <p>But always — exactly where it needs to be.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/en/points-of-you-application.php">Applying Points of You</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

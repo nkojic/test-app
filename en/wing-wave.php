@@ -65,6 +65,12 @@ include '../includes/en-header.php';
                             </ul>
                             <p>Sometimes only a small shift in the way the brain processes one experience is needed – to change the entire experience of a situation.</p>
                             <p>That is exactly what Wingwave does.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/wing-wave-session.php">What a Wingwave session looks like</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                                <li><a href="/en/my-approach.php">My approach</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

@@ -70,6 +70,12 @@ include '../includes/en-header.php';
                             <p>If you feel you need a new perspective, clearer insight or a space for deeper understanding of yourself and your choices, Points of You coaching can be a powerful tool on that journey.</p>
                             <p>✨ Sometimes a small shift in perspective is all it takes for entirely new possibilities to appear.</p>
                             <p>Schedule your Points of You session and take the first step towards a new view of yourself and your life.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/points-of-you-session.php">What a Points of You session looks like</a></li>
+                                <li><a href="/en/points-of-you-application.php">Applying Points of You</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

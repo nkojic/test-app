@@ -65,6 +65,12 @@ include '../includes/en-header.php';
                             </ul>
                             <p>Sometimes just one conversation is enough for things to fall into place in a different way.</p>
                             <p>And when the way we think changes, so do the decisions we make.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/coaching-process.php">What the coaching process looks like</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

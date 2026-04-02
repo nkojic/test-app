@@ -38,6 +38,12 @@ include 'includes/header.php';
                             <p>Za razliku od saveta ili gotovih rešenja, coaching polazi od ideje da svaka osoba već u sebi ima odgovore i resurse – ponekad je potrebno samo pravo pitanje ili metoda da ih otkrijemo.</p>
                             <p>✨ Ako osećate da je vreme za sledeći korak u vašem životu ili karijeri, coaching može biti početak te promene.</p>
                             <p>Zakažite svoju sesiju i napravite prvi korak ka onome što želite.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching-gde-pravi-razliku.php">Gde coaching pravi razliku</a></li>
+                                <li><a href="/coaching-proces.php">Kako izgleda coaching proces</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

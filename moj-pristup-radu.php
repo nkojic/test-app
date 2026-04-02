@@ -80,6 +80,13 @@ include 'includes/header.php';
                             <p>I upravo tada promene počinju da se dešavaju prirodno.</p>
                             <p>✨ Ako osećate da je vreme za novu perspektivu, više balansa i unutrašnju promenu, rado ću vas podržati na tom putu.</p>
                             <p>Zakažite svoju sesiju i napravite prvi korak.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching.php">O coachingu</a></li>
+                                <li><a href="/wing-wave.php">Wingwave® coaching emocija</a></li>
+                                <li><a href="/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

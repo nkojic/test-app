@@ -59,6 +59,11 @@ include '../includes/en-header.php';
                                 <li>mental clarity</li>
                                 <li>a reduction in the emotional charge around the problem</li>
                             </ul>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/wing-wave.php">Wingwave® emotional coaching</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

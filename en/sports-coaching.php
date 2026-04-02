@@ -44,6 +44,12 @@ include '../includes/en-header.php';
                             <p>Sports coaching is used in both individual and team sports, as support for athletes at various stages of development.</p>
                             <p>It is often the mental preparation that helps an athlete reach their full potential at the crucial moment.</p>
                             <p>✨ If you want to develop mental strength and stability in sport, book a sports coaching session.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/sports-clubs.php">Cooperation with sports clubs</a></li>
+                                <li><a href="/en/wing-wave.php">Wingwave® emotional coaching</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

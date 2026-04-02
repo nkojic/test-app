@@ -72,6 +72,12 @@ include 'includes/header.php';
                             <p>Ako osećate da vam je potrebna nova perspektiva, jasniji uvid ili prostor za dublje razumevanje sebe i svojih izbora, Points of You coaching može biti snažan alat na tom putu.</p>
                             <p>✨ Ponekad je dovoljan mali pomak u perspektivi da se pojave potpuno nove mogućnosti.</p>
                             <p>Zakažite svoju Points of You sesiju i napravite prvi korak ka novom pogledu na sebe i svoj život.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/points-of-you-sesija.php">Kako izgleda Points of You sesija</a></li>
+                                <li><a href="/primena-points-of-you.php">Primena Points of You metodologije</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

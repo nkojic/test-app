@@ -45,6 +45,12 @@ include '../includes/en-header.php';
                             <p>More and more successful companies and leaders use coaching as a development tool because they understand that the quality of decisions often depends on the quality of thinking behind them.</p>
                             <p>When a leader gains a clearer perspective, the benefits extend to the team, the organisation and the results.</p>
                             <p>✨ If you want to develop your leadership and make clearer business decisions, book a business coaching session.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/companies.php">Coaching for companies</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

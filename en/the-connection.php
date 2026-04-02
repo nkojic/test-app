@@ -54,6 +54,13 @@ include '../includes/en-header.php';
                             <p>In this way, the coaching process becomes deeper, faster and often transformative.</p>
                             <p>✨ If you want to look at your situation from a new perspective and set real change in motion, I will be happy to support you on that journey.</p>
                             <p>Schedule your session and take the first step.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/wing-wave.php">Wingwave® emotional coaching</a></li>
+                                <li><a href="/en/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/en/my-approach.php">My approach</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

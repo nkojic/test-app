@@ -61,6 +61,11 @@ include 'includes/header.php';
                                 <li>mentalnu jasnoću</li>
                                 <li>smanjenje emocionalnog naboja oko problema</li>
                             </ul>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/wing-wave.php">Wingwave® coaching emocija</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

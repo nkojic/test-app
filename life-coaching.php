@@ -46,6 +46,12 @@ include 'includes/header.php';
                             <p>Kroz coaching proces često se pojavljuju novi uvidi, drugačije perspektive i hrabrost da se naprave promene koje su dugo čekale.</p>
                             <p>Ponekad je potrebno samo malo prostora za razmišljanje da bi se pojavio potpuno novi pravac.</p>
                             <p>✨ Ako želite više jasnoće, balansa i povezanosti sa sobom, zakažite life coaching sesiju.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching.php">O coachingu</a></li>
+                                <li><a href="/coaching-proces.php">Kako izgleda coaching proces</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

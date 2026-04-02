@@ -78,6 +78,13 @@ include '../includes/en-header.php';
                             <p>And it is precisely then that changes begin to happen naturally.</p>
                             <p>✨ If you feel it is time for a new perspective, more balance and inner change, I will be happy to support you on that journey.</p>
                             <p>Schedule your session and take the first step.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/wing-wave.php">Wingwave® emotional coaching</a></li>
+                                <li><a href="/en/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

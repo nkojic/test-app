@@ -66,6 +66,11 @@ include '../includes/en-header.php';
                                 <li>develop focus and self-confidence</li>
                                 <li>find new strategies for challenging situations</li>
                             </ul>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/en/points-of-you-session.php">What a Points of You session looks like</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

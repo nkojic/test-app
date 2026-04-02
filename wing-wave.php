@@ -67,6 +67,12 @@ include 'includes/header.php';
                             </ul>
                             <p>Ponekad je potreban samo mali pomak u načinu na koji mozak obrađuje jedno iskustvo – da bi se promenio čitav doživljaj situacije.</p>
                             <p>To je upravo ono što Wingwave radi.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/wing-wave-sesija.php">Kako izgleda Wingwave sesija</a></li>
+                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
+                                <li><a href="/moj-pristup-radu.php">Moj pristup radu</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

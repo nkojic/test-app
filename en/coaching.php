@@ -36,6 +36,12 @@ include '../includes/en-header.php';
                             <p>Unlike advice or ready-made solutions, coaching starts from the idea that every person already has the answers and resources within them – sometimes all it takes is the right question or method to discover them.</p>
                             <p>✨ If you feel it's time for the next step in your life or career, coaching can be the beginning of that change.</p>
                             <p>Schedule your session and take the first step towards what you want.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching-making-a-difference.php">Where coaching makes a difference</a></li>
+                                <li><a href="/en/coaching-process.php">What the coaching process looks like</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

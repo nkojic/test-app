@@ -46,6 +46,12 @@ include 'includes/header.php';
                             <p>Sportski coaching se koristi kako u individualnim sportovima, tako i u timskim sportovima, kao podrška sportistima na različitim nivoima razvoja.</p>
                             <p>Često je upravo mentalna priprema ono što pomaže sportisti da u ključnom trenutku ostvari svoj puni potencijal.</p>
                             <p>✨ Ako želite da razvijete mentalnu snagu i stabilnost u sportu, zakažite sportski coaching.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/coaching.php">O coachingu</a></li>
+                                <li><a href="/sportski-klubovi.php">Saradnja sa sportskim klubovima</a></li>
+                                <li><a href="/wing-wave.php">Wingwave® coaching emocija</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

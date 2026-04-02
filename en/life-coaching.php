@@ -44,6 +44,12 @@ include '../includes/en-header.php';
                             <p>Through the coaching process, new insights, different perspectives and the courage to make changes that have long been waiting often emerge.</p>
                             <p>Sometimes all it takes is a little space for reflection for a completely new direction to appear.</p>
                             <p>✨ If you want more clarity, balance and connection with yourself, book a life coaching session.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/coaching-process.php">What the coaching process looks like</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

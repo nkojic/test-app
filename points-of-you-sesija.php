@@ -77,6 +77,11 @@ include 'includes/header.php';
                             <p>Points of You® nije alat koji „koristite". To je iskustvo koje Vas pomeri.</p>
                             <p>Nekad nežno. Nekad iznenađujuće direktno.</p>
                             <p>Ali uvek — tačno tamo gde treba.</p>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/primena-points-of-you.php">Primena Points of You metodologije</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

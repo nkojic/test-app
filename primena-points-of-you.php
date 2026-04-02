@@ -68,6 +68,11 @@ include 'includes/header.php';
                                 <li>razviju fokus i samopouzdanje</li>
                                 <li>pronađu nove strategije za izazovne situacije</li>
                             </ul>
+                            <h2>Pročitajte i</h2>
+                            <ul>
+                                <li><a href="/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/points-of-you-sesija.php">Kako izgleda Points of You sesija</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>
