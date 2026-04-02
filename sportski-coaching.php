@@ -29,7 +29,22 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Sportski Coaching" — biće dodat naknadno.</p>
+                            <p>Sportski coaching</p>
+                            <p>Mentalna snaga koja pravi razliku</p>
+                            <p>U vrhunskom sportu razlika između dobrog i izuzetnog rezultata često nije samo u fizičkoj spremi – već u mentalnoj snazi.</p>
+                            <p>Sportisti se suočavaju sa pritiskom rezultata, očekivanjima okoline, strahom od greške i potrebom da u ključnim trenucima ostanu fokusirani i stabilni.</p>
+                            <p>Sportski coaching pomaže sportistima da razviju mentalnu stabilnost, samopouzdanje i fokus koji su neophodni za vrhunske performanse.</p>
+                            <h3>Kroz coaching proces sportisti uče kako da:</h3>
+                            <ul>
+                                <li>upravljaju stresom i pritiskom takmičenja</li>
+                                <li>prevaziđu blokade i strah od neuspeha</li>
+                                <li>razviju samopouzdanje</li>
+                                <li>poboljšaju koncentraciju i fokus</li>
+                                <li>izgrade stabilan mentalni pristup treningu i takmičenju</li>
+                            </ul>
+                            <p>Sportski coaching se koristi kako u individualnim sportovima, tako i u timskim sportovima, kao podrška sportistima na različitim nivoima razvoja.</p>
+                            <p>Često je upravo mentalna priprema ono što pomaže sportisti da u ključnom trenutku ostvari svoj puni potencijal.</p>
+                            <p>✨ Ako želite da razvijete mentalnu snagu i stabilnost u sportu, zakažite sportski coaching.</p>
                         </section>
                     </article>
                 </div>

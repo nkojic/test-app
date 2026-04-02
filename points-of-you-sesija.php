@@ -29,7 +29,53 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Points of You Sesija" — biće dodat naknadno.</p>
+                            <p>Points of You® drugačiji razgovor sa sobom</p>
+                            <p>Postoje razgovori u kojima sve zvuči pametno… a ništa se zapravo ne pomeri. I postoje oni drugi, tihi, iskreni, pomalo neočekivani, posle kojih više ne možete da se vratite na staro.</p>
+                            <p>Points of You® pripada toj drugoj vrsti.</p>
+                            <p>To nije klasičan coaching. Nema „tačnih odgovora", nema analize do iznemoglosti. Ovde ulazimo kroz sliku, osećaj i ličnu priču — i baš zato dolazimo dublje i brže.</p>
+                            <p>Jer kada ne morate odmah da objasnite sebe, lakše počnete da govorite istinu.</p>
+                            <p>Points of You sesija je veoma interesantna. Na prvi pogled — jednostavna. Pred Vama su fotografije i reči. Vi birate ono što Vas „pozove".</p>
+                            <p>A onda počinje proces.</p>
+                            <p>Ne pričamo odmah o problemu. Pričamo o slici.</p>
+                            <p>Šta vidite. Šta osećate. Šta Vas tu dotiče.</p>
+                            <p>I polako, bez forsiranja, priča počinje da se otvara sama.</p>
+                            <p>Ono što je bilo „u glavi" postaje jasno. Ono što je bilo neizrečeno — dobija glas.</p>
+                            <p>Points of You® ima svoju strukturu, ali ona nije kruta — više je kao mapa koja Vas vodi kroz proces:</p>
+                            <h3>Videti – Osetiti – Razumeti – Uraditi</h3>
+                            <ul>
+                                <li>prvo zastanete i vidite stvari drugačije</li>
+                                <li>zatim dozvolite sebi da osetite šta je zaista tu</li>
+                                <li>onda dolazi uvid — Vaš, ne nametnut</li>
+                                <li>i na kraju, akcija, mali, konkretan korak napred</li>
+                            </ul>
+                            <p>Jer uvid bez akcije ostaje samo lepa misao.</p>
+                            <p>Points of You metoda je drugačija, jer ne ide „direktno na problem".</p>
+                            <p>Umesto toga:</p>
+                            <ul>
+                                <li>koristi slike i metafore da zaobiđe otpor</li>
+                                <li>uključuje i emociju i um u isto vreme</li>
+                                <li>daje sigurnost da kažete više — bez pritiska</li>
+                            </ul>
+                            <p>I odjednom… stvari koje su bile zamršene postaju jednostavne.</p>
+                            <p>Ne zato što su nestale — nego zato što ih vidite iz novog ugla.</p>
+                            <p>Ne postoje instant rešenja.</p>
+                            <h3>Ali možete da očekujete:</h3>
+                            <ul>
+                                <li>jasnoću tamo gde je konfuzija</li>
+                                <li>olakšanje tamo gde je težina</li>
+                                <li>novi pogled tamo gde ste bili „zaglavljeni"</li>
+                            </ul>
+                            <p>I ono najvažnije — kontakt sa sobom koji je potpuno autentičan.</p>
+                            <h3>Ovo je za Vas ako:</h3>
+                            <ul>
+                                <li>previše razmišljate, a premalo osećate</li>
+                                <li>znate šta „treba", ali ne znate zašto ne ide</li>
+                                <li>želite promenu koja je stvarna, a ne samo racionalna</li>
+                            </ul>
+                            <h3>Na kraju…</h3>
+                            <p>Points of You® nije alat koji „koristite". To je iskustvo koje Vas pomeri.</p>
+                            <p>Nekad nežno. Nekad iznenađujuće direktno.</p>
+                            <p>Ali uvek — tačno tamo gde treba.</p>
                         </section>
                     </article>
                 </div>

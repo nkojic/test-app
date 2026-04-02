@@ -29,7 +29,43 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Gde Coaching pravi razliku" — biće dodat naknadno.</p>
+                            <p>Kada se koristi coaching</p>
+                            <p>Ljudi dolaze na coaching iz različitih razloga, ali gotovo uvek postoji jedan zajednički motiv: želja za promenom.</p>
+                            <h3>Coaching može biti veoma koristan kada:</h3>
+                            <ul>
+                                <li>osećate da ste zaglavljeni u istoj situaciji ili obrascu</li>
+                                <li>želite da donesete važnu životnu ili poslovnu odluku</li>
+                                <li>prolazite kroz promenu u životu ili karijeri</li>
+                                <li>želite da razvijete samopouzdanje i jasniji pravac</li>
+                                <li>suočavate se sa stresom ili unutrašnjim blokadama</li>
+                                <li>želite da razvijete svoj potencijal i postignete više</li>
+                            </ul>
+                            <p>Coaching nije rezervisan samo za ljude koji imaju problem – često ga koriste upravo oni koji žele da rastu, napreduju i razvijaju svoje kapacitete.</p>
+                            <p>Ko sve može imati benefite od coachinga</p>
+                            <p>Jedna od najvećih prednosti coachinga je njegova univerzalnost.</p>
+                            <h3>Coaching koriste:</h3>
+                            <ul>
+                                <li>ljudi koji žele lični razvoj</li>
+                                <li>preduzetnici i lideri</li>
+                                <li>menadžeri i timovi u kompanijama</li>
+                                <li>sportisti i performeri</li>
+                                <li>ljudi koji prolaze kroz životne promene</li>
+                                <li>svi koji žele više jasnoće, balansa i smisla u svom životu</li>
+                            </ul>
+                            <p>Drugim rečima – svako ko želi da bolje razume sebe i napravi korak napred.</p>
+                            <p>Šta coaching zapravo donosi</p>
+                            <p>Kvalitetan coaching proces može doneti vrlo konkretne promene.</p>
+                            <h3>Klijenti često primećuju da:</h3>
+                            <ul>
+                                <li>jasnije razumeju svoje misli i emocije</li>
+                                <li>lakše donose odluke</li>
+                                <li>razvijaju samopouzdanje</li>
+                                <li>bolje upravljaju stresom</li>
+                                <li>pronalaze nova rešenja za stare probleme</li>
+                                <li>pokreću promene koje su dugo odlagali</li>
+                            </ul>
+                            <p>Ponekad je dovoljan samo jedan razgovor da se stvari poslože na drugačiji način.</p>
+                            <p>A kada se promeni način razmišljanja, menjaju se i odluke koje donosimo.</p>
                         </section>
                     </article>
                 </div>

@@ -29,7 +29,14 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "O Coachingu" — biće dodat naknadno.</p>
+                            <p>Coaching – prostor u kom počinju prave promene</p>
+                            <p>Postoje trenuci u životu kada znamo da želimo promenu, ali ne znamo tačno odakle da krenemo. Ponekad imamo mnogo ideja, ali nedostaje jasnoća. Nekada osećamo da možemo više, ali nas nešto iznutra zaustavlja.</p>
+                            <p>Upravo tu coaching ima svoju najveću vrednost.</p>
+                            <p>Coaching je proces koji pomaže ljudima da jasnije sagledaju sebe, svoje misli, emocije i potencijale – i da pronađu sopstvena rešenja za izazove sa kojima se suočavaju.</p>
+                            <p>To je strukturisan, ali istovremeno vrlo ličan proces razgovora, istraživanja i uvida koji vodi ka promeni.</p>
+                            <p>Za razliku od saveta ili gotovih rešenja, coaching polazi od ideje da svaka osoba već u sebi ima odgovore i resurse – ponekad je potrebno samo pravo pitanje ili metoda da ih otkrijemo.</p>
+                            <p>✨ Ako osećate da je vreme za sledeći korak u vašem životu ili karijeri, coaching može biti početak te promene.</p>
+                            <p>Zakažite svoju sesiju i napravite prvi korak ka onome što želite.</p>
                         </section>
                     </article>
                 </div>

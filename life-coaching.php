@@ -29,7 +29,22 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Life Coaching" — biće dodat naknadno.</p>
+                            <p>Life coaching</p>
+                            <p>Jasniji pravac, više balansa i veća povezanost sa sobom</p>
+                            <p>U svakodnevnom životu često smo fokusirani na obaveze, očekivanja i odgovornosti. Retko zastanemo da se zapitamo gde zapravo idemo i da li živimo u skladu sa onim što nam je zaista važno.</p>
+                            <p>Life coaching je proces koji pomaže ljudima da bolje razumeju sebe, svoje vrednosti i želje, i da donose odluke koje su u skladu sa njihovim autentičnim životnim pravcem.</p>
+                            <p>To je prostor u kojem možete da zastanete, sagledate širu sliku i istražite pitanja koja često ostaju po strani u svakodnevnoj žurbi.</p>
+                            <h3>Life coaching može pomoći kada:</h3>
+                            <ul>
+                                <li>osećate da ste na životnoj prekretnici</li>
+                                <li>želite promenu u karijeri ili privatnom životu</li>
+                                <li>tražite više ravnoteže između različitih životnih oblasti</li>
+                                <li>želite da razvijete samopouzdanje i jasniji pravac</li>
+                                <li>osećate da možete više, ali ne znate odakle da krenete</li>
+                            </ul>
+                            <p>Kroz coaching proces često se pojavljuju novi uvidi, drugačije perspektive i hrabrost da se naprave promene koje su dugo čekale.</p>
+                            <p>Ponekad je potrebno samo malo prostora za razmišljanje da bi se pojavio potpuno novi pravac.</p>
+                            <p>✨ Ako želite više jasnoće, balansa i povezanosti sa sobom, zakažite life coaching sesiju.</p>
                         </section>
                     </article>
                 </div>

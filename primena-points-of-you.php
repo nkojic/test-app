@@ -29,7 +29,44 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Primena Points of You" — biće dodat naknadno.</p>
+                            <p>Primena Points of You metodologije</p>
+                            <p>Ova metoda je veoma fleksibilna i koristi se u različitim oblastima.</p>
+                            <h3>Individualni coaching</h3>
+                            <p>U radu jedan na jedan metoda pomaže klijentima da:</p>
+                            <ul>
+                                <li>razjasne životne dileme</li>
+                                <li>donesu važne odluke</li>
+                                <li>razviju samopouzdanje</li>
+                                <li>pronađu novi pravac u karijeri ili životu</li>
+                            </ul>
+                            <h3>Radionice i grupni rad</h3>
+                            <p>Points of You je posebno snažan u grupnim procesima.</p>
+                            <p>Radionice omogućavaju učesnicima da kroz različite perspektive drugih ljudi dođu do još dubljih uvida o sebi.</p>
+                            <p>Grupna dinamika često donosi:</p>
+                            <ul>
+                                <li>nova razmišljanja</li>
+                                <li>inspiraciju</li>
+                                <li>osećaj povezanosti</li>
+                            </ul>
+                            <h3>Kompanije i timovi</h3>
+                            <p>Metoda se sve više koristi u poslovnom okruženju za:</p>
+                            <ul>
+                                <li>razvoj liderstva</li>
+                                <li>unapređenje komunikacije</li>
+                                <li>rešavanje konflikata</li>
+                                <li>razvoj kreativnosti</li>
+                                <li>strateško razmišljanje</li>
+                            </ul>
+                            <p>Kada timovi počnu da gledaju na izazove iz više perspektiva, često dolaze do inovativnijih rešenja.</p>
+                            <h3>Rad sa sportistima</h3>
+                            <p>Points of You može biti izuzetno koristan i u radu sa sportistima.</p>
+                            <p>Fotografije i metafore pomažu sportistima da:</p>
+                            <ul>
+                                <li>bolje razumeju svoje unutrašnje blokade</li>
+                                <li>ojačaju mentalnu pripremu</li>
+                                <li>razviju fokus i samopouzdanje</li>
+                                <li>pronađu nove strategije za izazovne situacije</li>
+                            </ul>
                         </section>
                     </article>
                 </div>

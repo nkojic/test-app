@@ -13,7 +13,7 @@ if (!isset($og_image))    $og_image    = '';
 
 $_site_url  = 'https://innerdynamicmethod.rs';
 $_canonical = $_site_url . strtok($_SERVER['REQUEST_URI'], '?');
-$_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo_dark-1.png';
+$_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
 ?>
 <!DOCTYPE html>
 <html lang="en" class="scheme_original">
@@ -45,8 +45,8 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo_dark-1.
     <meta property="og:image" content="<?php echo htmlspecialchars($_og_image, ENT_QUOTES, 'UTF-8'); ?>">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="/images/logo_dark-1.png">
-    <link rel="apple-touch-icon" href="/images/logo_dark-1.png">
+    <link rel="icon" type="image/png" href="/images/logo.png">
+    <link rel="apple-touch-icon" href="/images/logo.png">
 
     <!-- Schema.org JSON-LD -->
     <script type="application/ld+json">
@@ -57,8 +57,8 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo_dark-1.
         "url": "https://innerdynamicmethod.rs",
         "telephone": "+381641112202",
         "email": "office@bowencentar.rs",
-        "logo": "https://innerdynamicmethod.rs/images/logo_dark-1.png",
-        "image": "https://innerdynamicmethod.rs/images/logo_dark-1.png",
+        "logo": "https://innerdynamicmethod.rs/images/logo.png",
+        "image": "https://innerdynamicmethod.rs/images/logo.png",
         "address": { "@type": "PostalAddress", "addressCountry": "RS" },
         "serviceType": ["Coaching", "Wing Wave Coaching", "Points of You Coaching"],
         "sameAs": [
@@ -110,7 +110,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo_dark-1.
                 <div class="menu_button icon-menu"></div>
                 <div class="logo">
                     <a href="index.php">
-                        <img src="../images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
+                        <img src="../images/logo.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
                     </a>
                 </div>
             </div>
@@ -163,18 +163,6 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo_dark-1.
                             <li class="menu-item<?php echo ($current_page == 'kontakt') ? ' current-menu-item' : ''; ?>"><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
-                    <div class="search_wrap search_style_regular search_state_fixed search_ajax">
-                        <div class="search_form_wrap">
-                            <form role="search" method="get" class="search_form" action="#">
-                                <button type="submit" class="search_submit icon-search-1" title="Start search"></button>
-                                <input type="text" class="search_field" placeholder="Search" value="" name="s" />
-                            </form>
-                        </div>
-                        <div class="search_results widget_area scheme_original">
-                            <a class="search_results_close icon-cancel"></a>
-                            <div class="search_results_content"></div>
-                        </div>
-                    </div>
                 </div>
                 <div class="panel_bottom"></div>
             </div>
@@ -224,8 +212,8 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo_dark-1.
                         <div class="contact_logo">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="../images/logo_dark-1.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
-                                    <img src="../images/logo_dark-1.png" class="logo_fixed" alt="Inner Dynamic Method" width="238" height="56">
+                                    <img src="../images/logo.png" class="logo_main" alt="Inner Dynamic Method" width="238" height="56">
+                                    <img src="../images/logo.png" class="logo_fixed" alt="Inner Dynamic Method" width="238" height="56">
                                 </a>
                             </div>
                         </div>

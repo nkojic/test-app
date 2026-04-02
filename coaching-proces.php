@@ -29,7 +29,33 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Coaching Proces" — biće dodat naknadno.</p>
+                            <p>Kako izgleda coaching proces</p>
+                            <p>Coaching obično počinje razgovorom o temi koja je trenutno važna za vas. To može biti odluka koju želite da donesete, situacija koja vas opterećuje ili želja za promenom i ličnim razvojem.</p>
+                            <p>Kroz vođena pitanja, refleksiju i različite coaching metode dolazimo do dubljeg razumevanja situacije.</p>
+                            <h3>U tom procesu često se pojavljuju:</h3>
+                            <ul>
+                                <li>novi uvidi</li>
+                                <li>drugačije perspektive</li>
+                                <li>razumevanje emocija koje stoje iza odluka</li>
+                                <li>jasniji sledeći koraci</li>
+                            </ul>
+                            <p>Coaching nije fokusiran na prošlost već na razumevanje sadašnjosti i stvaranje željene budućnosti.</p>
+                            <p>Šta možete očekivati od coachinga</p>
+                            <h3>Klijenti često primećuju da kroz coaching:</h3>
+                            <ul>
+                                <li>jasnije razumeju sebe i svoje reakcije</li>
+                                <li>lakše donose odluke</li>
+                                <li>oslobađaju stres i unutrašnje blokade</li>
+                                <li>razvijaju samopouzdanje</li>
+                                <li>pronalaze novi pravac u životu ili poslu</li>
+                            </ul>
+                            <p>Coaching ne daje gotova rešenja. On pomaže da vi pronađete rešenja koja su zaista vaša.</p>
+                            <p>Prostor u kojem se stvari pomeraju</p>
+                            <p>U svakodnevnom životu retko imamo prostor da zastanemo i razmišljamo o sebi bez pritiska i očekivanja.</p>
+                            <p>Coaching je upravo taj prostor.</p>
+                            <p>U njemu često nastaju ideje, uvidi i odluke koje pokreću promene.</p>
+                            <p>✨ Ako osećate da je vreme za novu perspektivu ili sledeći korak u vašem životu ili karijeri, coaching može biti snažna podrška na tom putu.</p>
+                            <p>Zakažite svoju coaching sesiju i napravite prvi korak ka promeni.</p>
                         </section>
                     </article>
                 </div>

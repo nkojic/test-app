@@ -29,7 +29,23 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sadržaj stranice "Business Coaching" — biće dodat naknadno.</p>
+                            <p>Business coaching</p>
+                            <p>Jasnije odluke, snažnije liderstvo i bolji rezultati</p>
+                            <p>Savremeni poslovni svet zahteva brze odluke, jasnu komunikaciju i sposobnost da se vodi tim kroz stalne promene. Međutim, upravo ljudi koji nose najveću odgovornost često imaju najmanje prostora da zastanu i sagledaju širu sliku.</p>
+                            <p>Business coaching je strukturisan proces koji pomaže liderima, menadžerima i preduzetnicima da razviju jasnoću u donošenju odluka, unaprede svoje liderstvo i postignu održive poslovne rezultate.</p>
+                            <p>U coachingu se ne traže brza, površna rešenja. Umesto toga, fokus je na razumevanju situacije, prepoznavanju obrazaca i pronalaženju strategija koje su u skladu sa vašim stilom vođenja i vrednostima.</p>
+                            <h3>Business coaching može pomoći u situacijama kao što su:</h3>
+                            <ul>
+                                <li>razvoj liderstva i menadžerskih veština</li>
+                                <li>donošenje važnih poslovnih odluka</li>
+                                <li>upravljanje stresom i odgovornošću</li>
+                                <li>unapređenje komunikacije u timu</li>
+                                <li>rešavanje konflikata</li>
+                                <li>razvoj strategije i pravca poslovanja</li>
+                            </ul>
+                            <p>Sve više uspešnih kompanija i lidera koristi coaching kao alat za razvoj jer razumeju da kvalitet odluka često zavisi od kvaliteta razmišljanja koje stoji iza njih.</p>
+                            <p>Kada lider dobije jasniju perspektivu, koristi imaju i tim, organizacija i rezultati.</p>
+                            <p>✨ Ako želite da razvijete svoje liderstvo i donesete jasnije poslovne odluke, zakažite business coaching sesiju.</p>
                         </section>
                     </article>
                 </div>
