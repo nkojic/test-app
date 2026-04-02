@@ -100,6 +100,9 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <link rel='stylesheet' href='../css/plugins.css' type='text/css' media='all' />
     <link rel='stylesheet' href='../css/custom.css' type='text/css' media='all' />
     <?php if (!empty($extra_head_html)) echo $extra_head_html; ?>
+    <style>
+    .menu_main_wrap .menu_main_nav > li > a { padding-left: 1em !important; padding-right: 1em !important; }
+    </style>
 </head>
 
 <body class="<?php echo $body_class; ?>">
