@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $meta_description = 'Politika privatnosti sajta Inner Dynamic Method – informacije o prikupljanju, korišćenju i zaštiti ličnih podataka korisnika.';
 $meta_keywords    = 'politika privatnosti, zaštita podataka, GDPR, Inner Dynamic Method';
 $page_title       = 'Politika privatnosti | Inner Dynamic Method';
@@ -33,7 +33,7 @@ include 'includes/header.php';
 
                             <p>Vaša privatnost nam je važna. Ova Politika privatnosti objašnjava koje podatke prikupljamo, na koji način ih koristimo i kako ih štitimo kada koristite ovaj veb-sajt.</p>
 
-                            <h3>1. Koje podatke možemo prikupljati</h3>
+                            <h2>1. Koje podatke možemo prikupljati</h2>
                             <p>U zavisnosti od načina korišćenja sajta, možemo prikupljati:</p>
                             <ul>
                                 <li><strong>Podatke koje dobrovoljno dostavite</strong> (npr. ime, e-mail adresa i sadržaj poruke putem kontakt forme)</li>
@@ -41,7 +41,7 @@ include 'includes/header.php';
                                 <li><strong>Podatke o korišćenju sajta</strong> (npr. posećene stranice, vreme zadržavanja, približna lokacija na nivou grada/regiona – ukoliko je dostupno kroz analitiku)</li>
                             </ul>
 
-                            <h3>2. U koje svrhe koristimo podatke</h3>
+                            <h2>2. U koje svrhe koristimo podatke</h2>
                             <p>Prikupljene podatke koristimo isključivo u legitimne svrhe, kao što su:</p>
                             <ul>
                                 <li>odgovaranje na vaše upite i komunikacija putem kontakt forme</li>
@@ -52,20 +52,20 @@ include 'includes/header.php';
 
                             <p><strong>Ne prodajemo, ne iznajmljujemo i ne trgujemo</strong> vašim ličnim podacima.</p>
 
-                            <h3>3. Kolačići (Cookies)</h3>
+                            <h2>3. Kolačići (Cookies)</h2>
                             <p>Sajt može koristiti kolačiće kako bi obezbedio pravilno funkcionisanje, zapamtio određene postavke ili prikupio anonimnu statistiku poseta.</p>
                             <p>Kolačiće možete u svakom trenutku obrisati ili onemogućiti u podešavanjima svog internet pregledača. Imajte u vidu da onemogućavanje kolačića može uticati na funkcionalnost određenih delova sajta.</p>
 
-                            <h3>4. Treće strane i analitički servisi</h3>
+                            <h2>4. Treće strane i analitički servisi</h2>
                             <p>Možemo koristiti pouzdane servise trećih strana (npr. analitičke alate) koji obrađuju ograničene tehničke podatke u skladu sa sopstvenim politikama privatnosti. Ti servisi mogu koristiti kolačiće ili slične tehnologije.</p>
 
-                            <h3>5. Bezbednost podataka</h3>
+                            <h2>5. Bezbednost podataka</h2>
                             <p>Preduzimamo razumne tehničke i organizacione mere zaštite kako bismo umanjili rizik od neovlašćenog pristupa, gubitka ili zloupotrebe podataka. Ipak, nijedan prenos podataka putem interneta ne može biti 100% bezbedan.</p>
 
-                            <h3>6. Koliko dugo čuvamo podatke</h3>
+                            <h2>6. Koliko dugo čuvamo podatke</h2>
                             <p>Podatke čuvamo onoliko dugo koliko je potrebno za ostvarenje svrhe zbog koje su prikupljeni, osim ako zakon ne zahteva duže čuvanje.</p>
 
-                            <h3>7. Prava korisnika</h3>
+                            <h2>7. Prava korisnika</h2>
                             <p>U skladu sa važećim propisima, imate pravo da:</p>
                             <ul>
                                 <li>zatražite informaciju da li obrađujemo vaše lične podatke</li>
@@ -74,10 +74,10 @@ include 'includes/header.php';
                                 <li>povučete saglasnost, kada je obrada zasnovana na saglasnosti</li>
                             </ul>
 
-                            <h3>8. Izmene politike privatnosti</h3>
+                            <h2>8. Izmene politike privatnosti</h2>
                             <p>Zadržavamo pravo da povremeno ažuriramo ovu Politiku privatnosti. Sve izmene biće objavljene na ovoj stranici uz ažuriran datum.</p>
 
-                            <h3>9. Kontakt</h3>
+                            <h2>9. Kontakt</h2>
                             <p>Ako imate pitanja u vezi sa ovom Politikom privatnosti, molimo vas da nas kontaktirate putem <a href="kontakt.php">kontakt forme</a> na sajtu.</p>
 
                         </section>

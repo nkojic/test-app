@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $page_title       = 'Uslovi korišćenja | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'uslovi-koriscenja';
@@ -33,32 +33,32 @@ include 'includes/header.php';
                             Informacije objavljene na sajtu ne predstavljaju medicinski savet, dijagnozu niti terapiju
                             i ne mogu zameniti savet kvalifikovanog zdravstvenog radnika.</p>
 
-                            <h3>1. Korišćenje sadržaja</h3>
+                            <h2>1. Korišćenje sadržaja</h2>
                             <p>Sav sadržaj na sajtu (tekstovi, slike, grafika i drugi materijali) zaštićen je propisima
                             o autorskim i srodnim pravima. Dozvoljeno je korišćenje sadržaja isključivo u lične,
                             nekomercijalne svrhe.</p>
 
-                            <h3>2. Zabranjene radnje</h3>
+                            <h2>2. Zabranjene radnje</h2>
                             <ul>
                                 <li>Neovlašćeno kopiranje, distribucija ili izmena sadržaja</li>
                                 <li>Korišćenje sadržaja u komercijalne svrhe bez saglasnosti vlasnika sajta</li>
                                 <li>Zloupotreba sajta ili pokušaj neovlašćenog pristupa</li>
                             </ul>
 
-                            <h3>3. Ograničenje odgovornosti</h3>
+                            <h2>3. Ograničenje odgovornosti</h2>
                             <p>Vlasnik sajta ne snosi odgovornost za eventualnu štetu nastalu korišćenjem ili
                             oslanjanjem na informacije dostupne na sajtu, kao ni za privremenu nedostupnost
                             ili tehničke probleme.</p>
 
-                            <h3>4. Spoljni linkovi</h3>
+                            <h2>4. Spoljni linkovi</h2>
                             <p>Sajt može sadržati linkove ka drugim veb-sajtovima. Ne snosimo odgovornost
                             za njihov sadržaj, politike privatnosti ili praksu.</p>
 
-                            <h3>5. Izmene uslova</h3>
+                            <h2>5. Izmene uslova</h2>
                             <p>Zadržavamo pravo izmene ovih uslova u bilo kom trenutku. Nastavak korišćenja
                             sajta nakon izmena smatra se prihvatanjem novih uslova.</p>
 
-                            <h3>6. Merodavno pravo</h3>
+                            <h2>6. Merodavno pravo</h2>
                             <p>Ovi uslovi korišćenja uređeni su u skladu sa zakonima Republike Srbije.</p>
 
                         </section>
