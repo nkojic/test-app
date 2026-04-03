@@ -10,6 +10,7 @@ $page_hero_bg     = '../images/1170x700.jpg';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/utisci.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Testimonials","description":"Client testimonials about coaching, Wingwave and Points of You sessions at Inner Dynamic Method.","url":"https://innerdynamicmethod.rs/en/testimonials.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
@@ -72,6 +73,12 @@ include '../includes/en-header.php';
                                     <div class="sc_slider_pagination_wrap"></div>
                                 </div>
                             </div>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/about-me.php">About me</a></li>
+                                <li><a href="/en/my-approach.php">My approach to work</a></li>
+                                <li><a href="/en/contact.php">Get in touch</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

@@ -10,6 +10,7 @@ $page_hero_bg     = '../images/1170x700.jpg';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/ponude.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Offers","description":"Individual coaching sessions, Wingwave, Points of You and Bowen therapy packages at Inner Dynamic Method.","url":"https://innerdynamicmethod.rs/en/offers.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
@@ -52,6 +53,13 @@ include '../includes/en-header.php';
                             <h2>Custom programmes</h2>
                             <p>For companies, sports clubs and organisations, I design tailored programmes based on your specific needs and goals.</p>
                             <p>✨ Not sure which option is right for you? Reach out and we will find the best fit together.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/coaching.php">About coaching</a></li>
+                                <li><a href="/en/wing-wave.php">Wingwave® emotional coaching</a></li>
+                                <li><a href="/en/points-of-you.php">Points of You coaching</a></li>
+                                <li><a href="/en/contact.php">Get in touch</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

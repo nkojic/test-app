@@ -10,6 +10,7 @@ $page_hero_bg     = '../images/1170x700.jpg';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/o-meni.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AboutPage","name":"About Me","description":"Inner Dynamic Method – an integrative approach combining Bowen therapy, coaching, Wingwave and Points of You for holistic support in personal and professional change.","url":"https://innerdynamicmethod.rs/en/about-me.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
@@ -49,6 +50,12 @@ include '../includes/en-header.php';
                             <p>Sometimes we work primarily with the body. Sometimes with emotions. Sometimes with perspective and decisions. Often all three at once.</p>
                             <p>What does not change is my intention: to create a space where real change becomes possible.</p>
                             <p>✨ If you feel ready to take that first step, I will be glad to walk alongside you on that journey.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/my-approach.php">My approach to work</a></li>
+                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
+                                <li><a href="/en/contact.php">Get in touch</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

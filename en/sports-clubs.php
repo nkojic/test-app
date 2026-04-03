@@ -10,6 +10,7 @@ $page_hero_bg     = '../images/1170x700.jpg';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/sportski-klubovi.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Mental Training for Sports Clubs","description":"S.F.E.R.A. mental training, Wingwave and coaching for athletes and sports teams.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Sports Coaching","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/en/sports-clubs.php"}</script>';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
@@ -64,6 +65,12 @@ include '../includes/en-header.php';
                             <p>I work with both individual athletes and full teams. Every programme starts with a consultation to understand the specific context — sport, level, current challenges, goals.</p>
                             <p>Sessions can be held in person in Belgrade or online.</p>
                             <p>✨ If you want to give your athletes the mental edge that makes the difference, reach out and let us design a programme together.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/sports-coaching.php">Sports coaching</a></li>
+                                <li><a href="/en/offers.php">Offers and packages</a></li>
+                                <li><a href="/en/contact.php">Get in touch</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>

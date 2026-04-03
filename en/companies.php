@@ -10,6 +10,7 @@ $page_hero_bg     = '../images/1170x700.jpg';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/kompanije.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Coaching for Companies","description":"Leadership development, team coaching, Wingwave and S.F.E.R.A. mental training programmes for organisations.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Organisational Coaching","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/en/companies.php"}</script>';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
@@ -62,6 +63,12 @@ include '../includes/en-header.php';
                             <p>Every engagement begins with a consultation where we clarify your goals, the profile of participants and the desired outcomes. From there I design a programme that fits your context — whether that means one workshop, a series of team sessions or ongoing individual coaching for key people.</p>
                             <p>Programmes can be delivered in person in Belgrade or online.</p>
                             <p>✨ If you would like to explore how I can support your team or organisation, get in touch and we can arrange an initial conversation.</p>
+                            <h2>See also</h2>
+                            <ul>
+                                <li><a href="/en/business-coaching.php">Business coaching</a></li>
+                                <li><a href="/en/offers.php">Offers and packages</a></li>
+                                <li><a href="/en/contact.php">Get in touch</a></li>
+                            </ul>
                         </section>
                     </article>
                 </div>
