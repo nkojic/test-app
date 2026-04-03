@@ -73,4 +73,4 @@ include '../includes/en-header.php';
                 </div>
             </div>
         </div>
-<?php include '../includes/en-footer.php'; ?>
+<?php include '../includes/footer.php'; ?>
