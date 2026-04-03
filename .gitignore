@@ -5,5 +5,8 @@ images/*
 # Originalni zip
 *.zip
 
+# Razvojne skripte (lokalne, ne idu na server)
+*.ps1
+
 # Referentni materijal sa starog sajta - ne ide na GitHub
 uslovi/
