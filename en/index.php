@@ -318,21 +318,21 @@ include '../includes/en-header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-187" data-date="1459254645">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="../images/370x370.jpg" alt="Massage for Low Back Pain">
+                                                                    <img src="../images/godine-su-samo-broj.webp" alt="Age is just a number">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Massage for Low Back Pain</div>
+                                                                    <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Age is just a number</div>
                                                                     <div class="esg-center eg-post-187 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-187 esgbox" href="../images/370x370.jpg" lgtitle="Massage for Low Back Pain">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-187 esgbox" href="../images/godine-su-samo-brojv.webp" lgtitle="Age is just a number">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="testimonials.php" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="age-is-just-a-number.php">Read blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-187 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-187" href="testimonials.php" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-187" href="age-is-just-a-number.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -342,21 +342,21 @@ include '../includes/en-header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-189" data-date="1459254861">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="../images/1170x700.jpg" alt="Wing Wave Session">
+                                                                    <img src="../images/ko-je-odgovoran-za-tvoj-zivot.webp" alt="Who is responsible for your life">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Wing Wave Session</div>
+                                                                    <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Who is responsible for your life</div>
                                                                     <div class="esg-center eg-post-189 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-189 esgbox" href="../images/1170x700.jpg" lgtitle="Wing Wave Session">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-189 esgbox" href="../images/ko-je-odgovoran-za-tvoj-zivotv.webp" lgtitle="Who is responsible for your life">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="wing-wave-session.php" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="who-is-responsible-for-your-life.php">Read blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-189 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-189" href="wing-wave-session.php" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-189" href="who-is-responsible-for-your-life.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -366,21 +366,21 @@ include '../includes/en-header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-192" data-date="1459254977">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="../images/370x370.jpg" alt="Points of You Session">
+                                                                    <img src="../images/kvalitet-zivota.webp" alt="Quality of life">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Points of You Session</div>
+                                                                    <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Quality of life</div>
                                                                     <div class="esg-center eg-post-192 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-192 esgbox" href="../images/370x370.jpg" lgtitle="Points of You Session">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-192 esgbox" href="../images/kvalitet-zivotav.webp" lgtitle="Quality of life">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="points-of-you-session.php" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="quality-of-life.php">Read blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-192 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-192" href="points-of-you-session.php" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-192" href="quality-of-life.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -390,21 +390,21 @@ include '../includes/en-header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-194" data-date="1459255607">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="../images/1920x1100.jpg" alt="Coaching Session">
+                                                                    <img src="../images/starenje-kao-izbor.webp" alt="Aging as a choice">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Coaching Session</div>
+                                                                    <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Aging as a choice</div>
                                                                     <div class="esg-center eg-post-194 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-194 esgbox" href="../images/1920x1100.jpg" lgtitle="Coaching Session">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-194 esgbox" href="../images/starenje-kao-izborv.webp" lgtitle="Aging as a choice">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="coaching.php" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="aging-as-a-choice.php">Read blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-194 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-194" href="coaching.php" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-194" href="aging-as-a-choice.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
