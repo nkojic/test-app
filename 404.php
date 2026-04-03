@@ -8,7 +8,7 @@ $body_class      = 'singlepost page body_filled article_style_stretch scheme_ori
 $current_page    = '';
 $page_hero_icon  = 'icon-attention';
 $page_hero_title = 'Stranica nije pronađena';
-$page_hero_bg    = 'images/1170x700.jpg';
+$page_hero_bg    = 'images/hero.webp';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 include 'includes/header.php';

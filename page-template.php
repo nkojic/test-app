@@ -12,7 +12,7 @@ $page_hero_title  = 'Naziv stranice';  // naslov u hero baneru
 
 $featured_image     = '';         // putanja do slike, npr. 'images/slika.jpg' — ostaviti prazno ako nema
 $featured_image_alt = '';         // alt tekst za featured sliku
-$page_hero_bg       = 'images/1170x700.jpg'; // pozadinska slika hero banera
+$page_hero_bg       = 'images/hero.webp'; // pozadinska slika hero banera
 // -------------------------------------------------------
 $header_scheme   = 'scheme_original';        // scheme_dark za home (over slider), scheme_original za unutrašnje
 $header_position = 'top_panel_position_above'; // top_panel_position_over za home, top_panel_position_above za unutrašnje

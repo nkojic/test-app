@@ -10,7 +10,7 @@ $page_hero_title  = 'Starenje kao izbor';
 
 $featured_image     = 'images/starenje-kao-izborv.webp';
 $featured_image_alt = 'Starenje kao izbor';
-$page_hero_bg       = 'images/1170x700.jpg';
+$page_hero_bg       = 'images/hero.webp';
 
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';

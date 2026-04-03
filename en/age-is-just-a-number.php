@@ -9,7 +9,7 @@ $page_hero_title  = 'Age Is Just a Number';
 
 $featured_image     = '../images/godine-su-samo-brojv.webp';
 $featured_image_alt = 'Age is just a number';
-$page_hero_bg       = '../images/1170x700.jpg';
+$page_hero_bg       = '../images/hero.webp';
 
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';

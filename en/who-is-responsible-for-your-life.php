@@ -9,7 +9,7 @@ $page_hero_title  = 'Who Is Responsible for Your Life';
 
 $featured_image     = '../images/ko-je-odgovoran-za-tvoj-zivotv.webp';
 $featured_image_alt = 'Who is responsible for your life';
-$page_hero_bg       = '../images/1170x700.jpg';
+$page_hero_bg       = '../images/hero.webp';
 
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';

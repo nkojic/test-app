@@ -22,13 +22,13 @@
 	background-color: #f8f8f8!important;
 }
 .sc_custom_1459341675644 {
-	background-image: url(../images/1170x700.jpg)!important;
+	background-image: url(../images/hero.webp)!important;
 }
 .sc_custom_1459346050873 {
 	background-color: #f8f8f8!important;
 }
 .sc_custom_1459347818729 {
-	background-image: url(../images/1170x700.jpg)!important;
+	background-image: url(../images/hero.webp)!important;
 }
 .sc_custom_1459352457001 {
 	margin-top: 28px!important;
@@ -39,7 +39,7 @@
 
 
 .sc_custom_1459501367721 {
-	background-image: url(../images/1170x700.jpg) !important;
+	background-image: url(../images/hero.webp) !important;
 }
 .sc_custom_1459502371704 {
 	background-color: #5f6e44 !important;
@@ -83,7 +83,7 @@
     margin-bottom: 13px!important;
 }
 .sc_custom_1459848155774 {
-	background-image: url(../images/1170x700.jpg)!important;
+	background-image: url(../images/hero.webp)!important;
 }
 
 
@@ -106,7 +106,7 @@
 }
 
 .sc_custom_1459347818729 {
-	background-image: url(../images/1170x700.jpg)!important;
+	background-image: url(../images/hero.webp)!important;
 }
 
 .sc_custom_1459502371704 {
@@ -787,39 +787,43 @@
 }
 
 .certificates .top_panel_image {
-	background-image: url(../images/1170x700.jpg);
+	background-image: url(../images/hero.webp);
 }
 .eventspage .top_panel_image,
 .aboutus2 .top_panel_image,
 .postformats .top_panel_image {
-	background-image: url(../images/1170x700.jpg);
+	background-image: url(../images/hero.webp);
 }
 .contactus .top_panel_image,
 .classicblog .top_panel_image {
-	background-image: url(../images/1170x700.jpg);
+	background-image: url(../images/hero.webp);
 }
 .booking .top_panel_image,
 .services2 .top_panel_image,
 .masonry2 .top_panel_image {
-	background-image: url(../images/1170x700.jpg);
+	background-image: url(../images/hero.webp);
 }
 .masonry3 .top_panel_image,
 .pricetables .top_panel_image {
-	background-image: url(../images/1170x700.jpg)!important;
+	background-image: url(../images/hero.webp)!important;
 }
 .ourstaff .top_panel_image,
 .portfolio2 .top_panel_image {
-	background-image: url(../images/1170x700.jpg);
+	background-image: url(../images/hero.webp);
 }
 .aboutus .top_panel_image,
 .ourpricing .top_panel_image,
 .portfolio3 .top_panel_image,
 .services1 .top_panel_image {
-	background-image: url(../images/1170x700.jpg);
+	background-image: url(../images/hero.webp);
 }
 
 .singlepost .top_panel_image {
-	background-image: url(../images/1170x700.jpg);
+	background-image: url(../images/hero.webp);
+}
+
+.top_panel_image {
+	height: 250px;
 }
 
 .gcobbles .esg-filters,

@@ -10,7 +10,7 @@ $page_hero_title  = 'Ko je odgovoran za tvoj život';
 
 $featured_image     = 'images/ko-je-odgovoran-za-tvoj-zivotv.webp';
 $featured_image_alt = 'Ko je odgovoran za tvoj život';
-$page_hero_bg       = 'images/1170x700.jpg';
+$page_hero_bg       = 'images/hero.webp';
 
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';

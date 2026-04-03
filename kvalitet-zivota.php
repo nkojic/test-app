@@ -10,7 +10,7 @@ $page_hero_title  = 'Kvalitet života';
 
 $featured_image     = 'images/kvalitet-zivotav.webp';
 $featured_image_alt = 'Kvalitet života';
-$page_hero_bg       = 'images/1170x700.jpg';
+$page_hero_bg       = 'images/hero.webp';
 
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
