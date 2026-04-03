@@ -101,7 +101,8 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <link rel='stylesheet' href='../css/custom.css' type='text/css' media='all' />
     <?php if (!empty($extra_head_html)) echo $extra_head_html; ?>
     <style>
-    .menu_main_wrap .menu_main_nav > li > a { padding-left: 1em !important; padding-right: 1em !important; }
+    .menu_main_wrap .menu_main_nav > li > a { padding-left: 0.8em !important; padding-right: 1em !important; }
+    .menu_main_wrap .menu_main_nav > li.menu-item-has-children > a { padding-right: 1.8em !important; }
     </style>
 </head>
 
