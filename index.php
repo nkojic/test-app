@@ -318,21 +318,21 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-187" data-date="1459254645">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/370x370.jpg" alt="">
+                                                                    <img src="images/godine-su-samo-broj.webp" alt="Godine su samo broj">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Massage for Low Back Pain</div>
+                                                                    <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Godine su samo broj</div>
                                                                     <div class="esg-center eg-post-187 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-187 esgbox" href="images/370x370.jpg" lgtitle="Massage for Low Back Pain">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-187 esgbox" href="images/godine-su-samo-brojv.webp" lgtitle="Godine su samo broj">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="classic.html" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="godine-su-samo-broj.php">Pročitaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-187 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-187" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-187" href="godine-su-samo-broj.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -342,21 +342,21 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-189" data-date="1459254861">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/1170x700.jpg" alt="">
+                                                                    <img src="images/ko-je-odgovoran-za-tvoj-zivot.webp" alt="Ko je odgovoran za tvoj život">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Hot Stone Massage</div>
+                                                                    <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Ko je odgovoran za tvoj život</div>
                                                                     <div class="esg-center eg-post-189 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-189 esgbox" href="images/1170x700.jpg" lgtitle="Hot Stone Massage">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-189 esgbox" href="images/ko-je-odgovoran-za-tvoj-zivotv.webp" lgtitle="Ko je odgovoran za tvoj život">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="classic.html" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="ko-je-odgovoran-za-tvoj-zivot.php">Pročitaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-189 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-189" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-189" href="ko-je-odgovoran-za-tvoj-zivot.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -366,21 +366,21 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-192" data-date="1459254977">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/370x370.jpg" alt="">
+                                                                    <img src="images/kvalitet-zivota.webp" alt="Kvalitet života">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">5 Benefits of Regular Massage</div>
+                                                                    <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Kvalitet života</div>
                                                                     <div class="esg-center eg-post-192 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-192 esgbox" href="images/370x370.jpg" lgtitle="5 Benefits of Regular Massage">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-192 esgbox" href="images/kvalitet-zivotav.webp" lgtitle="Kvalitet života">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="classic.html" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="kvalitet-zivota.php">Pročitaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-192 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-192" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-192" href="kvalitet-zivota.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
@@ -390,21 +390,21 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-194" data-date="1459255607">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/1920x1100.jpg" alt="">
+                                                                    <img src="images/starenje-kao-izbor.webp" alt="Starenje kao izbor">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
-                                                                    <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Sunburns and Massage Therapy</div>
+                                                                    <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-0 esg-flipup" data-delay="0.09">Starenje kao izbor</div>
                                                                     <div class="esg-center eg-post-194 eg-roosevelt-massage-element-2-a esg-slideup" data-delay="0.2">
-                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-194 esgbox" href="images/1920x1100.jpg" lgtitle="Sunburns and Massage Therapy">
+                                                                        <a class="eg-roosevelt-massage-element-2 eg-post-194 esgbox" href="images/starenje-kao-izborv.webp" lgtitle="Starenje kao izbor">
                                                                             <i class="eg-icon-search"></i>
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="classic.html" title="View all posts in Blogger" rel="category tag">Blogger</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="starenje-kao-izbor.php">Pročitaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-194 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
-                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-194" href="single-post.html" target="_self">
+                                                                        <a class="eg-roosevelt-massage-element-1 eg-post-194" href="starenje-kao-izbor.php" target="_self">
                                                                             <i class="eg-icon-link"></i>
                                                                         </a>
                                                                     </div>
