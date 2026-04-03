@@ -46,6 +46,14 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <?php endif; ?>
     <meta property="og:image" content="<?php echo htmlspecialchars($_og_image, ENT_QUOTES, 'UTF-8'); ?>">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php if (!empty($meta_description)): ?>
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>">
+    <?php endif; ?>
+    <meta name="twitter:image" content="<?php echo htmlspecialchars($_og_image, ENT_QUOTES, 'UTF-8'); ?>">
+
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/images/logo.png">
     <link rel="apple-touch-icon" href="/images/logo.png">
