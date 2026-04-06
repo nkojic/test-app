@@ -10,3 +10,8 @@ images/*
 
 # Referentni materijal sa starog sajta - ne ide na GitHub
 uslovi/
+
+# PHP error logovi (generisu se na serveru)
+error_log
+**/error_log
+*.log
