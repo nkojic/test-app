@@ -73,10 +73,10 @@ include 'includes/header.php';
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="kontakt.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="odnosi-i-izazovi-u-njima.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Zakažite svoju sesiju</span>
-                                                                <span class="second">Zakažite svoju sesiju</span>
+                                                                <span class="first">Pročitaj više</span>
+                                                                <span class="second">Pročitaj više</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -96,10 +96,10 @@ include 'includes/header.php';
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="kontakt.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="trauma-traumaticno-iskustvo.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Zakažite svoju sesiju</span>
-                                                                <span class="second">Zakažite svoju sesiju</span>
+                                                                <span class="first">Pročitaj više</span>
+                                                                <span class="second">Pročitaj više</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -119,10 +119,10 @@ include 'includes/header.php';
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="kontakt.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="zaledjenost-freez-mod.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Zakažite svoju sesiju</span>
-                                                                <span class="second">Zakažite svoju sesiju</span>
+                                                                <span class="first">Pročitaj više</span>
+                                                                <span class="second">Pročitaj više</span>
                                                             </div>
                                                         </a>
                                                     </div>

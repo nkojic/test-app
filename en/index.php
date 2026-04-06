@@ -73,10 +73,10 @@ include '../includes/en-header.php';
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="contact.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="relationships-and-challenges.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Book Your Session</span>
-                                                                <span class="second">Book Your Session</span>
+                                                                <span class="first">Read More</span>
+                                                                <span class="second">Read More</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -96,10 +96,10 @@ include '../includes/en-header.php';
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="contact.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="trauma-traumatic-experience.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Book Your Session</span>
-                                                                <span class="second">Book Your Session</span>
+                                                                <span class="first">Read More</span>
+                                                                <span class="second">Read More</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -119,10 +119,10 @@ include '../includes/en-header.php';
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="contact.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
+                                                        <a href="freeze-mode.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Book Your Session</span>
-                                                                <span class="second">Book Your Session</span>
+                                                                <span class="first">Read More</span>
+                                                                <span class="second">Read More</span>
                                                             </div>
                                                         </a>
                                                     </div>
