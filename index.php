@@ -145,26 +145,26 @@ include 'includes/header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="coaching.php">
+                                                                    <a href="jasnoca-i-usmerenje.php">
                                                                         <img alt="" src="images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="coaching.php" rel="tag">JASNOĆA I USMERENJE</a>
+                                                                            <a href="jasnoca-i-usmerenje.php" rel="tag">JASNOĆA I USMERENJE</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="coaching.php">COACHING</a>
+                                                                            <a href="jasnoca-i-usmerenje.php">COACHING</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="coaching.php">
+                                                                                <a href="jasnoca-i-usmerenje.php">
                                                                                     Kroz pitanja i refleksiju dolazimo do uvida koji pomažu da donesete odluke koje su u skladu sa vašim vrednostima i željama.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="coaching.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="jasnoca-i-usmerenje.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Pročitaj više</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -176,26 +176,26 @@ include 'includes/header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="wing-wave.php">
+                                                                    <a href="emocije-trauma-stres.php">
                                                                         <img alt="" src="images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="wing-wave.php" rel="tag">EMOCIJE TRAUMA STRES</a>
+                                                                            <a href="emocije-trauma-stres.php" rel="tag">EMOCIJE TRAUMA STRES</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="wing-wave.php">WING WAVE</a>
+                                                                            <a href="emocije-trauma-stres.php">WING WAVE</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="wing-wave.php">
+                                                                                <a href="emocije-trauma-stres.php">
                                                                                     Kada se potisnute emocije osveste i isprocesuiraju, često se pojavi prostor za jasnije razmišljanje i nove mogućnosti.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="wing-wave.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="emocije-trauma-stres.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Pročitaj više</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -207,26 +207,26 @@ include 'includes/header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="points-of-you.php">
+                                                                    <a href="nova-perspektiva.php">
                                                                         <img alt="" src="images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="points-of-you.php" rel="tag">NOVA PERSPEKTIVA</a>
+                                                                            <a href="nova-perspektiva.php" rel="tag">NOVA PERSPEKTIVA</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="points-of-you.php">POINTS OF YOU</a>
+                                                                            <a href="nova-perspektiva.php">POINTS OF YOU</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="points-of-you.php">
+                                                                                <a href="nova-perspektiva.php">
                                                                                     Kada promenimo perspektivu iz koje gledamo na situaciju, često se pojave rešenja koja ranije nismo videli.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="points-of-you.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="nova-perspektiva.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Pročitaj više</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>

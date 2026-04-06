@@ -145,26 +145,26 @@ include '../includes/en-header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="coaching.php">
+                                                                    <a href="clarity-and-direction.php">
                                                                         <img alt="Coaching" src="../images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="coaching.php" rel="tag">CLARITY AND DIRECTION</a>
+                                                                            <a href="clarity-and-direction.php" rel="tag">CLARITY AND DIRECTION</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="coaching.php">COACHING</a>
+                                                                            <a href="clarity-and-direction.php">COACHING</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="coaching.php">
+                                                                                <a href="clarity-and-direction.php">
                                                                                     Through questions and reflection we reach insights that help you make decisions aligned with your values and goals.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="coaching.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="clarity-and-direction.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -176,26 +176,26 @@ include '../includes/en-header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="wing-wave.php">
+                                                                    <a href="emotions-trauma-stress.php">
                                                                         <img alt="Wing Wave Coaching" src="../images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="wing-wave.php" rel="tag">EMOTIONS TRAUMA STRESS</a>
+                                                                            <a href="emotions-trauma-stress.php" rel="tag">EMOTIONS TRAUMA STRESS</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="wing-wave.php">WING WAVE</a>
+                                                                            <a href="emotions-trauma-stress.php">WING WAVE</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="wing-wave.php">
+                                                                                <a href="emotions-trauma-stress.php">
                                                                                     When suppressed emotions are brought to awareness and processed, space often opens for clearer thinking and new possibilities.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="wing-wave.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="emotions-trauma-stress.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -207,26 +207,26 @@ include '../includes/en-header.php';
                                                         <div class="post_item post_item_portfolio post_item_portfolio_3">
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
-                                                                    <a href="points-of-you.php">
+                                                                    <a href="new-perspective.php">
                                                                         <img alt="Points of You Coaching" src="../images/370x370.jpg">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
                                                                     <div class="info-back">
                                                                         <div class="post_category">
-                                                                            <a href="points-of-you.php" rel="tag">NEW PERSPECTIVE</a>
+                                                                            <a href="new-perspective.php" rel="tag">NEW PERSPECTIVE</a>
                                                                         </div>
                                                                         <h4 class="post_title">
-                                                                            <a href="points-of-you.php">POINTS OF YOU</a>
+                                                                            <a href="new-perspective.php">POINTS OF YOU</a>
                                                                         </h4>
                                                                         <div class="post_descr">
                                                                             <p>
-                                                                                <a href="points-of-you.php">
+                                                                                <a href="new-perspective.php">
                                                                                     When we change the perspective from which we view a situation, solutions that were previously invisible often appear.
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="points-of-you.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="new-perspective.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
