@@ -29,48 +29,65 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <div id="sc_testimonials_utisci" class="sc_testimonials sc_testimonials_style_testimonials-1 cu_fullwidth">
-                                <div class="sc_slider_swiper swiper-slider-container sc_slider_nopagination sc_slider_controls sc_slider_controls_side" data-interval="7000" data-slides-min-width="250">
-                                    <div class="slides swiper-wrapper">
-                                        <div class="swiper-slide" data-style="width:100%;">
-                                            <div class="sc_testimonial_item">
-                                                <div class="sc_testimonial_content">
-                                                    <p>I am 55 years old and my experience has been very positive. I am grateful for the help I received in relieving long-standing pain in my shoulder, upper arm and stiff back caused by sitting at work for long hours and poor posture. After just three sessions the pain in my shoulder and upper arm disappeared and my neck relaxed. I sleep more peacefully and my range of motion has greatly improved.</p>
-                                                    <p>Warm recommendation!</p>
+                            <div class="sc_row row sc_row-fluid">
+                                <div class="column sc_column_container sc_col-sm-12">
+                                    <div class="sc_column-inner sc_custom_1459857781965">
+                                        <div class="wrapper">
+                                            <div class="sc_accordion" data-active="0">
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        STRESS AND ANXIETY REDUCTION
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>Coaching helped me find my inner peace again and reduce stress and anxiety. I felt the first effects after just a few weeks, when I noticed I was more tolerant than usual, more patient and happier. It also helped me with back and shoulder pain and sinus problems.</p>
+                                                                <p>Đorđe, 35</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
-                                                <div class="sc_testimonial_author">
-                                                    <a href="#" class="sc_testimonial_author_name">Ivana, 55</a>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        SHOULDER AND UPPER ARM PAIN
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>I am 55 years old and my experience has been very positive. I am grateful for the help I received in relieving long-standing pain in my shoulder, upper arm and stiff back caused by sitting at work for long hours and poor posture. Doctors said it was from old injuries — I had first tried physiotherapy which helped only a little and seemed endless.
+After just three sessions the pain in my shoulder and upper arm disappeared and my neck relaxed — it was no longer stiff. I sleep more peacefully now, whereas before I could not even lean on my arm because of the pain. My range of motion has greatly improved. With this work I managed to recover physically and mentally and now do shoulder and back exercises without pain.</p>
+                                                                <p>Warm recommendation!</p>
+                                                                <p>Ivana, 55</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide" data-style="width:100%;">
-                                            <div class="sc_testimonial_item">
-                                                <div class="sc_testimonial_content">
-                                                    <p>This is the only approach that brought me deep relaxation already after the first session. It is good for both body and mind. The indescribable sense of peace and lightness after each session stays with me for days and keeps growing. Small, gentle moves — yet a big change.</p>
-                                                    <p>A warm recommendation for everyone who wants to show themselves some love ❤️</p>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        RELAXATION
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>I came on recommendation. This is the only approach that brought me deep relaxation already after the first session. It is good for both body and mind. The indescribable sense of peace and lightness after each session stays with me for days and keeps growing. Thank you for the rare energy that restored my balance. Small, gentle moves — yet a big change. A warm recommendation for everyone who wants to show themselves some love ❤️</p>
+                                                                <p>Tanja, 47</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
-                                                <div class="sc_testimonial_author">
-                                                    <a href="#" class="sc_testimonial_author_name">Tanja, 47</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide" data-style="width:100%;">
-                                            <div class="sc_testimonial_item">
-                                                <div class="sc_testimonial_content">
-                                                    <p>I came across her completely by chance a few years ago — I had never even heard of this approach before. I decided to try it because of frequent back and muscle pain caused by stress and long hours of sitting. The experience was wonderful — the sessions are extremely pleasant and relaxing, and I would feel great relief immediately. But more than that, I want to highlight the relationship with clients — she is a wonderful, gentle, empathetic person who truly listens and understands.</p>
-                                                    <p>I would recommend her to everyone, wholeheartedly!</p>
-                                                </div>
-                                                <div class="sc_testimonial_author">
-                                                    <a href="#" class="sc_testimonial_author_name">Tamara, 48</a>
-                                                </div>
+
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="sc_slider_controls_wrap">
-                                        <a class="sc_slider_prev" href="#"></a>
-                                        <a class="sc_slider_next" href="#"></a>
-                                    </div>
-                                    <div class="sc_slider_pagination_wrap"></div>
                                 </div>
                             </div>
                             <h2>See also</h2>

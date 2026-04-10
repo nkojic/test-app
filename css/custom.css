@@ -1,5 +1,11 @@
 /*other*/
 
+/* Sprečava "flash" sadržaja ispod slidera pre nego što se Revolution Slider inicijalizuje */
+.rev_slider_wrapper.fullscreen-container {
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
 /* =============================================
    PRIMARNE BOJE SAJTA - menjati ovde
    ============================================= */

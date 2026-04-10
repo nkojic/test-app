@@ -24,6 +24,10 @@
 
 <script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/jquery/jquery.js'></script>
 <script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/jquery/core.min.js'></script>
+<script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/jquery/widget.min.js'></script>
+<script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/jquery/accordion.min.js'></script>
+<script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/jquery/effect.min.js'></script>
 <script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/essgrid/lightbox.js'></script>
 <script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/essgrid/jquery.themepunch.tools.min.js'></script>
 <script type='text/javascript' src='<?php echo $base_path; ?>js/vendor/essgrid/jquery.themepunch.essential.min.js'></script>
