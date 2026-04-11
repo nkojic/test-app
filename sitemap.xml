@@ -130,6 +130,64 @@
         <priority>0.8</priority>
     </url>
 
+    <!-- Sportski klubovi - podstranice -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/sportski-klubovi-coaching.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/sportski-klubovi-sfera-mentalni-trening.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/sportski-klubovi-points-of-you.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/sportski-klubovi-wing-wave.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Kompanije - podstranice -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/kompanije-coaching.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/kompanije-sfera-mentalni-trening.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/kompanije-points-of-you.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/kompanije-points-of-you-train-the-trainer.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/kompanije-wing-wave.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
     <!-- Kontakt -->
     <url>
         <loc>https://innerdynamicmethod.rs/kontakt.php</loc>
@@ -278,6 +336,64 @@
         <lastmod>2026-04-03</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
+    </url>
+
+    <!-- EN - Sports Clubs - podstranice -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sports-clubs-coaching.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sports-clubs-sfera-mental-training.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sports-clubs-points-of-you.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sports-clubs-wing-wave.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- EN - Companies - podstranice -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/companies-coaching.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/companies-sfera-mental-training.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/companies-points-of-you.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/companies-points-of-you-train-the-trainer.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/companies-wing-wave.php</loc>
+        <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 
     <!-- EN - Kontakt -->

@@ -11,6 +11,7 @@ $page_hero_bg       = 'images/hero.webp';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url     = '/en/companies-wing-wave.php';
+$page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Wing Wave Coaching za kompanije","description":"Wing Wave Coaching za kompanije – oslobađanje stresa i mentalnih blokada u poslovnom okruženju.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Wingwave Coaching","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/kompanije-wing-wave.php"}</script>';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
