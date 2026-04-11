@@ -521,7 +521,7 @@ include 'includes/header.php';
                                                                 <div class="text_column content_element ">
                                                                     <div class="wrapper">
                                                                         <p>Dobropoljska 35, Beograd
-                                                                            <br/> Email: <a href="mailto:office@bowencentar.rs">office@bowencentar.rs</a>
+                                                                            <br/> Email: <a href="mailto:office@innerdynamiccoaching.rs">office@innerdynamiccoaching.rs</a>
                                                                             <br/> Telefon: <a href="tel:0641112202">064 111 22 02</a>
                                                                         </p>
                                                                     </div>
