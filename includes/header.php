@@ -192,7 +192,31 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                         </ul>
                     </nav>
                 </div>
-                <div class="panel_bottom"></div>
+                <div class="panel_bottom" style="padding:16px 20px;display:flex;flex-direction:column;gap:16px;align-items:flex-start;">
+                    <a href="https://www.bowencentar.rs" target="_blank" rel="noopener" style="display:inline-block;padding:6px 14px;background-color:#af3850;color:#fff;text-decoration:none;font-family:'Montserrat',sans-serif;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;white-space:nowrap;line-height:1.4;">bowencentar.rs</a>
+                    <div style="display:flex;align-items:center;gap:16px;">
+                        <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_tiny">
+                            <div class="sc_socials_item">
+                                <a href="https://www.instagram.com/ovdeisada_/" target="_blank" rel="noopener" class="social_icons social_instagramm" aria-label="Instagram">
+                                    <span class="icon-instagramm"></span>
+                                </a>
+                            </div>
+                            <div class="sc_socials_item">
+                                <a href="https://www.facebook.com/ovdeisada" target="_blank" rel="noopener" class="social_icons social_facebook" aria-label="Facebook">
+                                    <span class="icon-facebook"></span>
+                                </a>
+                            </div>
+                        </div>
+                        <div style="display:flex;gap:10px;align-items:center;">
+                            <a href="<?php echo htmlspecialchars($lang_sr_url, ENT_QUOTES, 'UTF-8'); ?>" lang="sr" aria-label="Srpski" title="Srpski" style="display:inline-flex;align-items:center;">
+                                <img src="images/flags/sr.svg" alt="Srpski" width="20" height="14" style="display:block;border:1px solid rgba(0,0,0,.15);border-radius:2px;" />
+                            </a>
+                            <a href="<?php echo htmlspecialchars($lang_en_url, ENT_QUOTES, 'UTF-8'); ?>" lang="en" aria-label="English" title="English" style="display:inline-flex;align-items:center;">
+                                <img src="images/flags/en.svg" alt="English" width="20" height="14" style="display:block;border:1px solid rgba(0,0,0,.15);border-radius:2px;" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="mask"></div>
         </div>
