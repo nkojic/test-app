@@ -224,7 +224,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                         </div>
                         <div class="top_panel_top_socials">
                             <span class="label"> </span>
-                            <a href="https://www.bowencentar.rs" target="_blank" rel="noopener" style="display:inline-block;vertical-align:middle;position:relative;top:-4px;margin-right:30px;padding:5px 12px;background-color:#af3850;color:#fff;text-decoration:none;font-family:'Montserrat',sans-serif;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;white-space:nowrap;line-height:1.4;">bowencentar.rs</a>
+                            <a href="https://www.bowencentar.rs" target="_blank" rel="noopener" style="display:inline-block;vertical-align:middle;position:relative;top:-9px;margin-right:30px;padding:5px 12px;background-color:#af3850;color:#fff;text-decoration:none;font-family:'Montserrat',sans-serif;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;white-space:nowrap;line-height:1.4;">bowencentar.rs</a>
                             <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_tiny">
                                 <div class="sc_socials_item">
                                     <a href="https://www.instagram.com/ovdeisada_/" target="_blank" rel="noopener" class="social_icons social_instagramm" aria-label="Instagram">
