@@ -29,7 +29,6 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Life coaching</p>
                             <p>A clearer direction, more balance and a deeper connection with yourself</p>
                             <p>In everyday life, we often focus on obligations, expectations and responsibilities. We rarely pause to ask ourselves where we are actually going and whether we are living in accordance with what truly matters to us.</p>
                             <p>Life coaching is a process that helps people better understand themselves, their values and desires, and make decisions that are in line with their authentic life direction.</p>

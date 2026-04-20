@@ -31,7 +31,6 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Business coaching</p>
                             <p>Jasnije odluke, snažnije liderstvo i bolji rezultati</p>
                             <p>Savremeni poslovni svet zahteva brze odluke, jasnu komunikaciju i sposobnost da se vodi tim kroz stalne promene. Međutim, upravo ljudi koji nose najveću odgovornost često imaju najmanje prostora da zastanu i sagledaju širu sliku.</p>
                             <p>Business coaching je strukturisan proces koji pomaže liderima, menadžerima i preduzetnicima da razviju jasnoću u donošenju odluka, unaprede svoje liderstvo i postignu održive poslovne rezultate.</p>

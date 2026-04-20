@@ -31,7 +31,6 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sportski coaching</p>
                             <p>Mentalna snaga koja pravi razliku</p>
                             <p>U vrhunskom sportu razlika između dobrog i izuzetnog rezultata često nije samo u fizičkoj spremi – već u mentalnoj snazi.</p>
                             <p>Sportisti se suočavaju sa pritiskom rezultata, očekivanjima okoline, strahom od greške i potrebom da u ključnim trenucima ostanu fokusirani i stabilni.</p>

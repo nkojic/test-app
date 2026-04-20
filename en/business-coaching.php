@@ -29,7 +29,6 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Business coaching</p>
                             <p>Clearer decisions, stronger leadership and better results</p>
                             <p>The modern business world demands fast decisions, clear communication and the ability to lead a team through constant change. Yet the people who carry the greatest responsibility often have the least space to pause and see the bigger picture.</p>
                             <p>Business coaching is a structured process that helps leaders, managers and entrepreneurs develop clarity in decision-making, enhance their leadership and achieve sustainable business results.</p>

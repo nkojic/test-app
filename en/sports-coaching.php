@@ -29,7 +29,6 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Sports coaching</p>
                             <p>The mental strength that makes the difference</p>
                             <p>In elite sport, the difference between a good and an exceptional result is often not just physical fitness – but mental strength.</p>
                             <p>Athletes face the pressure of results, the expectations of those around them, the fear of making mistakes, and the need to stay focused and stable at key moments.</p>
