@@ -31,49 +31,17 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Wingwave® coaching emocija</p>
-                            <p>Ponekad znamo šta želimo, ali nas nešto iznutra koči. Stres, stara iskustva, nesvesni strahovi ili blokade mogu da utiču na naše odluke, raspoloženje i sposobnost da idemo napred.</p>
-                            <p>Wingwave® coaching je savremena metoda rada sa emocijama koja pomaže da se brzo i precizno oslobode emocionalne blokade i aktiviraju unutrašnji resursi.</p>
-                            <p>Ova metoda kombinuje saznanja iz psihologije, neurobiologije i coachinga i koristi se širom sveta za rad sa stresom, strahovima, samopouzdanjem, performansama i ličnim razvojem.</p>
-                            <p>Wingwave® coaching razvili su nemački psiholozi Cora Besser-Siegmund i Harry Siegmund u Hamburgu početkom 2000-ih godina.</p>
-                            <p>Metoda je nastala kao spoj nekoliko veoma efikasnih pristupa:</p>
-                            <ul>
-                                <li>EMDR – tehnika obrade emocija putem vođenih pokreta očiju</li>
-                                <li>NLP (Neuro-lingvističko programiranje) – rad sa unutrašnjim obrascima i jezikom</li>
-                                <li>Miostatski test – mišićni test koji pomaže da se precizno identifikuje izvor stresa</li>
-                            </ul>
-                            <p>Naziv metode potiče iz dve ideje:</p>
-                            <ul>
-                                <li>"Wing" – metafora leptirovog krila i „butterfly effecta", gde mala promena može izazvati veliki efekat</li>
-                                <li>"Wave" – asocijacija na „brainwave", trenutak uvida ili nove ideje</li>
-                            </ul>
-                            <p>Drugim rečima, mala intervencija na pravom mestu može pokrenuti veliku unutrašnju promenu.</p>
-                            <p>Wingwave se koristi u različitim oblastima života:</p>
-                            <ul>
-                                <li>upravljanje stresom</li>
-                                <li>prevazilaženje strahova i blokada</li>
-                                <li>jačanje samopouzdanja</li>
-                                <li>priprema za javni nastup ili važne događaje</li>
-                                <li>rad sa sportistima i performansama</li>
-                                <li>emocionalni balans i lični razvoj</li>
-                            </ul>
-                            <p>Metoda je posebno korisna kada osećate da racionalno znate šta treba da uradite – ali vas emocije sabotiraju.</p>
-                            <p>Wingwave coaching ne analizira problem unedogled. Umesto toga, fokus je na pronalaženju emocionalnog okidača i njegovom brzom razrešenju.</p>
-                            <p>Cilj je da:</p>
-                            <ul>
-                                <li>stres izgubi svoj intenzitet</li>
-                                <li>emocije se vrate u ravnotežu</li>
-                                <li>ponovo dobijete osećaj unutrašnje stabilnosti</li>
-                                <li>aktivirate svoje prirodne resurse i potencijale</li>
-                            </ul>
-                            <p>Ponekad je potreban samo mali pomak u načinu na koji mozak obrađuje jedno iskustvo – da bi se promenio čitav doživljaj situacije.</p>
-                            <p>To je upravo ono što Wingwave radi.</p>
-                            <h2>Pročitajte i</h2>
-                            <ul>
-                                <li><a href="/wing-wave-sesija.php">Kako izgleda Wingwave sesija</a></li>
-                                <li><a href="/spoj-koji-pravi-razliku.php">Spoj koji pravi razliku</a></li>
-                                <li><a href="/moj-pristup-radu.php">Moj pristup radu</a></li>
-                            </ul>
+                            <h3>WING WAVE COACHING</h3>
+                            <p>Kada Vam se u životu ponavljaju neki događaji koji Vas ometaju da krenete dalje ili se popnete lestvicu više. Shvatate da Vas iznutra nešto steže, blokira, dovodi u loše stanje, a ne vidite konkretan razlog jer spolja sve deluje u redu. Ili, možda, samo osećaj da ne reagujete onako kako biste želeli.</p>
+                            <p>Često iza takvih situacija stoje neisprocesuirane emocije, posledica nečega što ste nekada doživeli, čuli ili videli, i koje Vas sada, nesvesno, sputavaju i guše Vaš potencijal.</p>
+                            <p>Pokušaj da rešite takva stanja razmišljanjem najčešće ne daje rezultate. Telo pamti i "zaključava" emocije u nekim svojim delovima. Potrebno je da dozvolite onom što je ostalo negde u telu i umu, da se pokrene i otpusti.</p>
+                            <p>Wing Wave upravo radi na tome. Nema previše analiziranja. Vraćate se unazad toliko da prizovete emociju, ali ne pokušavate ništa da objasnite.</p>
+                            <p>Kroz jednostavan, ali vrlo precizan proces, dolazite do onoga što Vas, zapravo, aktivira. Ne do priče, već do uzroka.</p>
+                            <p>Zanimljivo je da ponekad jedna misao, jedan osećaj ili jedna slika u sebi nosi više nego što ste svesni. I kada se to razveže, Vaš odgovor se menja gotovo odmah. Ono što je ranije izazivalo stres, počinje da gubi intenzitet. Ono što Vas je blokiralo, postaje neutralno.</p>
+                            <p>I tu nastaje prostor. Prostor za drugačiju reakciju. Za više mira. Za više kontrole.</p>
+                            <p>Wingwave nije duga priča. Nije analiza. To je iskustvo u kojem Vaš sistem dolazi u balans.</p>
+                            <p>Bez mnogo objašnjavanja i analiziranja, zaobilazeći svesne procese, menjate perspektivu nečega što ste doživeli i način na koji to sada osećate. Negativno iskustvo će, uvek, ostati negativno, ali Vas više nećete biti u njemu. Posledično, negativan uticaj će izgubiti snagu.</p>
+                            <p>Tada počinje prava promena.</p>
                         </section>
                     </article>
                 </div>

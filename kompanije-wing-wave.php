@@ -30,7 +30,62 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Stranica je u izradi.</p>
+                            <h3>WINGWAVE COACHING U KOMPANIJAMA</h3>
+                            <p><strong>Brz i precizan rad na stresu, blokadama i performansu</strong></p>
+                            <p>U poslovnom okruženju, stres, pritisak i emocionalne reakcije često direktno utiču na performans, donošenje odluka i kvalitet rada.</p>
+                            <p>Wingwave coaching predstavlja kratkoročnu i ciljanu metodologiju koja omogućava brzo smanjenje stresnih reakcija i uklanjanje unutrašnjih blokada koje utiču na efikasnost.</p>
+                            <p>Metod se zasniva na kombinaciji neuropsiholoških tehnika i preciznog identifikovanja uzroka problema, što omogućava brze i merljive rezultate.</p>
+
+                            <h3>PRIMENA U KOMPANIJAMA</h3>
+                            <p>Wingwave coaching koristi se za:</p>
+                            <ul>
+                                <li>upravljanje stresom i pritiskom</li>
+                                <li>prevazilaženje blokada u radu</li>
+                                <li>pripremu za važne sastanke i prezentacije</li>
+                                <li>donošenje odluka u stresnim situacijama</li>
+                                <li>povećanje fokusa i mentalne jasnoće</li>
+                                <li>rad sa strahom od greške ili neuspeha</li>
+                            </ul>
+
+                            <h3>MODELI SARADNJE</h3>
+                            <p><strong>Individualni coaching (1:1 rad)</strong></p>
+                            <p><strong>Cilj:</strong> Brzo uklanjanje konkretnih blokada i stabilizacija performansa.</p>
+                            <p><strong>Fokus rada:</strong></p>
+                            <ul>
+                                <li>stres i anksioznost</li>
+                                <li>pritisak i odgovornost</li>
+                                <li>blokade u donošenju odluka</li>
+                                <li>priprema za važne poslovne situacije</li>
+                                <li>samopouzdanje</li>
+                            </ul>
+                            <p><strong>Struktura:</strong></p>
+                            <ul>
+                                <li>trajanje sesije: 60–90 minuta</li>
+                                <li>broj sesija: 3–6 (u zavisnosti od teme)</li>
+                                <li>rad uživo</li>
+                            </ul>
+                            <p><strong>Rezultat:</strong></p>
+                            <ul>
+                                <li>brzo smanjenje stresa</li>
+                                <li>veća sigurnost u nastupu</li>
+                                <li>bolji fokus i jasnoća</li>
+                            </ul>
+
+                            <h3>PREDNOSTI</h3>
+                            <p><strong>Za zaposlene</strong></p>
+                            <ul>
+                                <li>brzo smanjenje stresa</li>
+                                <li>oslobađanje od blokada</li>
+                                <li>veća mentalna stabilnost</li>
+                            </ul>
+                            <p><strong>Za kompaniju</strong></p>
+                            <ul>
+                                <li>efikasniji zaposleni</li>
+                                <li>manje oscilacija u performansama</li>
+                                <li>bolja pripremljenost za izazovne situacije</li>
+                            </ul>
+
+                            <p>Wingwave coaching je posebno vredan u situacijama kada je potrebno brzo i konkretno delovati, uz vidljive rezultate u kratkom vremenskom periodu.</p>
                         </section>
                     </article>
                 </div>

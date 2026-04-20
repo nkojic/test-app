@@ -29,7 +29,62 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Page under construction.</p>
+                            <h3>WINGWAVE COACHING IN COMPANIES</h3>
+                            <p><strong>Fast and precise work on stress, blockages and performance</strong></p>
+                            <p>In a business environment, stress, pressure and emotional reactions often directly affect performance, decision-making and quality of work.</p>
+                            <p>Wingwave coaching is a short-term and targeted methodology that enables rapid reduction of stress reactions and removal of inner blockages that affect efficiency.</p>
+                            <p>The method is based on a combination of neuropsychological techniques and precise identification of problem causes, enabling fast and measurable results.</p>
+
+                            <h3>APPLICATION IN COMPANIES</h3>
+                            <p>Wingwave coaching is used for:</p>
+                            <ul>
+                                <li>managing stress and pressure</li>
+                                <li>overcoming blockages at work</li>
+                                <li>preparation for important meetings and presentations</li>
+                                <li>decision-making in stressful situations</li>
+                                <li>increasing focus and mental clarity</li>
+                                <li>working with fear of mistakes or failure</li>
+                            </ul>
+
+                            <h3>COLLABORATION MODELS</h3>
+                            <p><strong>Individual coaching (1:1 work)</strong></p>
+                            <p><strong>Goal:</strong> Rapid removal of specific blockages and performance stabilization.</p>
+                            <p><strong>Focus:</strong></p>
+                            <ul>
+                                <li>stress and anxiety</li>
+                                <li>pressure and responsibility</li>
+                                <li>blockages in decision-making</li>
+                                <li>preparation for important business situations</li>
+                                <li>self-confidence</li>
+                            </ul>
+                            <p><strong>Structure:</strong></p>
+                            <ul>
+                                <li>session duration: 60–90 minutes</li>
+                                <li>number of sessions: 3–6 (depending on the topic)</li>
+                                <li>in-person work</li>
+                            </ul>
+                            <p><strong>Result:</strong></p>
+                            <ul>
+                                <li>rapid stress reduction</li>
+                                <li>greater confidence in performance</li>
+                                <li>better focus and clarity</li>
+                            </ul>
+
+                            <h3>ADVANTAGES</h3>
+                            <p><strong>For employees</strong></p>
+                            <ul>
+                                <li>rapid stress reduction</li>
+                                <li>release from blockages</li>
+                                <li>greater mental stability</li>
+                            </ul>
+                            <p><strong>For the company</strong></p>
+                            <ul>
+                                <li>more efficient employees</li>
+                                <li>less performance fluctuation</li>
+                                <li>better preparedness for challenging situations</li>
+                            </ul>
+
+                            <p>Wingwave coaching is particularly valuable in situations where fast and concrete action is needed, with visible results in a short period of time.</p>
                         </section>
                     </article>
                 </div>

@@ -30,7 +30,56 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Stranica je u izradi.</p>
+                            <h3>WINGWAVE COACHING U SPORTSKIM KLUBOVIMA</h3>
+                            <p><strong>Program za brzo uklanjanje blokada i stabilizaciju performansi</strong></p>
+                            <p>U sportu, razlika između treninga i takmičenja često nije u znanju ili fizičkoj spremi, već u emocionalnim reakcijama i stresu koji se aktiviraju u ključnim momentima.</p>
+                            <p>Wingwave coaching je kratkoročna, neuropsihološki zasnovana metoda koja ima za cilj brzo smanjenje stresnih reakcija i stabilizaciju performansi.</p>
+                            <p>Metod kombinuje savremena saznanja iz neuropsihologije i koristi precizne tehnike za identifikaciju i uklanjanje emocionalnih blokada koje utiču na učinak.</p>
+
+                            <h3>Osnovni principi metodologije</h3>
+                            <p>Wingwave se zasniva na tri ključna elementa:</p>
+                            <p><strong>1. Bilateralna stimulacija mozga</strong> – Kroz vođene pokrete očiju, auditivne ili taktilne stimuluse aktivira se naizmenična stimulacija leve i desne hemisfere, što omogućava bržu obradu stresnih iskustava.</p>
+                            <p><strong>2. Miostatički (mišićni) test</strong> – Precizan alat za identifikaciju konkretnih stresnih okidača (npr. situacija, misao, greška, protivnik), koji direktno utiču na performans.</p>
+                            <p><strong>3. Coaching usmeren na resurse</strong> – Nakon uklanjanja emocionalnog naboja, razvijaju se stabilna, funkcionalna stanja i obrasci ponašanja koji se mogu koristiti u takmičenju.</p>
+
+                            <h3>Kako metoda funkcioniše u sportu</h3>
+                            <p>Određene situacije (promašaj, poraz, povreda, pritisak publike) ostaju "neprocesuirane" i zabeležene kao traumatična iskustva. U sličnim okolnostima, kada ih nešto istrigeruje, se ponovo aktiviraju.</p>
+                            <p>Wingwave omogućava da se takvi obrasci brzo identifikuju i neutrališu, čime sportista prestaje da reaguje automatski i dobija veću kontrolu nad svojim stanjem.</p>
+                            <p>Rezultati su često vidljivi u kratkom vremenskom periodu, jer se radi direktno sa uzrokom, a ne samo sa simptomima stresa.</p>
+
+                            <h3>Primena u sportskim klubovima</h3>
+                            <p>Wingwave coaching se koristi za:</p>
+                            <ul>
+                                <li>uklanjanje takmičarske treme i pritiska</li>
+                                <li>rad sa strahom od greške ili neuspeha</li>
+                                <li>oporavak nakon lošeg nastupa ili povrede</li>
+                                <li>stabilizaciju performansi u ključnim momentima</li>
+                                <li>povećanje fokusa i mentalne jasnoće</li>
+                                <li>razbijanje negativnih obrazaca i "mentalnih blokada"</li>
+                                <li>pripremu za važna takmičenja</li>
+                            </ul>
+                            <p>Metod je posebno efikasan u individualnom radu sa sportistima, ali i sa članovima tima koji imaju specifične blokade.</p>
+
+                            <h3>Prednosti za sportiste</h3>
+                            <ul>
+                                <li>brzo smanjenje stresa i anksioznosti</li>
+                                <li>oslobađanje od blokada koje utiču na performans</li>
+                                <li>povećanje samopouzdanja i mentalne stabilnosti</li>
+                                <li>bolja koncentracija u ključnim momentima</li>
+                                <li>efikasniji oporavak nakon neuspeha</li>
+                            </ul>
+
+                            <h3>Prednosti za sportski klub</h3>
+                            <ul>
+                                <li>stabilniji individualni i timski učinak</li>
+                                <li>smanjenje oscilacija u performansama</li>
+                                <li>brža mentalna priprema sportista</li>
+                                <li>veća pouzdanost u takmičarskim situacijama</li>
+                                <li>efikasniji rad sa talentima i kriznim situacijama</li>
+                            </ul>
+
+                            <p>Wingwave metodologija predstavlja precizan i brz alat za rad sa "zaključanim" emocijama, faktorima koje direktno utiču na sportski rezultat.</p>
+                            <p>Njena vrednost je u tome što omogućava vidljive promene u kratkom vremenskom periodu, kroz rad na konkretnim, merljivim problemima koji utiču na performans.</p>
                         </section>
                     </article>
                 </div>

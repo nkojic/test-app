@@ -1,8 +1,10 @@
 <?php
+$_idc_pages          = ['inner-dynamic-coaching'];
 $_coaching_pages     = ['coaching','coaching-gde-pravi-razliku','coaching-proces','business-coaching','sportski-coaching','life-coaching'];
 $_wing_wave_pages    = ['wing-wave','wing-wave-sesija'];
 $_poy_pages          = ['points-of-you','points-of-you-sesija','primena-points-of-you'];
-$_inner_pages        = array_merge($_coaching_pages, $_wing_wave_pages, $_poy_pages);
+$_sfera_pages        = ['sfera-mentalni-trening'];
+$_inner_pages        = array_merge($_idc_pages, $_coaching_pages, $_wing_wave_pages, $_poy_pages, $_sfera_pages);
 
 $lang       = 'en';
 $base_path  = '../';
@@ -138,6 +140,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                             <li class="menu-item<?php echo ($current_page == 'home') ? ' current-menu-item' : ''; ?>"><a href="index.php">Home</a></li>
                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_inner_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Inner Dynamic Method</a>
                                 <ul class="sub-menu">
+                                    <li class="menu-item<?php echo ($current_page == 'inner-dynamic-coaching') ? ' current-menu-item' : ''; ?>"><a href="inner-dynamic-coaching.php">Inner Dynamic Coaching</a></li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_coaching_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Coaching</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">About Coaching</a></li>
@@ -161,6 +164,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                             <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-application.php">Applying Points of You</a></li>
                                         </ul>
                                     </li>
+                                    <li class="menu-item<?php echo ($current_page == 'sfera-mentalni-trening') ? ' current-menu-item' : ''; ?>"><a href="sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : ''; ?>"><a href="about-me.php">About Me</a>
@@ -175,7 +179,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['sportski-klubovi','sportski-klubovi-coaching','sportski-klubovi-sfera','sportski-klubovi-poy','sportski-klubovi-wing-wave']) ? ' current-menu-ancestor' : (($current_page == 'sportski-klubovi') ? ' current-menu-item' : ''); ?>"><a href="sports-clubs.php">Sports Clubs</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-coaching') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-coaching.php">Coaching</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-coaching') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-coaching.php">Inner Dynamic Coaching Method</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-sfera') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-poy') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-points-of-you.php">Points of You Coaching</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-wing-wave') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-wing-wave.php">Wing Wave Coaching</a></li>
@@ -183,7 +187,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                     </li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['kompanije','kompanije-coaching','kompanije-sfera','kompanije-poy','kompanije-poy-ttt','kompanije-wing-wave']) ? ' current-menu-ancestor' : (($current_page == 'kompanije') ? ' current-menu-item' : ''); ?>"><a href="companies.php">Companies</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item<?php echo ($current_page == 'kompanije-coaching') ? ' current-menu-item' : ''; ?>"><a href="companies-coaching.php">Coaching</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'kompanije-coaching') ? ' current-menu-item' : ''; ?>"><a href="companies-coaching.php">Inner Dynamic Coaching Method</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'kompanije-sfera') ? ' current-menu-item' : ''; ?>"><a href="companies-sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'kompanije-poy') ? ' current-menu-item' : ''; ?>"><a href="companies-points-of-you.php">Points of You Coaching</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'kompanije-poy-ttt') ? ' current-menu-item' : ''; ?>"><a href="companies-points-of-you-train-the-trainer.php">Points of You Train the Trainer</a></li>
@@ -280,6 +284,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                     <li class="menu-item<?php echo ($current_page == 'home') ? ' current-menu-item' : ''; ?>"><a href="index.php">Home</a></li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_inner_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Inner Dynamic Method</a>
                                         <ul class="sub-menu">
+                                            <li class="menu-item<?php echo ($current_page == 'inner-dynamic-coaching') ? ' current-menu-item' : ''; ?>"><a href="inner-dynamic-coaching.php">Inner Dynamic Coaching</a></li>
                                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_coaching_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Coaching</a>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">About Coaching</a></li>
@@ -303,6 +308,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                                     <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-application.php">Applying Points of You</a></li>
                                                 </ul>
                                             </li>
+                                            <li class="menu-item<?php echo ($current_page == 'sfera-mentalni-trening') ? ' current-menu-item' : ''; ?>"><a href="sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : ''; ?>"><a href="about-me.php">About Me</a>
@@ -317,7 +323,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                         <ul class="sub-menu">
                                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['sportski-klubovi','sportski-klubovi-coaching','sportski-klubovi-sfera','sportski-klubovi-poy','sportski-klubovi-wing-wave']) ? ' current-menu-ancestor' : (($current_page == 'sportski-klubovi') ? ' current-menu-item' : ''); ?>"><a href="sports-clubs.php">Sports Clubs</a>
                                                 <ul class="sub-menu">
-                                                    <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-coaching') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-coaching.php">Coaching</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-coaching') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-coaching.php">Inner Dynamic Coaching Method</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-sfera') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-poy') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-points-of-you.php">Points of You Coaching</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'sportski-klubovi-wing-wave') ? ' current-menu-item' : ''; ?>"><a href="sports-clubs-wing-wave.php">Wing Wave Coaching</a></li>
@@ -325,7 +331,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                             </li>
                                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['kompanije','kompanije-coaching','kompanije-sfera','kompanije-poy','kompanije-poy-ttt','kompanije-wing-wave']) ? ' current-menu-ancestor' : (($current_page == 'kompanije') ? ' current-menu-item' : ''); ?>"><a href="companies.php">Companies</a>
                                                 <ul class="sub-menu">
-                                                    <li class="menu-item<?php echo ($current_page == 'kompanije-coaching') ? ' current-menu-item' : ''; ?>"><a href="companies-coaching.php">Coaching</a></li>
+                                                    <li class="menu-item<?php echo ($current_page == 'kompanije-coaching') ? ' current-menu-item' : ''; ?>"><a href="companies-coaching.php">Inner Dynamic Coaching Method</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'kompanije-sfera') ? ' current-menu-item' : ''; ?>"><a href="companies-sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'kompanije-poy') ? ' current-menu-item' : ''; ?>"><a href="companies-points-of-you.php">Points of You Coaching</a></li>
                                                     <li class="menu-item<?php echo ($current_page == 'kompanije-poy-ttt') ? ' current-menu-item' : ''; ?>"><a href="companies-points-of-you-train-the-trainer.php">Points of You Train the Trainer</a></li>

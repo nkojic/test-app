@@ -30,7 +30,111 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Stranica je u izradi.</p>
+                            <h3>POINTS OF YOU COACHING U KOMPANIJAMA</h3>
+                            <p><strong>Razvoj svesti, komunikacije i kvalitetnijeg donošenja odluka</strong></p>
+                            <p>U poslovnom okruženju koje karakterišu brzina, kompleksnost i stalne promene, način na koji zaposleni razmišljaju, komuniciraju i donose odluke direktno utiče na rezultate.</p>
+                            <p>Points of You coaching predstavlja strukturisan i iskustveni pristup koji kroz rad sa vizuelnim alatima i metaforom omogućava dublje razumevanje obrazaca razmišljanja i ponašanja.</p>
+                            <p>Metod omogućava indirektan, ali vrlo precizan rad sa temama koje su često teško dostupne kroz klasičan pristup, što ga čini posebno efikasnim u radu sa timovima i liderima.</p>
+
+                            <h3>PRIMENA U KOMPANIJAMA</h3>
+                            <p>Points of You coaching koristi se za:</p>
+                            <ul>
+                                <li>unapređenje komunikacije i međuljudskih odnosa</li>
+                                <li>razvoj liderskih veština</li>
+                                <li>donošenje odluka u kompleksnim situacijama</li>
+                                <li>rešavanje konflikata</li>
+                                <li>jačanje timske povezanosti</li>
+                                <li>razvoj samosvesti zaposlenih</li>
+                            </ul>
+
+                            <h3>MODELI SARADNJE</h3>
+                            <p><strong>1. Individualni coaching (1:1 rad sa zaposlenima i liderima)</strong></p>
+                            <p><strong>Cilj:</strong> Razvoj jasnoće, stabilnosti i kvalitetnijeg donošenja odluka.</p>
+                            <p><strong>Fokus rada:</strong></p>
+                            <ul>
+                                <li>donošenje odluka</li>
+                                <li>komunikacija i odnosi</li>
+                                <li>lični i profesionalni razvoj</li>
+                                <li>rad sa izazovima i promenama</li>
+                                <li>razvoj samopouzdanja</li>
+                            </ul>
+                            <p><strong>Struktura:</strong></p>
+                            <ul>
+                                <li>trajanje sesije: 60–90 minuta</li>
+                                <li>preporučeni ciklus: 5–10 sesija</li>
+                                <li>dinamika: 1x nedeljno ili po potrebi</li>
+                                <li>uživo ili online</li>
+                            </ul>
+                            <p><strong>Rezultat:</strong></p>
+                            <ul>
+                                <li>veća jasnoća u razmišljanju</li>
+                                <li>kvalitetnije donošenje odluka</li>
+                                <li>stabilnije reakcije u zahtevnim situacijama</li>
+                            </ul>
+
+                            <p><strong>2. Grupni rad (radionice i timski coaching)</strong></p>
+                            <p><strong>Cilj:</strong> Unapređenje komunikacije, saradnje i timske dinamike.</p>
+                            <p><strong>Teme radionica:</strong></p>
+                            <ul>
+                                <li>komunikacija u timu</li>
+                                <li>razumevanje različitih perspektiva</li>
+                                <li>rešavanje konflikata</li>
+                                <li>timske uloge i odgovornost</li>
+                                <li>zajednički ciljevi i motivacija</li>
+                            </ul>
+                            <p><strong>Struktura:</strong></p>
+                            <ul>
+                                <li>trajanje: 2–4 sata</li>
+                                <li>broj učesnika: 6–20</li>
+                                <li>format: interaktivan i iskustveni rad</li>
+                                <li>mogućnost: jednokratne radionice ili ciklus (3–6 susreta)</li>
+                            </ul>
+                            <p><strong>Rezultat:</strong></p>
+                            <ul>
+                                <li>bolja saradnja i razumevanje</li>
+                                <li>smanjenje konflikata</li>
+                                <li>jasnija komunikacija</li>
+                            </ul>
+
+                            <h3>PAKETI SARADNJE</h3>
+                            <p><strong>Basic paket</strong></p>
+                            <ul>
+                                <li>1 radionica (do 3h)</li>
+                                <li>fokus na jednu temu (npr. komunikacija ili timska dinamika)</li>
+                            </ul>
+                            <p>Namena: prvi korak / uvod u metod</p>
+
+                            <p><strong>Pro paket</strong></p>
+                            <ul>
+                                <li>3 radionice (po 2–4h)</li>
+                                <li>rad na više tema</li>
+                                <li>mogućnost uključivanja individualnih sesija (do 5)</li>
+                            </ul>
+                            <p>Namena: razvoj timske dinamike i konkretne promene</p>
+
+                            <p><strong>Premium paket</strong></p>
+                            <ul>
+                                <li>5–6 radionica</li>
+                                <li>individualni coaching za ključne članove tima</li>
+                                <li>kontinuirani rad (2–4 meseca)</li>
+                            </ul>
+                            <p>Namena: dublja transformacija i dugoročni efekti</p>
+
+                            <h3>PREDNOSTI</h3>
+                            <p><strong>Za zaposlene</strong></p>
+                            <ul>
+                                <li>veća jasnoća i samosvest</li>
+                                <li>bolja komunikacija</li>
+                                <li>sigurnije donošenje odluka</li>
+                            </ul>
+                            <p><strong>Za kompaniju</strong></p>
+                            <ul>
+                                <li>funkcionalniji timovi</li>
+                                <li>unapređena saradnja</li>
+                                <li>stabilniji rezultati</li>
+                            </ul>
+
+                            <p>Points of You coaching ne daje gotova rešenja, već razvija sposobnost zaposlenih da sami donose kvalitetnije odluke i efikasnije funkcionišu u svakodnevnom radu.</p>
                         </section>
                     </article>
                 </div>

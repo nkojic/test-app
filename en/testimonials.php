@@ -85,6 +85,72 @@ After just three sessions the pain in my shoulder and upper arm disappeared and 
                                                     </div>
                                                 </div>
 
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        POINTS OF YOU WORKSHOP
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>It is not easy to describe the experience from a Points of You workshop because it is incredible how many things get set in motion through the process itself. Combined with writing and Danijela's experienced guidance through the process, many insights open up. Very valuable!</p>
+                                                                <p>Danica, 47</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        COACHING AND BOWEN THERAPY
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>I came to Danijela at a time when I was both tired and, somehow, scattered both physically and mentally. First I had Bowen therapy sessions. The improvement was most noticeable in my energy. It felt as if someone had "brought me back into my body". Gradually but steadily I felt I had more strength, was less exhausted and my inner peace returned. Alongside Bowen therapy I also did coaching with Points of You cards. It helped me clear up some things that had been going round in my head related to work, relationships and decisions I had been putting off. It did not give me ready-made answers but led me to see them myself, and much more clearly. Going to Danijela was one of the best decisions I have made.</p>
+                                                                <p>Sanja, 36</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        LIFE COACHING AND BOWEN
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>With Danijela I did Life coaching and Bowen therapy. Every session brought me new energy and peace. Life coaching helped me define my goals, open my mind and believe that I already have everything within me to achieve what I envision. I even found the job I wanted thanks to that shift. Bowen treatments released body tension and brought a feeling of lightness. After every session I felt clarity, inner balance and the strength to move forward.</p>
+                                                                <p>Dragana, 40</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        WING WAVE COACHING
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>I consider Wing Wave an exceptional method that helped me let go of negative emotions and beliefs I no longer needed.</p>
+                                                                <p>In the days following the session I gradually became aware that thoughts I did not even know were hidden in my subconscious were coming to the surface.</p>
+                                                                <p>After the session I also felt relief and a different perspective on things I had previously reacted to in an overly emotional way. I would recommend Wing Wave to anyone who wants to live freely and without the burden of beliefs that no longer serve them.</p>
+                                                                <p>Jovana, 30</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
                                     </div>

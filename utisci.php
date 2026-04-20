@@ -87,6 +87,72 @@ Posle tri sesije nestao mi je bol u ramenu i nadlaktici i vrat se opustio, nije 
                                                     </div>
                                                 </div>
 
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        POINTS OF YOU RADIONICA
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>Nije lako opisati iskustvo sa radionice Points of You zato jer je neverovatno koiko se stvari pokrene samim procesom. U kombinaciji sa pisanjem i Danijelinim iskusnim vođenjem kroz proces, otvara se mnogo uvida. Veoma dragoceno!</p>
+                                                                <p>Danica, 47</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        COACHING I BOWEN TERAPIJA
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>Kod Danijele sam došla u fazi kad sam bila i umorna i, nekako, rasuta i fizički i mentalno. Prvo sam imala Bowen terapije. Kod mene se poboljšanje najviše osetilo u energiji. Kao da me je neko "vratio u telo". Postepeno, ali stabilno sam osećala da imam više snage, manje sam bila iscrpljena i vratio mi se unutrašnji mir. Uz Bowen terapiju sam radila i coaching sa Points of You karticama. Pomoglo mi je da razbistrim neke stvari koje su mi se vrtele po glavi vezane za posao, partnerske odnose i odluke koje sam odlagala. Nije mi dalo gotove odgovore, već me je dovelo do toga da ih sama vidim, i to mnogo jasnije. Odlazak kod Danijele je bila jedna od boljih odluka koje sam donela.</p>
+                                                                <p>Sanja, 36</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        LIFE COACHING I BOWEN
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>Kod Danijele sam radila Life coaching i Bowen terapiju. Svaki susret mi je donosio novu energiju i mir. Life coaching mi je pomogao da definišem ciljeve, otvorim um i poverujem da imam već sve u sebi da ostvarim ono što zamislim. Čak sam i posao koji sam želela pronašla zahvaljujući toj promeni. Bowen tretmani su oslobodili telo napetosti i doneli osećaj lakoće u telu. Posle svake sesije sam osećala jasnoću, unutrašnji balans i snagu da idem napred.</p>
+                                                                <p>Dragana, 40</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="sc_accordion_item">
+                                                    <h5 class="sc_accordion_title">
+                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
+                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
+                                                        WING WAVE COACHING
+                                                    </h5>
+                                                    <div class="sc_accordion_content">
+                                                        <div class="text_column content_element">
+                                                            <div class="wrapper">
+                                                                <p>Wing Wave smatram izuzetnom metodom koja mi je pomogla da se oslobodim negativnih emocija i uverenja koja mi nisu bila potrebna.</p>
+                                                                <p>Posle sesije, u narednim danima, sam postepeno osvestila da na površinu izbijaju misli za koje nisam ni znala da su skrivene u mojoj podsvesti.</p>
+                                                                <p>Takođe, posle sesije sam osetila rasterećenje i olakšanje, ali i drugačiji pogled na stvari na koje sam pre, Wing Wave coachinga, reagovala prenaglašeno emotivno. Preporučila bih Wing Wave svakome ko želi da živi slobodno i bez opterećenja uverenjima koja mu više ne služe.</p>
+                                                                <p>Jovana, 30</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
                                             </div>
                                         </div>
                                     </div>

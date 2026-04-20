@@ -29,33 +29,14 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>From dentistry to inner dynamics</p>
-                            <p>My path was not a straight line — and I think that is precisely what makes it valuable.</p>
-                            <p>I trained and worked as a dentist. For years I focused on the physical — on health, precision, care. But over time I became increasingly interested in something that went beyond the body: the inner processes that shape how people feel, how they make decisions, and how they change.</p>
-                            <p>That curiosity gradually led me in a new professional direction.</p>
-                            <h2>The Inner Dynamic Method</h2>
-                            <p>Over the years I developed the Inner Dynamic Method — an integrative approach that connects work with the body, emotions and inner insights, because experience shows that real change often happens at the intersection of all three.</p>
-                            <p>The name reflects exactly that: the dynamics that happen within us, beneath the surface of what we show to the world.</p>
-                            <h2>What I work with</h2>
-                            <p>In my practice I combine several complementary methods:</p>
-                            <ul>
-                                <li><strong>Bowen therapy</strong> – a gentle technique that works on deep relaxation of the nervous system and activates the body's natural healing mechanisms</li>
-                                <li><strong>Coaching</strong> – a structured process of reflection and goal-setting that helps you see your situation more clearly and take purposeful steps forward</li>
-                                <li><strong>Wingwave® method</strong> – a method of working with emotions that identifies and releases stress and inner blocks at their root</li>
-                                <li><strong>Points of You® methodology</strong> – working with photographs and metaphors to open new perspectives and spark authentic insights</li>
-                                <li><strong>S.F.E.R.A. mental training</strong> – a system for developing inner synchrony, resilience, energy management and focused activation</li>
-                            </ul>
-                            <h2>How I work</h2>
-                            <p>Every person who comes to me brings their own story, their own pace and their own goals. That is why there is no universal programme — each process is shaped around the individual.</p>
-                            <p>Sometimes we work primarily with the body. Sometimes with emotions. Sometimes with perspective and decisions. Often all three at once.</p>
-                            <p>What does not change is my intention: to create a space where real change becomes possible.</p>
-                            <p>✨ If you feel ready to take that first step, I will be glad to walk alongside you on that journey.</p>
-                            <h2>See also</h2>
-                            <ul>
-                                <li><a href="/en/my-approach.php">My approach to work</a></li>
-                                <li><a href="/en/the-connection.php">The connection that makes a difference</a></li>
-                                <li><a href="/en/contact.php">Get in touch</a></li>
-                            </ul>
+                            <p>I entered coaching by circumstance, little by little. Bowen therapy, which I practise, practically pushed me into it. I was spending much more time with patients before and after sessions because Bowen therapy, by acting on all three levels – physical, mental and emotional – brings a lot to the surface. I soon realised that much more than intuitive work was needed. That is how my journey through coaching education began.</p>
+                            <p>What was meant for me came at just the right moment. I began to build my authentic style. I shaped it over the years. Adding and subtracting. As usually happens, life gave me the opportunity to try all the methodologies and tools on myself. Through three children, a divorce and everything that comes with it, as a single mother, I went through puberty, schooling, workplace bullying, betrayals, shattered dreams, destroyed relationships, rising from the ashes, unexpected help, friends who are always there no matter what, dreams coming true, pieces of life falling into place… After 15 years of working on myself, with clients and patients, through constant refinement, my unique method was born – Inner Dynamic.</p>
+                            <p>As I discovered the psychology of people, relationships and situations, and the simple yet incredibly interesting ways to "resolve" them, I began to turn more and more towards coaching.</p>
+                            <p>Coaching is phenomenally designed to help people like you, like me. People who at some point in life find themselves in a situation where they do not know where they are. Or do not know what comes next. They may be paralysed. Or indecisive. They may doubt themselves, their decisions and their choices.</p>
+                            <p>There are a million life situations where we just need a little help from someone on the outside. Someone with a fresh and different perspective. Someone who will recognise who we are, what we want and what we are capable of. Someone who will give us a push in our direction. Who will support us. Who will hold us steady. But who will not mix in their own interests, programmes and values and serve them as ours.</p>
+                            <p>"Life is a living thing," as I like to say. And it is perfectly normal that each of us sometimes falls into a crisis, a bad mood, a situation from which we see no way out. And then it is very wise and practical to seek help. That is completely ok. I went through and resolved my own challenging life situations using coaching tools. And I still do to this day. Why would I waste time? Besides, it is a wonderful feeling when you discover things about yourself you did not know. Or when you find a way to help yourself in a situation.</p>
+                            <p>So, when you reach a moment in life and feel discomfort, fear, indecision, lack of clarity, lack of self-confidence, or that you are not valuing yourself the right way – find your coach. A whole new world of possibilities will open up before you.</p>
+                            <p>I am, of course, here and at your service.</p>
                         </section>
                     </article>
                 </div>
