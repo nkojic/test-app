@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Business Coaching
                             </h1>
                             <p>Clearer decisions, stronger leadership and better results</p>
                             <p>The modern business world demands fast decisions, clear communication and the ability to lead a team through constant change. Yet the people who carry the greatest responsibility often have the least space to pause and see the bigger picture.</p>

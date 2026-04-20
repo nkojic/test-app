@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Sportski Coaching
                             </h1>
                             <p>Mentalna snaga koja pravi razliku</p>
                             <p>U vrhunskom sportu razlika između dobrog i izuzetnog rezultata često nije samo u fizičkoj spremi – već u mentalnoj snazi.</p>

@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Life Coaching
                             </h1>
                             <p>A clearer direction, more balance and a deeper connection with yourself</p>
                             <p>In everyday life, we often focus on obligations, expectations and responsibilities. We rarely pause to ask ourselves where we are actually going and whether we are living in accordance with what truly matters to us.</p>

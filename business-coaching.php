@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Business Coaching
                             </h1>
                             <p>Jasnije odluke, snažnije liderstvo i bolji rezultati</p>
                             <p>Savremeni poslovni svet zahteva brze odluke, jasnu komunikaciju i sposobnost da se vodi tim kroz stalne promene. Međutim, upravo ljudi koji nose najveću odgovornost često imaju najmanje prostora da zastanu i sagledaju širu sliku.</p>

@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Sports Coaching
                             </h1>
                             <p>The mental strength that makes the difference</p>
                             <p>In elite sport, the difference between a good and an exceptional result is often not just physical fitness – but mental strength.</p>

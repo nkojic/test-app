@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Life Coaching
                             </h1>
                             <p>Jasniji pravac, više balansa i veća povezanost sa sobom</p>
                             <p>U svakodnevnom životu često smo fokusirani na obaveze, očekivanja i odgovornosti. Retko zastanemo da se zapitamo gde zapravo idemo i da li živimo u skladu sa onim što nam je zaista važno.</p>
