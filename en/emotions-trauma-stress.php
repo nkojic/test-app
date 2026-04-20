@@ -40,7 +40,15 @@ include '../includes/en-header.php';
                             <!-- PAGE CONTENT — edit only this section                        -->
                             <!-- ============================================================ -->
 
-                            <p><strong>Under construction.</strong></p>
+                            <h3>INNER DYNAMIC METHOD® COACHING</h3>
+                            <p>Sometimes you reach a phase in life where, from the outside, everything seems to work. Yet inside, you feel that something is not quite in its place.</p>
+                            <p>You work, make decisions, move forward… but there is a part of you that doubts, that withdraws, that reacts differently than you would like. And you often think you need to "fix yourself". To be stronger, more focused, more confident. But in reality, you simply are not hearing all parts of yourself.</p>
+                            <p>Inner Dynamic Method creates exactly that space for you. A space where we do not look for a quick fix. Instead, we pause and look at what is truly happening inside.</p>
+                            <p>Which part of you wants one thing, and which wants another. Where you lose energy. Where you are already strong, but are not using it.</p>
+                            <p>Through the work, you slowly begin to connect things that until now seemed unrelated. Reactions start to make sense. Patterns become visible and without forcing, without pressure — change begins. Not because you "learned something new". But because you started using what you already have within you.</p>
+                            <p>Perspective changes. Decisions become clearer. And the inner feeling becomes more stable.</p>
+                            <p>Inner Dynamic Method is not a technique. Nor is it counselling. It is a process in which you learn to understand yourself more deeply, to align what you think, feel and do, and to function from that place with more confidence and authenticity.</p>
+                            <p>And perhaps what you need right now is not another strategy. But a space to connect with yourself — in a way that makes sense just for you.</p>
 
                             <!-- ============================================================ -->
                             <!-- END OF CONTENT                                              -->
