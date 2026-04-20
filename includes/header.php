@@ -136,7 +136,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                             <li class="menu-item<?php echo ($current_page == 'home') ? ' current-menu-item' : ''; ?>"><a href="index.php">Home</a></li>
                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_inner_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Inner Dynamic Method</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item<?php echo ($current_page == 'inner-dynamic-coaching') ? ' current-menu-item' : ''; ?>"><a href="inner-dynamic-coaching.php">Inner Dynamic Coaching</a></li>
+                                    <li class="menu-item<?php echo ($current_page == 'inner-dynamic-coaching') ? ' current-menu-item' : ''; ?>"><a href="inner-dynamic-coaching.php">Inner Dynamic Coaching Method</a></li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_coaching_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Coaching</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">O Coachingu</a></li>
@@ -280,7 +280,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                     <li class="menu-item<?php echo ($current_page == 'home') ? ' current-menu-item' : ''; ?>"><a href="index.php">Home</a></li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_inner_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Inner Dynamic Method</a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item<?php echo ($current_page == 'inner-dynamic-coaching') ? ' current-menu-item' : ''; ?>"><a href="inner-dynamic-coaching.php">Inner Dynamic Coaching</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'inner-dynamic-coaching') ? ' current-menu-item' : ''; ?>"><a href="inner-dynamic-coaching.php">Inner Dynamic Coaching Method</a></li>
                                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_coaching_pages) ? ' current-menu-ancestor' : ''; ?>"><a>Coaching</a>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item<?php echo ($current_page == 'coaching') ? ' current-menu-item' : ''; ?>"><a href="coaching.php">O Coachingu</a></li>
