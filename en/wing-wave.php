@@ -5,7 +5,7 @@ $page_title       = 'Wing Wave Emotional Coaching | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'wing-wave';
 $page_hero_icon   = 'icon-book-open';
-$page_hero_title  = 'Wing Wave Emotional Coaching';
+$page_hero_title  = 'Wing Wave Coaching';
 $page_hero_bg     = '../images/hero.webp';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
@@ -29,7 +29,6 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <h3>WING WAVE COACHING</h3>
                             <p>When certain events keep repeating in your life, preventing you from moving forward or climbing one step higher. You realize that something inside is tightening, blocking, bringing you into a bad state, yet you cannot see a concrete reason because from the outside everything seems fine. Or perhaps just the feeling that you are not reacting the way you would like.</p>
                             <p>Often behind such situations lie unprocessed emotions – consequences of something you once experienced, heard or saw – which now, unconsciously, hold you back and stifle your potential.</p>
                             <p>Trying to resolve such states through thinking rarely produces results. The body remembers and "locks" emotions in certain parts. You need to allow what has remained somewhere in the body and mind to move and be released.</p>

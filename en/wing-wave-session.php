@@ -5,7 +5,7 @@ $page_title       = 'Wing Wave Session | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'wing-wave-sesija';
 $page_hero_icon   = 'icon-book-open';
-$page_hero_title  = 'Wing Wave Session';
+$page_hero_title  = 'Wing Wave Coaching';
 $page_hero_bg     = '../images/hero.webp';
 $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
@@ -29,7 +29,6 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Wingwave session</p>
                             <p>Wingwave coaching is usually a short-term process – often just one session is enough when working on a single topic. Sometimes a few sessions are needed to experience a significant change.</p>
                             <p>A typical session looks like this:</p>
                             <h2>1. Defining the topic</h2>

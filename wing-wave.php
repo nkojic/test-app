@@ -5,7 +5,7 @@ $page_title       = 'Wing Wave Coaching Emocija | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'wing-wave';
 $page_hero_icon   = 'icon-book-open';
-$page_hero_title  = 'Wing Wave Coaching Emocija';
+$page_hero_title  = 'Wing Wave Coaching';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
@@ -31,7 +31,6 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <h3>WING WAVE COACHING</h3>
                             <p>Kada Vam se u životu ponavljaju neki događaji koji Vas ometaju da krenete dalje ili se popnete lestvicu više. Shvatate da Vas iznutra nešto steže, blokira, dovodi u loše stanje, a ne vidite konkretan razlog jer spolja sve deluje u redu. Ili, možda, samo osećaj da ne reagujete onako kako biste želeli.</p>
                             <p>Često iza takvih situacija stoje neisprocesuirane emocije, posledica nečega što ste nekada doživeli, čuli ili videli, i koje Vas sada, nesvesno, sputavaju i guše Vaš potencijal.</p>
                             <p>Pokušaj da rešite takva stanja razmišljanjem najčešće ne daje rezultate. Telo pamti i "zaključava" emocije u nekim svojim delovima. Potrebno je da dozvolite onom što je ostalo negde u telu i umu, da se pokrene i otpusti.</p>
