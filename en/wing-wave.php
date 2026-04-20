@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Wing Wave Emotional Coaching
                             </h1>
                             <p>When certain events keep repeating in your life, preventing you from moving forward or climbing one step higher. You realize that something inside is tightening, blocking, bringing you into a bad state, yet you cannot see a concrete reason because from the outside everything seems fine. Or perhaps just the feeling that you are not reacting the way you would like.</p>
                             <p>Often behind such situations lie unprocessed emotions – consequences of something you once experienced, heard or saw – which now, unconsciously, hold you back and stifle your potential.</p>

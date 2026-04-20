@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Wing Wave Coaching Emocija
                             </h1>
                             <p>Kada Vam se u životu ponavljaju neki događaji koji Vas ometaju da krenete dalje ili se popnete lestvicu više. Shvatate da Vas iznutra nešto steže, blokira, dovodi u loše stanje, a ne vidite konkretan razlog jer spolja sve deluje u redu. Ili, možda, samo osećaj da ne reagujete onako kako biste želeli.</p>
                             <p>Često iza takvih situacija stoje neisprocesuirane emocije, posledica nečega što ste nekada doživeli, čuli ili videli, i koje Vas sada, nesvesno, sputavaju i guše Vaš potencijal.</p>

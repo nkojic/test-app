@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Wing Wave Sesija
                             </h1>
                             <p>Wingwave coaching je obično kratkoročni proces – često je dovoljna samo jedna sesija u radu na jednoj temi. Nekada je potrebno nekoliko da se oseti značajna promena.</p>
                             <p>Tipična sesija izgleda ovako:</p>

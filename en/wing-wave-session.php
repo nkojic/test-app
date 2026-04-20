@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Wing Wave Session
                             </h1>
                             <p>Wingwave coaching is usually a short-term process – often just one session is enough when working on a single topic. Sometimes a few sessions are needed to experience a significant change.</p>
                             <p>A typical session looks like this:</p>
