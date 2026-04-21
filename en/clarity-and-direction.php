@@ -5,7 +5,7 @@ $body_class       = 'singlepost single single-post body_style_wide body_filled a
 $current_page     = '';
 
 $page_hero_icon   = 'icon-book-open';
-$page_hero_title  = 'Clarity and Direction';
+$page_hero_title  = 'Inner Dynamic Method';
 
 $featured_image     = '';
 $featured_image_alt = '';
@@ -31,7 +31,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Clarity and Direction
                             </h1>
 
                             <!-- ============================================================ -->
