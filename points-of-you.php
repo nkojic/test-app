@@ -31,19 +31,46 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>Postoji trenutak kada znate da treba da zastanete. Ne zato što nemate odgovor, već zato što ga brzom smenjivanju događaja i buci života više ne čujete.</p>
-                            <p>Points of You je upravo taj prostor.</p>
-                            <p>Prostor u kojem pravite pauzu. Udahnete. I prvi put posle dužeg vremena zaista pogledate gde ste, šta se dešava oko Vas, čime se, veći deo dana, bavite, kako se osećate.</p>
-                            <p>Ova metoda, naizgled lagana, koristi fotografije, reči i jednostavna pitanja, ali ono što pokreće je mnogo dublje. Jer slika zaobilazi ono "znam već", "trebalo bi", "moram"… i dolazi direktno do onoga što zaista osećate i mislite.</p>
-                            <p>Zanimljivo je da naš mozak mnogo brže reaguje na slike nego na reči. Zato se često desi da jedna fotografija pokrene misao ili emociju do koje ne biste došli samo razmišljanjem. I baš tu počinje pomak.</p>
-                            <p>Kroz taj proces, skoro neprimetno, stvari počinju da se menjaju. Perspektiva se širi. Ono što je delovalo komplikovano postaje jasnije. A odgovori koje ste tražili spolja počinju da dolaze iznutra.</p>
-                            <p>Ne tražite "tačan odgovor", već onaj koji ima smisla za Vas.</p>
-                            <p>Kada promenite način na koji gledate na situaciju, menja se i način na koji je doživljavate. A iz tog mesta menja se sve i način na koji vidite stvarnost, izbori koje pravite, odluke koje donosite.</p>
-                            <p>Points of You nije analiza. Nije ni klasičan razgovor.</p>
-                            <p>To je iskustvo.</p>
-                            <p>Iskustvo u kojem učite da čujete sebe jasnije, da razumete šta Vam je zaista važno i da sebi dozvolite drugačiji pogled. Onaj Vaš, autentičan. I možda je baš to ono što Vam sada treba. Ne još jedan odgovor, već novi način da sagledate ono što je već tu, u Vama.</p>
-                            <p>Ako osećate da je vreme da zastanete, napravite pauzu i pogledate drugačije, možda je ovo dobar trenutak da to i iskusite.</p>
-                            <p>Svi odgovori su u Vama!</p>
+                            <p><strong>Promena perspektive koja pokreće promenu</strong></p>
+                            <p>Koliko puta smo pokušali da rešimo neki problem razmišljajući na isti način – i opet se vratili na isto mesto?</p>
+                            <p>Kada gledamo na situaciju iz jedne perspektive, često ne vidimo mogućnosti koje postoje tik pored nas. Ponekad je potrebno samo malo da se pomerimo, da promenimo ugao gledanja – i odjednom se pojave novi odgovori.</p>
+                            <p><strong>Points of You® coaching je metoda ličnog i profesionalnog razvoja koja upravo to radi: pomaže da proširimo perspektivu, probudimo intuiciju i dođemo do dubljih uvida o sebi, svojim izborima i pravcu u kojem želimo da idemo.</strong></p>
+                            <p><strong>Ova metoda koristi fotografije, metafore i vođena pitanja kao moćne okidače za razmišljanje i introspekciju. Kada se povežu racionalni deo uma, emocije i intuicija, otvara se prostor za potpuno nova razumevanja.</strong></p>
+                            <h3>Prvi alat ove metodologije nastao je kao kreativni pristup coachingu koji kombinuje elemente:</h3>
+                            <ul>
+                                <li>psihologije</li>
+                                <li>vizuelnog razmišljanja</li>
+                                <li>narativnog pristupa</li>
+                                <li>kreativnih tehnika coachinga</li>
+                            </ul>
+                            <p><strong>Ideja je bila jednostavna, ali snažna: slika može pokrenuti proces razmišljanja i emocija mnogo brže nego logička analiza.</strong></p>
+                            <p>Fotografije i metafore pomažu da zaobiđemo uobičajene mentalne obrasce i dođemo do dubljih uvida koji često ostaju skriveni u klasičnom razgovoru.</p>
+                            <p>Ljudski mozak prirodno reaguje na vizuelne informacije. Kada gledamo fotografiju, aktiviraju se asocijacije, emocije i lična iskustva.</p>
+                            <p>Svaka osoba vidi nešto drugačije u istoj slici – i upravo tu počinje proces istraživanja.</p>
+                            <p><strong>Fotografija postaje ogledalo unutrašnjeg sveta.</strong></p>
+                            <p>Kroz razgovor o onome što vidimo na slici, zapravo govorimo o sopstvenim:</p>
+                            <ul>
+                                <li>vrednostima</li>
+                                <li>emocijama</li>
+                                <li>životnim iskustvima</li>
+                                <li>uverenjima</li>
+                                <li>željama i ciljevima</li>
+                            </ul>
+                            <p>Na taj način dolazimo do uvida koji često iznenade i samog klijenta.</p>
+                            <h3>Ova metoda je veoma korisna kada:</h3>
+                            <ul>
+                                <li>osećate da ste „zaglavili" u istom načinu razmišljanja</li>
+                                <li>želite da sagledate situaciju iz nove perspektive</li>
+                                <li>tražite jasnije razumevanje svojih emocija</li>
+                                <li>želite da donesete važnu odluku</li>
+                                <li>tražite inspiraciju i kreativna rešenja</li>
+                            </ul>
+                            <p><strong>Ponekad je dovoljno samo jedno pitanje ili jedna slika da pokrene potpuno novi način razmišljanja.</strong></p>
+                            <p>Kada promenimo način na koji gledamo na situaciju, menja se i način na koji je doživljavamo.</p>
+                            <p>A kada se promeni doživljaj, menjaju se i naše odluke.</p>
+                            <p><strong>Points of You coaching otvara prostor da zastanete, pogledate širu sliku i pronađete odgovore koji su već u vama.</strong></p>
+                            <p>Ako osećate da vam je potrebna nova perspektiva, jasniji uvid ili prostor za dublje razumevanje sebe i svojih izbora, Points of You coaching može biti snažan alat na tom putu.</p>
+                            <p><strong>Zakažite svoju Points of You sesiju i napravite prvi korak ka novom pogledu na sebe i svoj život.</strong></p>
                         </section>
                     </article>
                 </div>

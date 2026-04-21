@@ -29,19 +29,46 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <p>There comes a moment when you know you need to stop. Not because you do not have the answer, but because in the rapid succession of events and the noise of life you can no longer hear it.</p>
-                            <p>Points of You is precisely that space.</p>
-                            <p>A space where you pause. Breathe. And for the first time in a long while truly look at where you are, what is happening around you, what you spend most of your day doing, how you feel.</p>
-                            <p>This method, seemingly light, uses photographs, words and simple questions, but what it sets in motion is much deeper. Because an image bypasses the "I already know", "I should", "I must"… and goes directly to what you truly feel and think.</p>
-                            <p>It is interesting that our brain reacts much faster to images than to words. That is why it often happens that a single photograph triggers a thought or emotion you would never have reached by thinking alone. And that is exactly where the shift begins.</p>
-                            <p>Through this process, almost imperceptibly, things begin to change. Perspective widens. What seemed complicated becomes clearer. And the answers you were seeking outside begin to come from within.</p>
-                            <p>You are not looking for "the right answer", but the one that makes sense for you.</p>
-                            <p>When you change the way you look at a situation, the way you experience it changes too. And from that place everything changes – the way you see reality, the choices you make, the decisions you take.</p>
-                            <p>Points of You is not analysis. Nor is it a classical conversation.</p>
-                            <p>It is an experience.</p>
-                            <p>An experience in which you learn to hear yourself more clearly, to understand what truly matters to you and to allow yourself a different perspective. Your own, authentic one. And perhaps that is exactly what you need right now. Not another answer, but a new way to see what is already there, within you.</p>
-                            <p>If you feel it is time to stop, take a pause and look differently, perhaps this is the right moment to experience it.</p>
-                            <p>All the answers are within you!</p>
+                            <p><strong>A change of perspective that drives change</strong></p>
+                            <p>How many times have we tried to solve a problem by thinking in the same way – and ended up back in the same place?</p>
+                            <p>When we look at a situation from one perspective, we often do not see the possibilities that exist right beside us. Sometimes all it takes is a small shift, a change of angle – and suddenly new answers appear.</p>
+                            <p><strong>Points of You® coaching is a method of personal and professional development that does exactly this: it helps broaden perspective, awaken intuition and arrive at deeper insights about ourselves, our choices and the direction in which we want to go.</strong></p>
+                            <p><strong>This method uses photographs, metaphors and guided questions as powerful triggers for thinking and introspection. When the rational mind, emotions and intuition are connected, a space opens up for entirely new understandings.</strong></p>
+                            <h3>The first tool of this methodology was created as a creative approach to coaching that combines elements of:</h3>
+                            <ul>
+                                <li>psychology</li>
+                                <li>visual thinking</li>
+                                <li>a narrative approach</li>
+                                <li>creative coaching techniques</li>
+                            </ul>
+                            <p><strong>The idea was simple, yet powerful: a photograph can trigger a process of thinking and emotion much faster than logical analysis.</strong></p>
+                            <p>Photographs and metaphors help bypass habitual mental patterns and arrive at deeper insights that often remain hidden in classical conversation.</p>
+                            <p>The human brain naturally responds to visual information. When we look at a photograph, associations, emotions and personal experiences are activated.</p>
+                            <p>Each person sees something different in the same image – and that is exactly where the exploration begins.</p>
+                            <p><strong>A photograph becomes a mirror of the inner world.</strong></p>
+                            <p>Through talking about what we see in the image, we are in fact talking about our own:</p>
+                            <ul>
+                                <li>values</li>
+                                <li>emotions</li>
+                                <li>life experiences</li>
+                                <li>beliefs</li>
+                                <li>desires and goals</li>
+                            </ul>
+                            <p>In this way, we arrive at insights that often surprise even the client themselves.</p>
+                            <h3>This method is particularly useful when:</h3>
+                            <ul>
+                                <li>you feel stuck in the same way of thinking</li>
+                                <li>you want to view a situation from a new perspective</li>
+                                <li>you are looking for a clearer understanding of your emotions</li>
+                                <li>you want to make an important decision</li>
+                                <li>you are looking for inspiration and creative solutions</li>
+                            </ul>
+                            <p><strong>Sometimes just one question or one photograph is enough to trigger a completely new way of thinking.</strong></p>
+                            <p>When we change the way we look at a situation, the way we experience it changes too.</p>
+                            <p>And when the experience changes, so do our decisions.</p>
+                            <p><strong>Points of You coaching opens the space for you to pause, see the bigger picture and find answers that are already within you.</strong></p>
+                            <p>If you feel you need a new perspective, clearer insight or a space for deeper understanding of yourself and your choices, Points of You coaching can be a powerful tool on that journey.</p>
+                            <p><strong>Schedule your Points of You session and take the first step towards a new view of yourself and your life.</strong></p>
                         </section>
                     </article>
                 </div>
