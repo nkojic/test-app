@@ -5,7 +5,7 @@ $page_title       = 'Primena Points of You | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'primena-points-of-you';
 $page_hero_icon   = 'icon-book-open';
-$page_hero_title  = 'Primena Points of You';
+$page_hero_title  = 'Points of You Coaching';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
@@ -29,9 +29,8 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Primena Points of You
                             </h1>
-                            <p>Primena Points of You metodologije</p>
                             <p>Ova metoda je veoma fleksibilna i koristi se u različitim oblastima.</p>
                             <h2>Individualni coaching</h2>
                             <p>U radu jedan na jedan metoda pomaže klijentima da:</p>

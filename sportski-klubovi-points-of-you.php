@@ -4,7 +4,7 @@ $page_title       = 'Points of You Coaching za sportske klubove | Inner Dynamic 
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-klubovi-poy';
 $page_hero_icon   = 'icon-eye';
-$page_hero_title  = 'Points of You Coaching';
+$page_hero_title  = 'Ponude';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
@@ -28,9 +28,9 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Points of You Coaching
                             </h1>
-                            <h3>POINTS OF YOU COACHING U SPORTSKIM KLUBOVIMA</h3>
+                            <h3>U SPORTSKIM KLUBOVIMA</h3>
                             <h4>Program za razvoj svesti, komunikacije i odnosa u timu</h4>
                             <p>U savremenom sportu, pored fizičke i tehničke pripreme, sve veću ulogu ima sposobnost sportista i timova da razumeju sopstvene obrasce razmišljanja, emocije i međusobne odnose.</p>
                             <p>Points of You metodologija predstavlja strukturisan coaching pristup koji koristi vizuelne alate (fotografije, reči i metafore) kako bi omogućio dublje razumevanje unutrašnjih procesa i ponašanja.</p>

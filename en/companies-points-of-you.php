@@ -4,7 +4,7 @@ $page_title       = 'Points of You Coaching for Companies | Inner Dynamic Method
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kompanije-poy';
 $page_hero_icon   = 'icon-eye';
-$page_hero_title  = 'Points of You Coaching';
+$page_hero_title  = 'Offers';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = '../images/hero.webp';
@@ -27,9 +27,9 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Points of You Coaching
                             </h1>
-                            <h3>POINTS OF YOU COACHING IN COMPANIES</h3>
+                            <h3>IN COMPANIES</h3>
                             <p><strong>Developing awareness, communication and better decision-making</strong></p>
                             <p>In a business environment characterized by speed, complexity and constant change, the way employees think, communicate and make decisions directly affects results.</p>
                             <p>Points of You coaching is a structured and experiential approach that, through working with visual tools and metaphor, enables deeper understanding of thought and behavioral patterns.</p>

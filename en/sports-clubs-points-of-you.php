@@ -4,7 +4,7 @@ $page_title       = 'Points of You Coaching for Sports Clubs | Inner Dynamic Met
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-klubovi-poy';
 $page_hero_icon   = 'icon-eye';
-$page_hero_title  = 'Points of You Coaching';
+$page_hero_title  = 'Offers';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = '../images/hero.webp';
@@ -27,9 +27,9 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Points of You Coaching
                             </h1>
-                            <h3>POINTS OF YOU COACHING IN SPORTS CLUBS</h3>
+                            <h3>IN SPORTS CLUBS</h3>
                             <h4>Program for developing awareness, communication and team relationships</h4>
                             <p>In modern sports, alongside physical and technical preparation, the ability of athletes and teams to understand their own thought patterns, emotions and mutual relationships plays an increasingly important role.</p>
                             <p>Points of You methodology is a structured coaching approach that uses visual tools (photographs, words and metaphors) to enable deeper understanding of inner processes and behavior.</p>

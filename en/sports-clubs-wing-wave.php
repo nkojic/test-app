@@ -4,7 +4,7 @@ $page_title       = 'Wing Wave Coaching for Sports Clubs | Inner Dynamic Method'
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-klubovi-wing-wave';
 $page_hero_icon   = 'icon-feather';
-$page_hero_title  = 'Wing Wave Coaching';
+$page_hero_title  = 'Offers';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = '../images/hero.webp';
@@ -27,9 +27,9 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Wing Wave Coaching
                             </h1>
-                            <h3>WINGWAVE COACHING IN SPORTS CLUBS</h3>
+                            <h3>IN SPORTS CLUBS</h3>
                             <p><strong>Program for rapid blockage removal and performance stabilization</strong></p>
                             <p>In sports, the difference between training and competition is often not in knowledge or physical fitness, but in the emotional reactions and stress that are activated at key moments.</p>
                             <p>Wingwave coaching is a short-term, neuropsychologically based method aimed at rapidly reducing stress reactions and stabilizing performance.</p>

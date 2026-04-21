@@ -31,7 +31,6 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <h3>POINTS OF YOU</h3>
                             <p>Postoji trenutak kada znate da treba da zastanete. Ne zato što nemate odgovor, već zato što ga brzom smenjivanju događaja i buci života više ne čujete.</p>
                             <p>Points of You je upravo taj prostor.</p>
                             <p>Prostor u kojem pravite pauzu. Udahnete. I prvi put posle dužeg vremena zaista pogledate gde ste, šta se dešava oko Vas, čime se, veći deo dana, bavite, kako se osećate.</p>

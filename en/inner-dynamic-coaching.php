@@ -28,7 +28,6 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <h3>INNER DYNAMIC METHOD®</h3>
                             <p><strong>Integrated coaching for performance development, stability and inner resources</strong></p>
                             <p>Inner Dynamic Method® is an integrated coaching approach that combines modern methods of working with mental, emotional and physical processes, with the aim of developing a stable, functional and authentic way of functioning in everyday and demanding situations.</p>
                             <p>The starting point of the method is that performance, decision-making and behavior do not happen by chance, but as a result of inner dynamics – the way a person thinks, feels, reacts and manages their own energy.</p>

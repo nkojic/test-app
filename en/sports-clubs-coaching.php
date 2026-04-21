@@ -4,7 +4,7 @@ $page_title       = 'Inner Dynamic Coaching Method – Sports Clubs | Inner Dyna
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-klubovi-coaching';
 $page_hero_icon   = 'icon-trophy';
-$page_hero_title  = 'Inner Dynamic Coaching Method';
+$page_hero_title  = 'Offers';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = '../images/hero.webp';
@@ -27,9 +27,9 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Inner Dynamic Coaching Method
                             </h1>
-                            <h3>INNER DYNAMIC METHOD® IN SPORTS</h3>
+                            <h3>IN SPORTS</h3>
                             <p><strong>Integrated coaching for stable performance and mental readiness of athletes</strong></p>
                             <p>In modern sports, the difference between average and top results is often not in physical preparation, but in the athlete's ability to manage their inner states at key moments.</p>
                             <p>Inner Dynamic Method® is an integrated approach to mental training that connects work with focus, emotions, energy and behavior, with the aim of stabilizing performance and developing psychological resilience.</p>

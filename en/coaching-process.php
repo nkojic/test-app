@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Coaching Process
                             </h1>
                             <p>What the coaching process looks like</p>
                             <p>Coaching usually begins with a conversation about a topic that is currently important to you. This may be a decision you want to make, a situation that is weighing on you, or a desire for change and personal development.</p>

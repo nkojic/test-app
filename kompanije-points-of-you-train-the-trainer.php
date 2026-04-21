@@ -4,7 +4,7 @@ $page_title       = 'Points of You Train the Trainer za kompanije | Inner Dynami
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kompanije-poy-ttt';
 $page_hero_icon   = 'icon-graduation-cap';
-$page_hero_title  = 'Points of You Train the Trainer';
+$page_hero_title  = 'Ponude';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
@@ -28,11 +28,10 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Points of You Train the Trainer
                             </h1>
                             <h3>TRENING SERTIFIKACIJA ZA KORIŠĆENJE POINTS OF YOU METODOLOGIJE</h3>
 
-                            <h3>PREDLOG PROGRAMA TRENINGA</h3>
                             <p>Points of You metodologija predstavlja inovativan pristup razvoju kreativnih alata namenjenih ličnom i profesionalnom razvoju. Osnovana 2006. godine u Izraelu, kompanija Points of You kreirala je jedinstvenu igru koja inspiriše razvojne procese kroz kreativnost, introspekciju i zabavu. Ovaj metod nudi novu perspektivu, podstiče autentične dijaloge i stvara moćne radionice.</p>
 
                             <h3>Osnovni principi</h3>

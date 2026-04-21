@@ -30,7 +30,6 @@ include 'includes/header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <h3>INNER DYNAMIC METHOD®</h3>
                             <p><strong>Integrisani coaching za razvoj performansi, stabilnosti i unutrašnjih resursa</strong></p>
                             <p>Inner Dynamic Method® predstavlja integrisani coaching pristup koji objedinjuje savremene metode rada na mentalnim, emocionalnim i telesnim procesima, sa ciljem razvoja stabilnog, funkcionalnog i autentičnog načina funkcionisanja u svakodnevnim i zahtevnim situacijama.</p>
                             <p>Polazište metode je da se performans, donošenje odluka i ponašanje ne dešavaju slučajno, već kao rezultat unutrašnje dinamike – načina na koji osoba razmišlja, oseća, reaguje i upravlja sopstvenom energijom.</p>

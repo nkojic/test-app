@@ -4,7 +4,7 @@ $page_title       = 'S.F.E.R.A. Mental Training for Sports Clubs | Inner Dynamic
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-klubovi-sfera';
 $page_hero_icon   = 'icon-star';
-$page_hero_title  = 'S.F.E.R.A. Mental Training';
+$page_hero_title  = 'Offers';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = '../images/hero.webp';
@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                S.F.E.R.A. Mental Training
                             </h1>
                             <h3>SPORTS PERFORMANCE ENHANCEMENT PROGRAM BASED ON THE S.F.E.R.A. MODEL</h3>
                             <p>In modern sports, where athletes are expected to deliver top results, performance continuity and the ability to function under pressure, mental stability, focus and energy management are key success factors.</p>

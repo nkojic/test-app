@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                O Coachingu
                             </h1>
                             <p>Coaching – prostor u kom počinju prave promene</p>
                             <p>Postoje trenuci u životu kada znamo da želimo promenu, ali ne znamo tačno odakle da krenemo. Ponekad imamo mnogo ideja, ali nedostaje jasnoća. Nekada osećamo da možemo više, ali nas nešto iznutra zaustavlja.</p>

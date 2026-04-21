@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Coaching Proces
                             </h1>
                             <p>Kako izgleda coaching proces</p>
                             <p>Coaching obično počinje razgovorom o temi koja je trenutno važna za vas. To može biti odluka koju želite da donesete, situacija koja vas opterećuje ili želja za promenom i ličnim razvojem.</p>

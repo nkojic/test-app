@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Gde Coaching pravi razliku
                             </h1>
                             <p>Kada se koristi coaching</p>
                             <p>Ljudi dolaze na coaching iz različitih razloga, ali gotovo uvek postoji jedan zajednički motiv: želja za promenom.</p>

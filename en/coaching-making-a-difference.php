@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Where Coaching Makes a Difference
                             </h1>
                             <p>When coaching is used</p>
                             <p>People come to coaching for different reasons, but there is almost always one common motivation: the desire for change.</p>

@@ -4,7 +4,7 @@ $page_title       = 'Wing Wave Coaching za kompanije | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kompanije-wing-wave';
 $page_hero_icon   = 'icon-feather';
-$page_hero_title  = 'Wing Wave Coaching';
+$page_hero_title  = 'Ponude';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
@@ -28,9 +28,9 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Wing Wave Coaching
                             </h1>
-                            <h3>WINGWAVE COACHING U KOMPANIJAMA</h3>
+                            <h3>U KOMPANIJAMA</h3>
                             <p><strong>Brz i precizan rad na stresu, blokadama i performansu</strong></p>
                             <p>U poslovnom okruženju, stres, pritisak i emocionalne reakcije često direktno utiču na performans, donošenje odluka i kvalitet rada.</p>
                             <p>Wingwave coaching predstavlja kratkoročnu i ciljanu metodologiju koja omogućava brzo smanjenje stresnih reakcija i uklanjanje unutrašnjih blokada koje utiču na efikasnost.</p>

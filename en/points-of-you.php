@@ -29,7 +29,6 @@ include '../includes/en-header.php';
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 <?php echo htmlspecialchars($page_hero_title); ?>
                             </h1>
-                            <h3>POINTS OF YOU</h3>
                             <p>There comes a moment when you know you need to stop. Not because you do not have the answer, but because in the rapid succession of events and the noise of life you can no longer hear it.</p>
                             <p>Points of You is precisely that space.</p>
                             <p>A space where you pause. Breathe. And for the first time in a long while truly look at where you are, what is happening around you, what you spend most of your day doing, how you feel.</p>

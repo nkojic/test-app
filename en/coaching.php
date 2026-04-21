@@ -27,7 +27,7 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                About Coaching
                             </h1>
                             <p>Coaching – a space where real change begins</p>
                             <p>There are moments in life when we know we want change, but we don't know where to start. Sometimes we have many ideas but clarity is missing. Sometimes we feel we can do more, but something inside holds us back.</p>

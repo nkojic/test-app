@@ -5,7 +5,7 @@ $page_title       = 'Moj pristup radu | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'moj-pristup-radu';
 $page_hero_icon   = 'icon-user';
-$page_hero_title  = 'Moj pristup radu';
+$page_hero_title  = 'O Meni';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
@@ -29,7 +29,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Moj pristup radu
                             </h1>
                             <p>Integracija tela, emocija i unutrašnjih uvida</p>
                             <p>Postoje trenuci u životu kada nas put odvede u pravcu koji nismo planirali – ali upravo taj put postane najznačajniji.</p>

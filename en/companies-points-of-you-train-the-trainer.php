@@ -4,7 +4,7 @@ $page_title       = 'Points of You Train the Trainer for Companies | Inner Dynam
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'kompanije-poy-ttt';
 $page_hero_icon   = 'icon-graduation-cap';
-$page_hero_title  = 'Points of You Train the Trainer';
+$page_hero_title  = 'Offers';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = '../images/hero.webp';
@@ -27,11 +27,10 @@ include '../includes/en-header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Points of You Train the Trainer
                             </h1>
                             <h3>TRAINING CERTIFICATION FOR USING POINTS OF YOU METHODOLOGY</h3>
 
-                            <h3>TRAINING PROGRAM PROPOSAL</h3>
                             <p>Points of You methodology is an innovative approach to developing creative tools designed for personal and professional development. Founded in 2006 in Israel, Points of You created a unique game that inspires developmental processes through creativity, introspection and fun. This method offers a new perspective, encourages authentic dialogues and creates powerful workshops.</p>
 
                             <h3>Core Principles</h3>

@@ -4,7 +4,7 @@ $page_title       = 'Wing Wave Coaching za sportske klubove | Inner Dynamic Meth
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = 'sportski-klubovi-wing-wave';
 $page_hero_icon   = 'icon-feather';
-$page_hero_title  = 'Wing Wave Coaching';
+$page_hero_title  = 'Ponude';
 $featured_image     = '';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
@@ -28,9 +28,9 @@ include 'includes/header.php';
                         <section class="post_content">
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
-                                <?php echo htmlspecialchars($page_hero_title); ?>
+                                Wing Wave Coaching
                             </h1>
-                            <h3>WINGWAVE COACHING U SPORTSKIM KLUBOVIMA</h3>
+                            <h3>U SPORTSKIM KLUBOVIMA</h3>
                             <p><strong>Program za brzo uklanjanje blokada i stabilizaciju performansi</strong></p>
                             <p>U sportu, razlika između treninga i takmičenja često nije u znanju ili fizičkoj spremi, već u emocionalnim reakcijama i stresu koji se aktiviraju u ključnim momentima.</p>
                             <p>Wingwave coaching je kratkoročna, neuropsihološki zasnovana metoda koja ima za cilj brzo smanjenje stresnih reakcija i stabilizaciju performansi.</p>
