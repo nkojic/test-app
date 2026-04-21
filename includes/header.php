@@ -307,7 +307,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                             <li class="menu-item<?php echo ($current_page == 'sfera-mentalni-trening') ? ' current-menu-item' : ''; ?>"><a href="sfera-mentalni-trening.php">S.F.E.R.A. Mentalni Trening</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : ''; ?>"><a href="o-meni.php">O Meni</a>
+                                    <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : ''; ?>"><a>O Meni</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item<?php echo ($current_page == 'o-meni') ? ' current-menu-item' : ''; ?>"><a href="o-meni.php">O Meni</a></li>
                                             <li class="menu-item<?php echo ($current_page == 'moj-pristup-radu') ? ' current-menu-item' : ''; ?>"><a href="moj-pristup-radu.php">Moj pristup radu</a></li>
