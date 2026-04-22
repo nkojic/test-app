@@ -1160,3 +1160,14 @@
 .menu_main_nav>li>a {
     padding: 1em 0.8em;
 }
+
+/* Fix s3: inicijalni header (pre skrolovanja) — polutransparentna tamna pozadina za bolju čitljivost */
+body:not(.top_panel_fixed) .top_panel_position_over .top_panel_top,
+body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
+    background: rgba(33, 33, 33, 0.55) !important;
+}
+
+/* Fix s2: fiksiran header — ceo red (logo + meni) ista tamna pozadina */
+.top_panel_fixed .top_panel_position_over .top_panel_middle {
+    background-color: #212121 !important;
+}
