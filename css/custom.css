@@ -1144,3 +1144,19 @@
     width: 33.333% !important;
     float: none !important;
 }
+
+/* Fix: navigacija - sprečava prelom menija na manjim laptopima (14") */
+.top_panel_style_6 .contact_logo,
+.top_panel_style_7 .contact_logo {
+    width: 18%;
+}
+.top_panel_style_6 .menu_main_wrap,
+.top_panel_style_7 .menu_main_wrap {
+    width: 82%;
+}
+.menu_main_nav>li {
+    margin-right: 1.8em;
+}
+.menu_main_nav>li>a {
+    padding: 1em 0.8em;
+}
