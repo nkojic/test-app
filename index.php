@@ -12,7 +12,7 @@ include 'includes/header.php';
                 <div id="rev_slider_3_1" class="rev_slider fullscreenbanner" data-version="5.2.6">
                     <ul>
                         <li data-index="rs-7" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/1-3-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <img src="images/1170x700.jpg" alt="" title="1" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <img src="images/inner-dynamic-coaching-danijela.webp" alt="Inner Dynamic Coaching" title="1" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-7-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-77','-77','-193','-127']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
                                 <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','180px','169px']" data-hh="20px" data-no-retina>
                             </div>
@@ -22,7 +22,7 @@ include 'includes/header.php';
                             <div class="tp-caption black tp-resizeme" id="slide-7-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['192','192','102','223']" data-fontsize="['11','11','18','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(175, 56, 80, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"kontakt.php","delay":""}]' data-responsive_offset="on">Zakažite svoju sesiju</div>
                         </li>
                         <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/2-1-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <img src="images/1170x700.jpg" alt="" title="2" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <img src="images/wing-wave-danijela.webp" alt="Wing Wave Coaching" title="2" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-6-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-120','-120','-220','-155']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
                                 <img src="images/Vector-Smart-Object.png" alt="" width="129" height="128" data-ww="['105px','105px','105px','105px']" data-hh="['105px','105px','105px','105px']" data-no-retina>
                             </div>
@@ -32,7 +32,7 @@ include 'includes/header.php';
                             <div class="tp-caption black tp-resizeme" id="slide-6-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['205','205','105','238']" data-fontsize="['11','11','11','15']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;" data-style_hover="c:rgba(175, 56, 80, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);" data-transform_in="y:50px;opacity:0;s:3000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"kontakt.php","delay":""}]' data-responsive_offset="on">Zakažite svoju sesiju</div>
                         </li>
                         <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/3-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <img src="images/1170x700.jpg" alt="" title="3" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <img src="images/points-of-you-danijela.webp" alt="Points of You Coaching" title="3" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-5-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-117','-117','-217','-176']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
                                 <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','169px','169px']" data-hh="['20px','20px','20px','20px']" data-no-retina>
                             </div>
@@ -146,7 +146,7 @@ include 'includes/header.php';
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
                                                                     <a href="jasnoca-i-usmerenje.php">
-                                                                        <img alt="" src="images/370x370.jpg">
+                                                                        <img alt="Jasnoća i usmerenje" src="images/inner-dynamic-method-jasnoca-usmerenje.webp">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
@@ -177,7 +177,7 @@ include 'includes/header.php';
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
                                                                     <a href="emocije-trauma-stres.php">
-                                                                        <img alt="" src="images/370x370.jpg">
+                                                                        <img alt="Emocije trauma stres" src="images/wing-wave-emocije-trauma-stres.webp">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
@@ -208,7 +208,7 @@ include 'includes/header.php';
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
                                                                     <a href="nova-perspektiva.php">
-                                                                        <img alt="" src="images/370x370.jpg">
+                                                                        <img alt="Nova perspektiva" src="images/points-of-you-nova-perspektiva.webp">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
@@ -241,7 +241,7 @@ include 'includes/header.php';
                                 </div>
                             </div>
                             <div class="sc_row-full-width"></div>
-                            <div data-sc-full-width="true" data-sc-full-width-init="false" class="sc_row row sc_row-fluid sc_custom_1459501367721 inverse_colors">
+                            <div data-sc-full-width="true" data-sc-full-width-init="false" class="sc_row row sc_row-fluid sc_custom_1459501367721 inverse_colors" style="background-image:url('images/utisci-inner-dynamic-method.webp'); background-size:cover; background-position:center center;">
                                 <div class="column sc_column_container sc_col-sm-12">
                                     <div class="sc_column-inner ">
                                         <div class="wrapper">
