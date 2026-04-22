@@ -29,6 +29,9 @@ include '../includes/en-header.php';
                 <div class="content">
                     <article class="post post_item_single">
                         <section class="post_content">
+                            <div class="page-intro-image" style="text-align:center; margin-bottom:30px;">
+                                <img src="../images/inner-dinamic-method-stranica.webp" alt="Inner Dynamic Method" style="max-width:100%; height:auto;">
+                            </div>
                             <h1 class="post_title entry-title">
                                 <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                 Clarity and Direction
