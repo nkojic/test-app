@@ -56,7 +56,7 @@ include 'includes/header.php';
                             <h2>Kada promenimo perspektivu</h2>
                             <p>Points of You® metodologija koristi fotografije i metafore kako bi pokrenula intuiciju i otvorila nove načine razmišljanja.</p>
                             <p>Ponekad samo jedna nova perspektiva može promeniti način na koji doživljavamo situaciju – a time i odluke koje donosimo.</p>
-                            <h2>Kada se svi delovi u Vas usklade</h2>
+                            <h2>Kada se svi delovi Vas usklade</h2>
                             <p>S.F.E.R.A. mentalni trening zasniva se na pet ključnih elemenata: sinhroniji, snazi (resursima), energiji, ritmu i aktivaciji — faktorima koji zajedno određuju kako funkcionišemo u svakodnevnim i zahtevnim situacijama.</p>
                             <p>Ne radi se o tome da „gurate sebe više". Već da naučite kako da dovedete sebe u stanje u kojem sve radi zajedno, u savršenom flow-u.</p>
                             <p>Kada postoji unutrašnja sinhronija, odluke postaju jasnije. Kada prepoznate Vaše snage, raste sigurnost. Kada upravljate energijom i ritmom, nestaje osećaj defokusiranosti. A aktivacija, to je onaj trenutak kada se pojave motivacija i želja da napravite korak. Ne zato što morate — već zato što želite.</p>
