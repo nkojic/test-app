@@ -3,7 +3,7 @@ $_idc_pages          = ['inner-dynamic-coaching'];
 $_coaching_pages     = ['coaching','coaching-gde-pravi-razliku','coaching-proces','business-coaching','sportski-coaching','life-coaching'];
 $_wing_wave_pages    = ['wing-wave','wing-wave-sesija'];
 $_poy_pages          = ['points-of-you','points-of-you-sesija','primena-points-of-you'];
-$_sfera_pages        = ['sfera-mentalni-trening'];
+$_sfera_pages        = ['sfera-mentalni-trening','proces-sfera-mentalnog-treninga'];
 $_inner_pages        = array_merge($_idc_pages, $_coaching_pages, $_wing_wave_pages, $_poy_pages, $_sfera_pages);
 
 $lang       = 'en';
@@ -164,7 +164,12 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                             <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-application.php">Applying Points of You</a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item<?php echo ($current_page == 'sfera-mentalni-trening') ? ' current-menu-item' : ''; ?>"><a href="sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
+                                    <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_sfera_pages) ? ' current-menu-ancestor' : ''; ?>"><a>S.F.E.R.A. Mental Training</a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item<?php echo ($current_page == 'sfera-mentalni-trening') ? ' current-menu-item' : ''; ?>"><a href="sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'proces-sfera-mentalnog-treninga') ? ' current-menu-item' : ''; ?>"><a href="sfera-mental-training-process.php">S.F.E.R.A. Mental Training Process</a></li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : ''; ?>"><a>About Me</a>
@@ -308,7 +313,12 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                                     <li class="menu-item<?php echo ($current_page == 'primena-points-of-you') ? ' current-menu-item' : ''; ?>"><a href="points-of-you-application.php">Applying Points of You</a></li>
                                                 </ul>
                                             </li>
+                                            <li class="menu-item menu-item-has-children<?php echo in_array($current_page, $_sfera_pages) ? ' current-menu-ancestor' : ''; ?>"><a>S.F.E.R.A. Mental Training</a>
+                                        <ul class="sub-menu">
                                             <li class="menu-item<?php echo ($current_page == 'sfera-mentalni-trening') ? ' current-menu-item' : ''; ?>"><a href="sfera-mental-training.php">S.F.E.R.A. Mental Training</a></li>
+                                            <li class="menu-item<?php echo ($current_page == 'proces-sfera-mentalnog-treninga') ? ' current-menu-item' : ''; ?>"><a href="sfera-mental-training-process.php">S.F.E.R.A. Mental Training Process</a></li>
+                                        </ul>
+                                    </li>
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children<?php echo in_array($current_page, ['o-meni','moj-pristup-radu','spoj-koji-pravi-razliku']) ? ' current-menu-ancestor' : ''; ?>"><a>About Me</a>
