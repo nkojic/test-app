@@ -25,11 +25,11 @@ include '../includes/en-header.php';
                 <div class="content">
                     <article class="post post_item_single">
                         <section class="post_content">
-                            <div class="row">
-                                <div class="col-sm-6" style="margin-bottom:30px;">
-                                    <img src="../images/o-meni-danijela-maric-pavlovic.webp" alt="dr Danijela Marić Pavlović" style="max-width:100%; height:auto;">
+                            <div style="display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start;">
+                                <div style="flex:1 1 45%; min-width:300px;">
+                                    <img src="../images/o-meni-danijela-maric-pavlovic.webp" alt="dr Danijela Marić Pavlović" style="width:100%; height:auto;">
                                 </div>
-                                <div class="col-sm-6">
+                                <div style="flex:1 1 45%; min-width:300px;">
                                     <h1 class="post_title entry-title">
                                         <span class="post_icon <?php echo $page_hero_icon; ?>"></span>
                                         About Me
