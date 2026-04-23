@@ -39,40 +39,6 @@ include '../includes/en-header.php';
                                                     <h5 class="sc_accordion_title">
                                                         <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
                                                         <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                        STRESS AND ANXIETY REDUCTION
-                                                    </h5>
-                                                    <div class="sc_accordion_content">
-                                                        <div class="text_column content_element">
-                                                            <div class="wrapper">
-                                                                <p>Coaching helped me find my inner peace again and reduce stress and anxiety. I felt the first effects after just a few weeks, when I noticed I was more tolerant than usual, more patient and happier. It also helped me with back and shoulder pain and sinus problems.</p>
-                                                                <p>Đorđe, 35</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="sc_accordion_item">
-                                                    <h5 class="sc_accordion_title">
-                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
-                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                        SHOULDER AND UPPER ARM PAIN
-                                                    </h5>
-                                                    <div class="sc_accordion_content">
-                                                        <div class="text_column content_element">
-                                                            <div class="wrapper">
-                                                                <p>I am 55 years old and my experience has been very positive. I am grateful for the help I received in relieving long-standing pain in my shoulder, upper arm and stiff back caused by sitting at work for long hours and poor posture. Doctors said it was from old injuries — I had first tried physiotherapy which helped only a little and seemed endless.
-After just three sessions the pain in my shoulder and upper arm disappeared and my neck relaxed — it was no longer stiff. I sleep more peacefully now, whereas before I could not even lean on my arm because of the pain. My range of motion has greatly improved. With this work I managed to recover physically and mentally and now do shoulder and back exercises without pain.</p>
-                                                                <p>Warm recommendation!</p>
-                                                                <p>Ivana, 55</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="sc_accordion_item">
-                                                    <h5 class="sc_accordion_title">
-                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
-                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
                                                         RELAXATION
                                                     </h5>
                                                     <div class="sc_accordion_content">

@@ -41,40 +41,6 @@ include 'includes/header.php';
                                                     <h5 class="sc_accordion_title">
                                                         <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
                                                         <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                        SMANJENJE STRESA I NERVOZE
-                                                    </h5>
-                                                    <div class="sc_accordion_content">
-                                                        <div class="text_column content_element">
-                                                            <div class="wrapper">
-                                                                <p>Coaching mi je pomogao da ponovo pronađem unutrašnji mir, da smanjim stres i nervozu. Prvi efekat sam osetio već posle par nedelja kada sam primetio da sam tolerantniji nego inače, strpljiviji i srećniji. Takođe mi je pomogao kod bolova u leđima i ramenima i problemima sa sinusima.</p>
-                                                                <p>Đorđe, 35</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="sc_accordion_item">
-                                                    <h5 class="sc_accordion_title">
-                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
-                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                        BOL U RAMENU I NADLAKTICI
-                                                    </h5>
-                                                    <div class="sc_accordion_content">
-                                                        <div class="text_column content_element">
-                                                            <div class="wrapper">
-                                                                <p>Imam 55 godina i moje iskustvo je pozitivno. Zahvaljujem se što mi je pomogla da se oslobodim dugotrajnih bolova u ramenu, nadlaktici i ukočenim leđima koja su nastala što od dugog sedenja na poslu, lošeg držanja, lekari kažu da je od povreda, pošto sam prvo išla kod fizijatra i na terapije koje su mi malo pomogle, a nije bilo kraja njima.
-Posle tri sesije nestao mi je bol u ramenu i nadlaktici i vrat se opustio, nije bio više ukočen. Opuštenije spavam, a nisam mogla da se naslonim na ruku od bolova. Pokretljivost ruke i ramena je veća. Uz rad sa njom uspela sam da se povratim psiho fizički i da bez bolova radim vežbe za ramena i leđa.</p>
-                                                                <p>Topla preporuka!</p>
-                                                                <p>Ivana, 55</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="sc_accordion_item">
-                                                    <h5 class="sc_accordion_title">
-                                                        <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
-                                                        <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
                                                         RELAKSACIJA
                                                     </h5>
                                                     <div class="sc_accordion_content">
