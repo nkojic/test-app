@@ -1193,3 +1193,9 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
 }
+
+/* Fix: Mr De Haviland ne podržava srpska slova — zamena sa Droid Serif italic */
+.ih-item .info .post_category {
+    font-family: 'Droid Serif', serif !important;
+    font-style: italic;
+}
