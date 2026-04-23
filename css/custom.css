@@ -1194,8 +1194,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
     margin-bottom: 0 !important;
 }
 
-/* Fix: Mr De Haviland ne podržava srpska slova — zamena sa Droid Serif italic */
+/* Fix: Mr De Haviland ne podržava srpska slova — zamena sa Dancing Script */
 .ih-item .info .post_category {
-    font-family: 'Droid Serif', serif !important;
-    font-style: italic;
+    font-family: 'Dancing Script', cursive !important;
 }
