@@ -256,39 +256,39 @@ include '../includes/en-header.php';
                                                         <div class="swiper-slide" data-style="width:100%;">
                                                             <div id="sc_testimonials_179_1" class="sc_testimonial_item">
                                                                 <div class="sc_testimonial_content">
-                                                                    <p>The comfortable space, calming music and tea combined with a great model of care and very professional therapists – makes each visit a great experience and has helped me begin to feel better.</p>
+                                                                    <p>I came on a recommendation. This is the only therapy that brought me deep relaxation after the very first session. It benefits both body and mind. The feeling of peace and lightness after the therapy is priceless — it lasts and continues day after day.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Letitia Shelton" src="../images/370x370.jpg">
+                                                                    <img alt="Tanja" src="../images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
-                                                                    <a href="#" class="sc_testimonial_author_name">Letitia Shelton</a>
+                                                                    <span class="sc_testimonial_author_name">Tanja, 47</span>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide" data-style="width:100%;">
                                                             <div id="sc_testimonials_179_2" class="sc_testimonial_item">
                                                                 <div class="sc_testimonial_content">
-                                                                    <p>I have been looking for someone that could deliver an amazing massage and I found. You are absolutely fantastic, knowing exactly what I need. Thanks for making my day with your 90 minutes of total relaxation!</p>
+                                                                    <p>I consider Wing Wave an exceptional method that helped me release negative emotions and beliefs I no longer needed. After the session I felt relief and a different perspective on things I used to react to with exaggerated emotion.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Alexis Adams" src="../images/370x370.jpg">
+                                                                    <img alt="Jovana" src="../images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
-                                                                    <a href="#" class="sc_testimonial_author_name">Alexis Adams</a>
+                                                                    <span class="sc_testimonial_author_name">Jovana, 30</span>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide" data-style="width:100%;">
                                                             <div id="sc_testimonials_179_3" class="sc_testimonial_item">
                                                                 <div class="sc_testimonial_content">
-                                                                    <p>Thank you so very, very much!!! I was in pain in my neck, right shoulder, and back for three whole months…I feel so much better. Thanks again for helpful recommendations and a great treatment!</p>
+                                                                    <p>With Danijela I did Life coaching and Bowen therapy. Every session brought me new energy and peace. Life coaching helped me define my goals, open my mind and believe that I already have everything within me to achieve what I envision.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Glen Welch" src="../images/370x370.jpg">
+                                                                    <img alt="Dragana" src="../images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
-                                                                    <a href="#" class="sc_testimonial_author_name">Glen Welch</a>
+                                                                    <span class="sc_testimonial_author_name">Dragana, 40</span>
                                                                 </div>
                                                             </div>
                                                         </div>

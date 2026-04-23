@@ -249,46 +249,46 @@ include 'includes/header.php';
                                                 <span class="sc_empty_space_inner"></span>
                                             </div>
                                             <div id="sc_testimonials_179" class="sc_testimonials sc_testimonials_style_testimonials-1 cu_fullwidth">
-                                                <h6 class="sc_testimonials_subtitle sc_item_subtitle">Testimonials</h6>
-                                                <h2 class="sc_testimonials_title sc_item_title">what people say about us</h2>
+                                                <h6 class="sc_testimonials_subtitle sc_item_subtitle">Utisci</h6>
+                                                <h2 class="sc_testimonials_title sc_item_title">šta kažu naši klijenti</h2>
                                                 <div class="sc_slider_swiper swiper-slider-container sc_slider_nopagination sc_slider_controls sc_slider_controls_side" data-interval="6815" data-slides-min-width="250">
                                                     <div class="slides swiper-wrapper">
                                                         <div class="swiper-slide" data-style="width:100%;">
                                                             <div id="sc_testimonials_179_1" class="sc_testimonial_item">
                                                                 <div class="sc_testimonial_content">
-                                                                    <p>The comfortable space, calming music and tea combined with a great model of care and very professional therapists – makes each visit a great experience and has helped me begin to feel better.</p>
+                                                                    <p>Na sesiju sam došla po preporuci. Ovo je jedina terapija koja mi je donela duboko opuštanje već nakon prvog tretmana. Prija i telu i umu. Neprocenjiv je osećaj mira i lakoće posle terapije koji ostaje dugo i nastavlja se iz dana u dan.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Letitia Shelton" src="images/370x370.jpg">
+                                                                    <img alt="Tanja" src="images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
-                                                                    <a href="#" class="sc_testimonial_author_name">Letitia Shelton</a>
+                                                                    <span class="sc_testimonial_author_name">Tanja, 47</span>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide" data-style="width:100%;">
                                                             <div id="sc_testimonials_179_2" class="sc_testimonial_item">
                                                                 <div class="sc_testimonial_content">
-                                                                    <p>I have been looking for someone that could deliver an amazing massage and I found. You are absolutely fantastic, knowing exactly what I need. Thanks for making my day with your 90 minutes of total relaxation!</p>
+                                                                    <p>Wing Wave smatram izuzetnom metodom koja mi je pomogla da se oslobodim negativnih emocija i uverenja koja mi nisu bila potrebna. Posle sesije sam osetila rasterećenje i olakšanje, ali i drugačiji pogled na stvari na koje sam pre reagovala prenaglašeno emotivno.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Alexis Adams" src="images/370x370.jpg">
+                                                                    <img alt="Jovana" src="images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
-                                                                    <a href="#" class="sc_testimonial_author_name">Alexis Adams</a>
+                                                                    <span class="sc_testimonial_author_name">Jovana, 30</span>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="swiper-slide" data-style="width:100%;">
                                                             <div id="sc_testimonials_179_3" class="sc_testimonial_item">
                                                                 <div class="sc_testimonial_content">
-                                                                    <p>Thank you so very, very much!!! I was in pain in my neck, right shoulder, and back for three whole months…I feel so much better. Thanks again for helpful recommendations and a great treatment!</p>
+                                                                    <p>Kod Danijele sam radila Life coaching i Bowen terapiju. Svaki susret mi je donosio novu energiju i mir. Life coaching mi je pomogao da definišem ciljeve, otvorim um i poverujem da imam već sve u sebi da ostvarim ono što zamislim.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Glen Welch" src="images/370x370.jpg">
+                                                                    <img alt="Dragana" src="images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
-                                                                    <a href="#" class="sc_testimonial_author_name">Glen Welch</a>
+                                                                    <span class="sc_testimonial_author_name">Dragana, 40</span>
                                                                 </div>
                                                             </div>
                                                         </div>
