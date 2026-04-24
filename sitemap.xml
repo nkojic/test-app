@@ -188,6 +188,90 @@
         <priority>0.7</priority>
     </url>
 
+    <!-- S.F.E.R.A. Mentalni Trening -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/sfera-mentalni-trening.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/proces-sfera-mentalnog-treninga.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Inner Dynamic Coaching -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/inner-dynamic-coaching.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Inner Dynamic Method podmeni -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/kvalitet-zivota.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/godine-su-samo-broj.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/starenje-kao-izbor.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/ko-je-odgovoran-za-tvoj-zivot.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/odnosi-i-izazovi-u-njima.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/trauma-traumaticno-iskustvo.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/zaledjenost-freez-mod.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/nova-perspektiva.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/jasnoca-i-usmerenje.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/emocije-trauma-stres.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
     <!-- Kontakt -->
     <url>
         <loc>https://innerdynamicmethod.rs/kontakt.php</loc>
@@ -392,6 +476,90 @@
     <url>
         <loc>https://innerdynamicmethod.rs/en/companies-wing-wave.php</loc>
         <lastmod>2026-04-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- EN - S.F.E.R.A. Mental Training -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sfera-mental-training.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/sfera-mental-training-process.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- EN - Inner Dynamic Coaching -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/inner-dynamic-coaching.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- EN - Inner Dynamic Method podstranice -->
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/quality-of-life.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/age-is-just-a-number.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/aging-as-a-choice.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/who-is-responsible-for-your-life.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/relationships-and-challenges.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/trauma-traumatic-experience.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/freeze-mode.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/new-perspective.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/clarity-and-direction.php</loc>
+        <lastmod>2026-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://innerdynamicmethod.rs/en/emotions-trauma-stress.php</loc>
+        <lastmod>2026-04-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
