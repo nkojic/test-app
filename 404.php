@@ -29,7 +29,7 @@ include 'includes/header.php';
                             <h3>Na žalost, ova stranica nije pronađena.</h3>
                             <p>Stranica koju tražite ne postoji ili je premeštena.</p>
                             <div style="margin:1.5em 0;">
-                                <img src="images/404.jpg" alt="Stranica nije pronađena" style="max-width:300px;">
+                                <img loading="lazy" src="images/404.jpg" alt="Stranica nije pronađena" style="max-width:300px;">
                             </div>
                             <div style="margin-top:1.5em;">
                                 <a href="index.php" class="sc_button sc_button_style_filled sc_button_size_medium">

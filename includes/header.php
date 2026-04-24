@@ -93,12 +93,12 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <link rel='stylesheet' href='js/vendor/revslider/rev.settings.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/core.animation.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/core.animation.min.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/shortcodes.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/instagram-widget.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/skin.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/custom-style.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/responsive.min.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/skin.responsive.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/custom.responsive.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/grid.layout/grid.layout.min.css' type='text/css' media='all' />
@@ -109,7 +109,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <link rel='stylesheet' href='js/vendor/swiper/swiper.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/essgrid/lightbox.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/plugins.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/custom.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/custom.min.css' type='text/css' media='all' />
     <?php if (!empty($extra_head_html)) echo $extra_head_html; ?>
 </head>
 

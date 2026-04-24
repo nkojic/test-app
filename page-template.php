@@ -33,7 +33,7 @@ include 'includes/header.php';
                         <?php if ($featured_image): ?>
                         <section class="post_featured">
                             <div class="post_thumb">
-                                <img width="600" alt="<?php echo htmlspecialchars($featured_image_alt); ?>" src="<?php echo $featured_image; ?>">
+                                <img width="600" loading="lazy" alt="<?php echo htmlspecialchars($featured_image_alt); ?>" src="<?php echo $featured_image; ?>">
                             </div>
                         </section>
                         <?php endif; ?>

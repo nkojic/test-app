@@ -29,7 +29,7 @@ include 'includes/header.php';
                             <h3>Pristup ovoj stranici je zabranjen.</h3>
                             <p>Nemate dozvolu za pristup ovom resursu.</p>
                             <div style="margin:1.5em 0;">
-                                <img src="images/404.jpg" alt="Pristup zabranjen" style="max-width:300px;">
+                                <img loading="lazy" src="images/404.jpg" alt="Pristup zabranjen" style="max-width:300px;">
                             </div>
                             <div style="margin-top:1.5em;">
                                 <a href="index.php" class="sc_button sc_button_style_filled sc_button_size_medium">

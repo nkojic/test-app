@@ -28,7 +28,7 @@ include 'includes/header.php';
                         <section class="post_content">
                             <div style="display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start;">
                                 <div style="flex:1 1 45%; min-width:300px;">
-                                    <img src="images/o-meni-danijela-maric-pavlovic.webp" alt="dr Danijela Marić Pavlović" style="width:100%; height:auto;">
+                                    <img loading="lazy" src="images/o-meni-danijela-maric-pavlovic.webp" alt="dr Danijela Marić Pavlović" style="width:100%; height:auto;">
                                 </div>
                                 <div style="flex:1 1 45%; min-width:300px;">
                                     <h1 class="post_title entry-title">

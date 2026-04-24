@@ -1217,6 +1217,19 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
     margin-bottom: 0 !important;
 }
 
+/* SEO: sr-only klasa — vidljivo za screen readere i pretraživače, skriveno vizuelno */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 /* Fix: Mr De Haviland ne podržava srpska slova — zamena sa Dancing Script */
 .ih-item .info .post_category {
     font-family: 'Dancing Script', cursive !important;

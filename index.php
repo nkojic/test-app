@@ -14,7 +14,7 @@ include 'includes/header.php';
                         <li data-index="rs-7" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/1-3-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <img src="images/inner-dynamic-coaching-danijela.webp" alt="Inner Dynamic Coaching" title="1" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-7-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-77','-77','-193','-127']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
-                                <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','180px','169px']" data-hh="20px" data-no-retina>
+                                <img src="images/Vector-Smart-Object-6.png" alt="Dekorativni separator" width="169" height="20" data-ww="['169px','169px','180px','169px']" data-hh="20px" data-no-retina>
                             </div>
                             <div class="tp-caption black tp-resizeme" id="slide-7-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-27','-27','-144','-84']" data-fontsize="['48','48','55','55']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">COACHING</div>
                             <div class="tp-caption black tp-resizeme" id="slide-7-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['35','35','-65','14']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">JASNOĆA. BALANS. PROMENA.</div>
@@ -24,7 +24,7 @@ include 'includes/header.php';
                         <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/2-1-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <img src="images/wing-wave-danijela.webp" alt="Wing Wave Coaching" title="2" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-6-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-120','-120','-220','-155']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
-                                <img src="images/Vector-Smart-Object.png" alt="" width="129" height="128" data-ww="['105px','105px','105px','105px']" data-hh="['105px','105px','105px','105px']" data-no-retina>
+                                <img src="images/Vector-Smart-Object.png" alt="Wing Wave logo" width="129" height="128" data-ww="['105px','105px','105px','105px']" data-hh="['105px','105px','105px','105px']" data-no-retina>
                             </div>
                             <div class="tp-caption black tp-resizeme" id="slide-6-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-15','-15','-115','-68']" data-fontsize="['68','68','68','55']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">WING WAVE COACHING</div>
                             <div class="tp-caption black tp-resizeme" id="slide-6-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['55','55','-45','16']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">OSLOBODI ONO ŠTO TE, NESVESNO, KOČI</div>
@@ -34,7 +34,7 @@ include 'includes/header.php';
                         <li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/3-100x50.jpg" data-delay="9000" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <img src="images/points-of-you-danijela.webp" alt="Points of You Coaching" title="3" width="1920" height="955" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <div class="tp-caption tp-resizeme" id="slide-5-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-140','-140','-240','-195']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1200;e:Power2.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="1000" data-responsive_offset="on">
-                                <img src="images/Vector-Smart-Object-6.png" alt="" width="169" height="20" data-ww="['169px','169px','169px','169px']" data-hh="['20px','20px','20px','20px']" data-no-retina>
+                                <img src="images/Vector-Smart-Object-6.png" alt="Dekorativni separator" width="169" height="20" data-ww="['169px','169px','169px','169px']" data-hh="['20px','20px','20px','20px']" data-no-retina>
                             </div>
                             <div class="tp-caption black tp-resizeme" id="slide-5-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-75','-75','-175','-137']" data-width="465" data-height="91" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">POINTS OF YOU COACHING</div>
                             <div class="tp-caption black tp-resizeme" id="slide-5-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-5','-5','-105','-39']" data-fontsize="['68','68','60','55']" data-lineheight="['68','68','60','55']" data-width="['none','none','none','600']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:2500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on">SVI ODGOVORI SU U TEBI</div>
@@ -51,6 +51,7 @@ include 'includes/header.php';
                 <div class="content">
                     <article class="post_item post_item_single page">
                         <section class="post_content">
+                            <h1 class="sr-only">Inner Dynamic Method – Coaching, Wing Wave i Points of You u Beogradu</h1>
                             <div class="sc_row row sc_row-fluid">
                                 <div class="column sc_column_container sc_col-sm-12">
                                     <div class="sc_column-inner ">
@@ -146,7 +147,7 @@ include 'includes/header.php';
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
                                                                     <a href="jasnoca-i-usmerenje.php">
-                                                                        <img alt="Jasnoća i usmerenje" src="images/inner-dynamic-method-jasnoca-usmerenje.webp">
+                                                                        <img loading="lazy" alt="Jasnoća i usmerenje" src="images/inner-dynamic-method-jasnoca-usmerenje.webp">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
@@ -177,7 +178,7 @@ include 'includes/header.php';
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
                                                                     <a href="emocije-trauma-stres.php">
-                                                                        <img alt="Emocije trauma stres" src="images/wing-wave-emocije-trauma-stres.webp">
+                                                                        <img loading="lazy" alt="Emocije trauma stres" src="images/wing-wave-emocije-trauma-stres.webp">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
@@ -208,7 +209,7 @@ include 'includes/header.php';
                                                             <div class="post_content isotope_item_content ih-item colored">
                                                                 <div class="post_featured img">
                                                                     <a href="nova-perspektiva.php">
-                                                                        <img alt="Nova perspektiva" src="images/points-of-you-nova-perspektiva.webp">
+                                                                        <img loading="lazy" alt="Nova perspektiva" src="images/points-of-you-nova-perspektiva.webp">
                                                                     </a>
                                                                 </div>
                                                                 <div class="post_info_wrap info">
@@ -259,7 +260,7 @@ include 'includes/header.php';
                                                                     <p>Na sesiju sam došla po preporuci. Ovo je jedina terapija koja mi je donela duboko opuštanje već nakon prvog tretmana. Prija i telu i umu. Neprocenjiv je osećaj mira i lakoće posle terapije koji ostaje dugo i nastavlja se iz dana u dan.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Tanja" src="images/370x370.jpg">
+                                                                    <img loading="lazy" alt="Tanja" src="images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Tanja, 47</span>
@@ -272,7 +273,7 @@ include 'includes/header.php';
                                                                     <p>Wing Wave smatram izuzetnom metodom koja mi je pomogla da se oslobodim negativnih emocija i uverenja koja mi nisu bila potrebna. Posle sesije sam osetila rasterećenje i olakšanje, ali i drugačiji pogled na stvari na koje sam pre reagovala prenaglašeno emotivno.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Jovana" src="images/370x370.jpg">
+                                                                    <img loading="lazy" alt="Jovana" src="images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Jovana, 30</span>
@@ -285,7 +286,7 @@ include 'includes/header.php';
                                                                     <p>Kod Danijele sam radila Life coaching i Bowen terapiju. Svaki susret mi je donosio novu energiju i mir. Life coaching mi je pomogao da definišem ciljeve, otvorim um i poverujem da imam već sve u sebi da ostvarim ono što zamislim.</p>
                                                                 </div>
                                                                 <div class="sc_testimonial_avatar">
-                                                                    <img alt="Dragana" src="images/370x370.jpg">
+                                                                    <img loading="lazy" alt="Dragana" src="images/370x370.jpg">
                                                                 </div>
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Dragana, 40</span>
@@ -318,7 +319,7 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-187" data-date="1459254645">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/godine-su-samo-broj.webp" alt="Godine su samo broj">
+                                                                    <img loading="lazy" src="images/godine-su-samo-broj.webp" alt="Godine su samo broj">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
@@ -342,7 +343,7 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-189" data-date="1459254861">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/ko-je-odgovoran-za-tvoj-zivot.webp" alt="Ko je odgovoran za tvoj život">
+                                                                    <img loading="lazy" src="images/ko-je-odgovoran-za-tvoj-zivot.webp" alt="Ko je odgovoran za tvoj život">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
@@ -366,7 +367,7 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-192" data-date="1459254977">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/kvalitet-zivota.webp" alt="Kvalitet života">
+                                                                    <img loading="lazy" src="images/kvalitet-zivota.webp" alt="Kvalitet života">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
@@ -390,7 +391,7 @@ include 'includes/header.php';
                                                         <li class="filterall filter-blogger eg-roosevelt-massage-wrapper eg-post-id-194" data-date="1459255607">
                                                             <div class="esg-media-cover-wrapper">
                                                                 <div class="esg-entry-media esg-shifttotop" data-delay="0">
-                                                                    <img src="images/starenje-kao-izbor.webp" alt="Starenje kao izbor">
+                                                                    <img loading="lazy" src="images/starenje-kao-izbor.webp" alt="Starenje kao izbor">
                                                                 </div>
                                                                 <div class="esg-entry-cover">
                                                                     <div class="esg-overlay esg-fade eg-roosevelt-massage-container" data-delay="0"></div>
