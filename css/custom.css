@@ -1190,6 +1190,20 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
     color: #555 !important;
 }
 
+/* Fix s4c: bowencentar.rs dugme — jači kontrast na unutrašnjim stranicama */
+.top_panel_position_above .top_panel_top a[href*="bowencentar"],
+.top_panel_position_above .top_panel_top_socials a[href*="bowencentar"] {
+    background-color: #8c2a3e !important;
+    color: #fff !important;
+    border: 2px solid #8c2a3e !important;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+}
+/* Mobilni panel — bowencentar dugme */
+.header_mobile .panel_bottom a[href*="bowencentar"] {
+    background-color: #8c2a3e !important;
+    color: #fff !important;
+}
+
 /* Fix s4: smanjena visina header-a — manje padding-a ispod menija */
 body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
     padding-bottom: 0 !important;
