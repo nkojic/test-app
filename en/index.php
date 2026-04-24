@@ -77,8 +77,8 @@ include '../includes/en-header.php';
                                                         </div>
                                                         <a href="relationships-and-challenges.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Details</span>
-                                                                <span class="second">Details</span>
+                                                                <span class="first">Read More</span>
+                                                                <span class="second">Read More</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -100,8 +100,8 @@ include '../includes/en-header.php';
                                                         </div>
                                                         <a href="trauma-traumatic-experience.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Details</span>
-                                                                <span class="second">Details</span>
+                                                                <span class="first">Read More</span>
+                                                                <span class="second">Read More</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -123,8 +123,8 @@ include '../includes/en-header.php';
                                                         </div>
                                                         <a href="freeze-mode.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Details</span>
-                                                                <span class="second">Details</span>
+                                                                <span class="first">Read More</span>
+                                                                <span class="second">Read More</span>
                                                             </div>
                                                         </a>
                                                     </div>
