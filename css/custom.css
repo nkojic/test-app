@@ -1172,13 +1172,22 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
     background-color: #212121 !important;
 }
 
-/* Fix s4: bela boja za email/tel/ikonice u gornjoj traci i soc mreže */
-.top_panel_top a,
-.top_panel_top .contact_icon {
+/* Fix s4: bela boja za email/tel/ikonice u gornjoj traci — samo over (index) */
+.top_panel_position_over .top_panel_top a,
+.top_panel_position_over .top_panel_top .contact_icon {
     color: #fff !important;
 }
-.top_panel_top .sc_socials.sc_socials_type_icons a {
+.top_panel_position_over .top_panel_top .sc_socials.sc_socials_type_icons a {
     color: #fff !important;
+}
+
+/* Fix s4b: tamna boja za email/tel/ikonice — unutrašnje stranice (above) */
+.top_panel_position_above .top_panel_top a,
+.top_panel_position_above .top_panel_top .contact_icon {
+    color: #555 !important;
+}
+.top_panel_position_above .top_panel_top .sc_socials.sc_socials_type_icons a {
+    color: #555 !important;
 }
 
 /* Fix s4: smanjena visina header-a — manje padding-a ispod menija */
