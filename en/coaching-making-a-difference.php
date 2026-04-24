@@ -11,6 +11,7 @@ $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/coaching-gde-pravi-razliku.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Where Coaching Makes a Difference","description":"When coaching is used, who benefits and what concrete changes it brings.","url":"https://innerdynamicmethod.rs/en/coaching-making-a-difference.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
+$og_image          = '../images/inner-dynamic-coaching-danijela.webp';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

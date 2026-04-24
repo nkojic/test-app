@@ -469,6 +469,7 @@ $extra_head_html = '<style>
 </style>';
 
 $lang_en_url      = '/en/contact.php';
+$og_image          = 'images/inner-dynamic-coaching-danijela.webp';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

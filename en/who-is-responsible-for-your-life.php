@@ -1,5 +1,5 @@
 <?php
-$meta_description = '';
+$meta_description = 'Unconscious meta-programs guide your choices and life path. Learn how to take responsibility for your life through awareness and authentic decision-making.';
 $page_title       = 'Who Is Responsible for Your Life | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = '';
@@ -15,6 +15,7 @@ $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_sr_url     = '/ko-je-odgovoran-za-tvoj-zivot.php';
 
+$og_image          = '../images/ko-je-odgovoran-za-tvoj-zivotv.webp';
 include '../includes/en-header.php';
 ?>
         <!-- Hero banner commented out for now

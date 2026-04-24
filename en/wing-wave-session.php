@@ -11,6 +11,7 @@ $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/wing-wave-sesija.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Wingwave Session","description":"What a Wingwave session looks like, from defining the topic and the myostatic test to processing emotions and integrating resources.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Emotional Coaching","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/en/wing-wave-session.php"}</script>';
+$og_image          = '../images/wing-wave-danijela.webp';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

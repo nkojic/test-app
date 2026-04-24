@@ -1,5 +1,5 @@
 <?php
-$meta_description = '';
+$meta_description = 'Neobrađene emocije i stres blokiraju napredak. Wing Wave coaching pomaže da oslobodite unutrašnje blokade bez dugotrajne analize i vratite balans.';
 $page_title       = 'Emocije, trauma, stres | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = '';
@@ -7,7 +7,7 @@ $current_page     = '';
 $page_hero_icon   = 'icon-book-open';
 $page_hero_title  = 'Wing Wave Coaching';
 
-$featured_image     = '';
+$featured_image     = 'images/wing-wave-stranica.webp';
 $featured_image_alt = '';
 $page_hero_bg       = 'images/hero.webp';
 
@@ -15,6 +15,7 @@ $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url     = '/en/emotions-trauma-stress.php';
 
+$og_image          = 'images/wing-wave-emocije-trauma-stres.webp';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

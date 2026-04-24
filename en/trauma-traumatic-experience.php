@@ -1,5 +1,5 @@
 <?php
-$meta_description = '';
+$meta_description = 'Traumatic experiences remain locked in the body, affecting reactions long after the event. Integrate trauma safely and gradually, without reliving it.';
 $page_title       = 'Trauma – Traumatic Experience | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = '';
@@ -15,6 +15,7 @@ $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_sr_url     = '/trauma-traumaticno-iskustvo.php';
 
+$og_image          = '../images/trauma-traumaticno-iskustvo.webp';
 include '../includes/en-header.php';
 ?>
         <!-- Hero banner commented out for now

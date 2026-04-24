@@ -1,5 +1,5 @@
 <?php
-$meta_description = '';
+$meta_description = 'Nesvesni meta-programi upravljaju vašim izborima i životnim putem. Saznajte kako preuzeti odgovornost za sopstveni život kroz svesnost i autentične odluke.';
 $page_title       = 'Ko je odgovoran za tvoj život | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = '';
@@ -15,6 +15,7 @@ $page_hero_bg       = 'images/hero.webp';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 
+$og_image          = 'images/ko-je-odgovoran-za-tvoj-zivotv.webp';
 include 'includes/header.php';
 ?>
         <!-- Hero baner zakomentarisan za sada

@@ -11,6 +11,7 @@ $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/ponude.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Offers","description":"Individual coaching sessions, Wingwave, Points of You and Bowen therapy packages at Inner Dynamic Method.","url":"https://innerdynamicmethod.rs/en/offers.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
+$og_image          = '../images/inner-dynamic-coaching-danijela.webp';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

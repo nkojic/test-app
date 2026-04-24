@@ -13,6 +13,7 @@ $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url      = '/en/sports-coaching.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Sportski Coaching","description":"Sportski coaching za razvoj mentalne snage, samopouzdanja i fokusa sportista.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Sports Coaching","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/sportski-coaching.php"}</script>';
+$og_image          = 'images/inner-dynamic-coaching-danijela.webp';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

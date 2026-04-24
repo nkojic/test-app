@@ -11,6 +11,7 @@ $page_hero_bg       = '../images/hero.webp';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_sr_url     = '/kompanije-sfera-mentalni-trening.php';
+$og_image          = '../images/inner-dynamic-coaching-danijela.webp';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

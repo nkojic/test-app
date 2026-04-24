@@ -12,6 +12,7 @@ $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url     = '/en/companies-sfera-mental-training.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"S.F.E.R.A. Mentalni Trening za kompanije","description":"S.F.E.R.A. Mentalni Trening za kompanije – sistemski razvoj mentalnih kapaciteta zaposlenih i timova.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Mental Training","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/kompanije-sfera-mentalni-trening.php"}</script>';
+$og_image          = 'images/inner-dynamic-coaching-danijela.webp';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

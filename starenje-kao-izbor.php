@@ -1,5 +1,5 @@
 <?php
-$meta_description = '';
+$meta_description = 'Starenje je svestan izbor koji zavisi od vašeg stava, a ne od godina. Izaberite autentičan, lagan pristup životu umesto društvenih očekivanja.';
 $page_title       = 'Starenje kao izbor | Inner Dynamic Method';
 $body_class       = 'singlepost single single-post body_style_wide body_filled article_style_stretch scheme_original top_panel_show top_panel_above sidebar_hide sidebar_outer_hide preloader wpb-js-composer sc_responsive';
 $current_page     = '';
@@ -15,6 +15,7 @@ $page_hero_bg       = 'images/hero.webp';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 
+$og_image          = 'images/starenje-kao-izborv.webp';
 include 'includes/header.php';
 ?>
         <!-- Hero baner zakomentarisan za sada

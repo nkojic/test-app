@@ -11,6 +11,7 @@ $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/o-meni.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"AboutPage","name":"About Me","description":"Inner Dynamic Method – an integrative approach combining Bowen therapy, coaching, Wingwave and Points of You for holistic support in personal and professional change.","url":"https://innerdynamicmethod.rs/en/about-me.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
+$og_image          = '../images/o-meni-danijela-maric-pavlovic.webp';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

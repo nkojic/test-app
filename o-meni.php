@@ -12,6 +12,7 @@ $page_hero_bg       = 'images/hero.webp';
 $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url      = '/en/about-me.php';
+$og_image          = 'images/o-meni-danijela-maric-pavlovic.webp';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

@@ -13,6 +13,7 @@ $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url      = '/en/testimonials.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Utisci","description":"Utisci klijenata o radu sa Inner Dynamic Method – coaching sesije, Wingwave i Points of You.","url":"https://innerdynamicmethod.rs/utisci.php","isPartOf":{"@type":"WebSite","url":"https://innerdynamicmethod.rs"}}</script>';
+$og_image          = 'images/utisci-inner-dynamic-method.webp';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

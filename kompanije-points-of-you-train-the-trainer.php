@@ -12,6 +12,7 @@ $header_scheme   = 'scheme_original';
 $header_position = 'top_panel_position_above';
 $lang_en_url     = '/en/companies-points-of-you-train-the-trainer.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Points of You Train the Trainer za kompanije","description":"Points of You Train the Trainer za kompanije – osposobljavanje trenera i facilitatora unutar organizacije.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Points of You Train the Trainer","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/kompanije-points-of-you-train-the-trainer.php"}</script>';
+$og_image          = 'images/points-of-you-danijela.webp';
 include 'includes/header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>

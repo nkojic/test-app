@@ -11,6 +11,7 @@ $header_scheme    = 'scheme_original';
 $header_position  = 'top_panel_position_above';
 $lang_sr_url      = '/wing-wave.php';
 $page_schema = '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Wingwave Emotional Coaching","description":"Wingwave coaching is a modern method for releasing emotional blocks, combining EMDR, NLP and the myostatic test.","provider":{"@type":"ProfessionalService","name":"Inner Dynamic Method","url":"https://innerdynamicmethod.rs"},"serviceType":"Emotional Coaching","areaServed":{"@type":"Country","name":"Serbia"},"url":"https://innerdynamicmethod.rs/en/wing-wave.php"}</script>';
+$og_image          = '../images/wing-wave-danijela.webp';
 include '../includes/en-header.php';
 ?>
         <section class="top_panel_image"<?php if (!empty($page_hero_bg)) echo ' style="background-image:url(' . $page_hero_bg . ');"'; ?>>
