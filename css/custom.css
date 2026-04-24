@@ -312,7 +312,7 @@
 	margin-bottom:2.75em;
 }
 .cu_block_4 {
-	background-image:url(../images/odnosi-pocetna.jpg);
+	background-image:url(../images/odnosi-pocetna.webp);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -321,13 +321,13 @@
 	background-color:#f8f8f8;
 }
 .cu_block_6 {
-	background-image:url(../images/freez-mode-pocetna.jpg);
+	background-image:url(../images/freez-mode-pocetna.webp);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
 }
 .cu_block_7 {
-	background-image:url(../images/trauma-pocetna.jpg);
+	background-image:url(../images/trauma-pocetna.webp);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -1215,6 +1215,14 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_middle {
 .top_panel_middle .menu_main_wrap {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
+}
+
+/* SEO: responsive images — slike ne prelaze širinu kontejnera */
+.post_content img,
+.post_featured img,
+.rev-slidebg {
+    max-width: 100%;
+    height: auto;
 }
 
 /* SEO: sr-only klasa — vidljivo za screen readere i pretraživače, skriveno vizuelno */
