@@ -76,7 +76,8 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
         "serviceType": ["Coaching", "Wing Wave Coaching", "Points of You Coaching"],
         "sameAs": [
             "https://www.instagram.com/ovdeisada_/",
-            "https://www.facebook.com/ovdeisada"
+            "https://www.facebook.com/ovdeisada",
+            "https://www.linkedin.com/in/danijela-maric-pavlovic-6a616459/"
         ]
     }
     </script>
@@ -219,6 +220,11 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                     <span class="icon-facebook"></span>
                                 </a>
                             </div>
+                            <div class="sc_socials_item">
+                                <a href="https://www.linkedin.com/in/danijela-maric-pavlovic-6a616459/" target="_blank" rel="noopener" class="social_icons social_linkedin" aria-label="LinkedIn">
+                                    <span class="icon-linkedin"></span>
+                                </a>
+                            </div>
                         </div>
                         <div style="display:flex;gap:10px;align-items:center;">
                             <a href="<?php echo htmlspecialchars($lang_sr_url, ENT_QUOTES, 'UTF-8'); ?>" lang="sr" aria-label="Srpski" title="Srpski" style="display:inline-flex;align-items:center;">
@@ -267,6 +273,11 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                                 <div class="sc_socials_item">
                                     <a href="https://www.facebook.com/ovdeisada" target="_blank" rel="noopener" class="social_icons social_facebook" aria-label="Facebook">
                                         <span class="icon-facebook"></span>
+                                    </a>
+                                </div>
+                                <div class="sc_socials_item">
+                                    <a href="https://www.linkedin.com/in/danijela-maric-pavlovic-6a616459/" target="_blank" rel="noopener" class="social_icons social_linkedin" aria-label="LinkedIn">
+                                        <span class="icon-linkedin"></span>
                                     </a>
                                 </div>
                             </div>
