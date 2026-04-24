@@ -331,7 +331,7 @@ include '../includes/en-header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="age-is-just-a-number.php">Read blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="age-is-just-a-number.php">View blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-187 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-187" href="age-is-just-a-number.php" target="_self">
@@ -355,7 +355,7 @@ include '../includes/en-header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="who-is-responsible-for-your-life.php">Read blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="who-is-responsible-for-your-life.php">View blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-189 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-189" href="who-is-responsible-for-your-life.php" target="_self">
@@ -379,7 +379,7 @@ include '../includes/en-header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="quality-of-life.php">Read blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="quality-of-life.php">View blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-192 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-192" href="quality-of-life.php" target="_self">
@@ -403,7 +403,7 @@ include '../includes/en-header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="aging-as-a-choice.php">Read blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="aging-as-a-choice.php">View blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-194 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-194" href="aging-as-a-choice.php" target="_self">

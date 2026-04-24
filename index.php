@@ -331,7 +331,7 @@ include 'includes/header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-187 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="godine-su-samo-broj.php">Pročitaj blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-187" href="godine-su-samo-broj.php">Pogledaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-187 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-187" href="godine-su-samo-broj.php" target="_self">
@@ -355,7 +355,7 @@ include 'includes/header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-189 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="ko-je-odgovoran-za-tvoj-zivot.php">Pročitaj blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-189" href="ko-je-odgovoran-za-tvoj-zivot.php">Pogledaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-189 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-189" href="ko-je-odgovoran-za-tvoj-zivot.php" target="_self">
@@ -379,7 +379,7 @@ include 'includes/header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-192 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="kvalitet-zivota.php">Pročitaj blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-192" href="kvalitet-zivota.php">Pogledaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-192 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-192" href="kvalitet-zivota.php" target="_self">
@@ -403,7 +403,7 @@ include 'includes/header.php';
                                                                         </a>
                                                                     </div>
                                                                     <div class="esg-bottom eg-post-194 eg-roosevelt-massage-element-4-a esg-flipdown" data-delay="0.46">
-                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="starenje-kao-izbor.php">Pročitaj blog</a>
+                                                                        <a class="eg-roosevelt-massage-element-4 eg-post-194" href="starenje-kao-izbor.php">Pogledaj blog</a>
                                                                     </div>
                                                                     <div class="esg-center eg-post-194 eg-roosevelt-massage-element-1-a esg-slideup" data-delay="0.3">
                                                                         <a class="eg-roosevelt-massage-element-1 eg-post-194" href="starenje-kao-izbor.php" target="_self">
