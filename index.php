@@ -77,8 +77,8 @@ include 'includes/header.php';
                                                         </div>
                                                         <a href="odnosi-i-izazovi-u-njima.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Pročitaj više</span>
-                                                                <span class="second">Pročitaj više</span>
+                                                                <span class="first">Detaljnije</span>
+                                                                <span class="second">Detaljnije</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -100,8 +100,8 @@ include 'includes/header.php';
                                                         </div>
                                                         <a href="trauma-traumaticno-iskustvo.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Pročitaj više</span>
-                                                                <span class="second">Pročitaj više</span>
+                                                                <span class="first">Detaljnije</span>
+                                                                <span class="second">Detaljnije</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -123,8 +123,8 @@ include 'includes/header.php';
                                                         </div>
                                                         <a href="zaledjenost-freez-mod.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Pročitaj više</span>
-                                                                <span class="second">Pročitaj više</span>
+                                                                <span class="first">Detaljnije</span>
+                                                                <span class="second">Detaljnije</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -166,7 +166,7 @@ include 'includes/header.php';
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="jasnoca-i-usmerenje.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Pročitaj više</a>
+                                                                                <a href="jasnoca-i-usmerenje.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Detaljnije</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -197,7 +197,7 @@ include 'includes/header.php';
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="emocije-trauma-stres.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Pročitaj više</a>
+                                                                                <a href="emocije-trauma-stres.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Detaljnije</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -228,7 +228,7 @@ include 'includes/header.php';
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="nova-perspektiva.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Pročitaj više</a>
+                                                                                <a href="nova-perspektiva.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Detaljnije</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>

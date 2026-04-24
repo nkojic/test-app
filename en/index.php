@@ -77,8 +77,8 @@ include '../includes/en-header.php';
                                                         </div>
                                                         <a href="relationships-and-challenges.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Read More</span>
-                                                                <span class="second">Read More</span>
+                                                                <span class="first">Details</span>
+                                                                <span class="second">Details</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -100,8 +100,8 @@ include '../includes/en-header.php';
                                                         </div>
                                                         <a href="trauma-traumatic-experience.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Read More</span>
-                                                                <span class="second">Read More</span>
+                                                                <span class="first">Details</span>
+                                                                <span class="second">Details</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -123,8 +123,8 @@ include '../includes/en-header.php';
                                                         </div>
                                                         <a href="freeze-mode.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_base aligncenter">
                                                             <div>
-                                                                <span class="first">Read More</span>
-                                                                <span class="second">Read More</span>
+                                                                <span class="first">Details</span>
+                                                                <span class="second">Details</span>
                                                             </div>
                                                         </a>
                                                     </div>
@@ -166,7 +166,7 @@ include '../includes/en-header.php';
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="clarity-and-direction.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="clarity-and-direction.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Details</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -197,7 +197,7 @@ include '../includes/en-header.php';
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="emotions-trauma-stress.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="emotions-trauma-stress.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Details</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -228,7 +228,7 @@ include '../includes/en-header.php';
                                                                                 </a>
                                                                             </p>
                                                                             <p class="post_buttons">
-                                                                                <a href="new-perspective.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Read More</a>
+                                                                                <a href="new-perspective.php" class="post_readmore sc_button sc_button_size_large sc_button_style_filled">Details</a>
                                                                             </p>
                                                                         </div>
                                                                     </div>
