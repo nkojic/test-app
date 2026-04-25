@@ -2,20 +2,13 @@ ErrorDocument 404 /404.php
 ErrorDocument 403 /403.php
 
 # =============================================
-# HTTPS redirect (non-SSL → SSL)
+# HTTPS + domen redirect → innerdynamicmethod.rs
 # =============================================
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteCond %{HTTPS} off
-    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-</IfModule>
-
-# =============================================
-# WWW → non-WWW redirect (konzistentnost)
-# =============================================
-<IfModule mod_rewrite.c>
-    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
-    RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+    RewriteCond %{HTTPS} !=on [OR]
+    RewriteCond %{HTTP_HOST} !^innerdynamicmethod\.rs$ [NC]
+    RewriteRule ^ https://innerdynamicmethod.rs%{REQUEST_URI} [L,R=301]
 </IfModule>
 
 # =============================================
