@@ -522,7 +522,7 @@ include 'includes/header.php';
                                                                 <div class="text_column content_element ">
                                                                     <div class="wrapper">
                                                                         <p>Dobropoljska 35, Beograd
-                                                                            <br/> Email: <a id="emlContact" href="#"><script>document.addEventListener('DOMContentLoaded',function(){var u='office',d='innerdynamiccoaching.rs',e=document.getElementById('emlContact');e.href='mailto:'+u+'@'+d;e.textContent=u+'@'+d;});</script></a>
+                                                                            <br/> Email: <a href="#" onclick="window.location='mai'+'lto:'+'office'+'@'+'innerdynamiccoaching.rs';return false;">office&#64;innerdynamiccoaching&#46;rs</a>
                                                                             <br/> Telefon: <a href="tel:0641112202">064 111 22 02</a>
                                                                         </p>
                                                                     </div>
