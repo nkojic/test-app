@@ -47,6 +47,7 @@ include '../includes/en-header.php';
                 </div>
             </div>
         </section>
+        <main>
         <div class="page_content_wrap page_paddings_no">
             <div class="content_wrap">
                 <div class="content">
@@ -90,7 +91,7 @@ include '../includes/en-header.php';
                                                     <div class="sc_column_item_inner cu_block_5">
                                                         <h2 class="sc_title sc_title_regular sc_align_center">TRAUMA</h2>
                                                         <div class="sc_line sc_line_position_center_center sc_line_style_solid"></div>
-                                                        <h4 class="sc_title sc_title_regular sc_align_center" style="margin-top:0;">TRAUMATIC EXPERIENCE</h4>
+                                                        <h3 class="sc_title sc_title_regular sc_align_center" style="margin-top:0;">TRAUMATIC EXPERIENCE</h3>
                                                         <div class="text_column content_element ">
                                                             <div class="wrapper">
                                                                 <p class="cu_text_c">
@@ -113,7 +114,7 @@ include '../includes/en-header.php';
                                                     <div class="sc_column_item_inner cu_block_5">
                                                         <h2 class="sc_title sc_title_regular sc_align_center">FREEZE MODE</h2>
                                                         <div class="sc_line sc_line_position_center_center sc_line_style_solid"></div>
-                                                        <h4 class="sc_title sc_title_regular sc_align_center" style="margin-top:0;">FEELING STUCK</h4>
+                                                        <h3 class="sc_title sc_title_regular sc_align_center" style="margin-top:0;">FEELING STUCK</h3>
                                                         <div class="text_column content_element ">
                                                             <div class="wrapper">
                                                                 <p class="cu_text_c">
@@ -251,7 +252,7 @@ include '../includes/en-header.php';
                                                 <span class="sc_empty_space_inner"></span>
                                             </div>
                                             <div id="sc_testimonials_179" class="sc_testimonials sc_testimonials_style_testimonials-1 cu_fullwidth">
-                                                <h6 class="sc_testimonials_subtitle sc_item_subtitle">Testimonials</h6>
+                                                <h3 class="sc_testimonials_subtitle sc_item_subtitle">Testimonials</h3>
                                                 <h2 class="sc_testimonials_title sc_item_title">What people say about us</h2>
                                                 <div class="sc_slider_swiper swiper-slider-container sc_slider_nopagination sc_slider_controls sc_slider_controls_side" data-interval="6815" data-slides-min-width="250">
                                                     <div class="slides swiper-wrapper">
@@ -296,8 +297,8 @@ include '../includes/en-header.php';
                                                         </div>
                                                     </div>
                                                     <div class="sc_slider_controls_wrap">
-                                                        <a class="sc_slider_prev" href="#"></a>
-                                                        <a class="sc_slider_next" href="#"></a>
+                                                        <a class="sc_slider_prev" href="#" aria-label="Previous testimonial"></a>
+                                                        <a class="sc_slider_next" href="#" aria-label="Next testimonial"></a>
                                                     </div>
                                                     <div class="sc_slider_pagination_wrap"></div>
                                                 </div>
@@ -428,4 +429,5 @@ include '../includes/en-header.php';
                 </div>
             </div>
         </div>
+        </main>
 <?php include '../includes/footer.php'; ?>

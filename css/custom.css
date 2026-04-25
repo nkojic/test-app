@@ -1,9 +1,16 @@
 /*other*/
 
 /* Sprečava "flash" sadržaja ispod slidera pre nego što se Revolution Slider inicijalizuje */
+/* CLS fix: rezerviše prostor za slider pre inicijalizacije */
 .rev_slider_wrapper.fullscreen-container {
     min-height: 100vh;
     background-color: #f0f0f0;
+    aspect-ratio: 1920 / 955;
+    contain: layout;
+}
+.slider_wrap {
+    min-height: 100vh;
+    contain: layout;
 }
 
 /* =============================================
@@ -415,6 +422,12 @@
 
 .cu_text_c {
 	text-align: center;
+	color: #555;
+}
+/* Accessibility: bolji kontrast za dugmad u sekcijama */
+.cu_block_5 .sc_button .first,
+.cu_block_5 .sc_button .second {
+	color: #fff;
 }
 .cu_text_r {
 	text-align: right;
