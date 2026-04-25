@@ -522,7 +522,7 @@ include 'includes/header.php';
                                                                 <div class="text_column content_element ">
                                                                     <div class="wrapper">
                                                                         <p>Dobropoljska 35, Beograd
-                                                                            <br/> Email: <a href="#" onclick="window.location='mai'+'lto:'+'office'+'@'+'innerdynamiccoaching.rs';return false;">office&#64;innerdynamiccoaching&#46;rs</a>
+                                                                            <br/> Email: <a href="#" onclick="window.location='mai'+'lto:'+'office'+'@'+'innerdynamicmethod.rs';return false;">office&#64;innerdynamicmethod&#46;rs</a>
                                                                             <br/> Telefon: <a href="tel:0641112202">064 111 22 02</a>
                                                                         </p>
                                                                     </div>

@@ -244,7 +244,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
                     <div class="content_wrap clearfix">
                         <div class="top_panel_top_contact_area">
                             <span class="contact_icon icon-mail"></span>
-                            <a href="#" onclick="window.location='mai'+'lto:'+'office'+'@'+'innerdynamiccoaching.rs';return false;">office&#64;innerdynamiccoaching&#46;rs</a>
+                            <a href="#" onclick="window.location='mai'+'lto:'+'office'+'@'+'innerdynamicmethod.rs';return false;">office&#64;innerdynamicmethod&#46;rs</a>
                         </div>
                         <div class="top_panel_top_contact_area">
                             <span class="contact_icon icon-icon_phone"></span>
