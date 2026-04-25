@@ -23,6 +23,14 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KZ2ZQC39XV"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-KZ2ZQC39XV');
+    </script>
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="robots" content="<?php echo htmlspecialchars($meta_robots); ?>">
     <?php if (!empty($meta_description)): ?>
