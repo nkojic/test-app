@@ -85,22 +85,22 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <!-- Google Fonts (preconnect + display=swap) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Droid+Serif:400,400i,700,700i|Montserrat:400,700|Mr+De+Haviland|Open+Sans:300,400,600,700,800|Raleway:100,200,300,300i,400,400i,500,600,700,700i,800,900&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese&display=swap' type='text/css' media='all' />
-    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Droid+Serif:400,400i,700,700i|Montserrat:400,700|Mr+De+Haviland|Open+Sans:300,400,600,700,800|Raleway:100,200,300,300i,400,400i,500,600,700,700i,800,900&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese&display=swap' type='text/css' media='print' onload="this.media='all'" />
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='js/vendor/tooltipster/tooltipster.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='js/vendor/tooltipster/tooltipster-light.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='js/vendor/essgrid/esg.settings.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='js/vendor/revslider/rev.settings.css' type='text/css' media='print' onload="this.media='all'" />
-    <link rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/core.animation.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/shortcodes.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/core.animation.min.css' type='text/css' media='print' onload="this.media='all'" />
+    <link rel='stylesheet' href='css/shortcodes.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='css/instagram-widget.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='css/skin.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/custom-style.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/responsive.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/skin.responsive.css' type='text/css' media='all' />
-    <link rel='stylesheet' href='css/custom.responsive.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/custom-style.css' type='text/css' media='print' onload="this.media='all'" />
+    <link rel='stylesheet' href='css/responsive.min.css' type='text/css' media='print' onload="this.media='all'" />
+    <link rel='stylesheet' href='css/skin.responsive.css' type='text/css' media='print' onload="this.media='all'" />
+    <link rel='stylesheet' href='css/custom.responsive.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='js/vendor/grid.layout/grid.layout.min.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='css/core.messages.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='js/vendor/isotope/core.portfolio.css' type='text/css' media='print' onload="this.media='all'" />
@@ -109,7 +109,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
     <link rel='stylesheet' href='js/vendor/swiper/swiper.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='js/vendor/essgrid/lightbox.css' type='text/css' media='print' onload="this.media='all'" />
     <link rel='stylesheet' href='css/plugins.css' type='text/css' media='print' onload="this.media='all'" />
-    <link rel='stylesheet' href='css/custom.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/custom.min.css' type='text/css' media='print' onload="this.media='all'" />
     <?php if (!empty($extra_head_html)) echo $extra_head_html; ?>
 </head>
 
