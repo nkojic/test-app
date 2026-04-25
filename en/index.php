@@ -260,9 +260,9 @@ include '../includes/en-header.php';
                                                                 <div class="sc_testimonial_content">
                                                                     <p>I came on a recommendation. This is the only therapy that brought me deep relaxation after the very first session. It benefits both body and mind. The feeling of peace and lightness after the therapy is priceless — it lasts and continues day after day.</p>
                                                                 </div>
-                                                                <div class="sc_testimonial_avatar">
+                                                                <!-- <div class="sc_testimonial_avatar">
                                                                     <img loading="lazy" alt="Tanja" src="../images/370x370.jpg" width="370" height="370">
-                                                                </div>
+                                                                </div> -->
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Tanja, 47</span>
                                                                 </div>
@@ -273,9 +273,9 @@ include '../includes/en-header.php';
                                                                 <div class="sc_testimonial_content">
                                                                     <p>I consider Wing Wave an exceptional method that helped me release negative emotions and beliefs I no longer needed. After the session I felt relief and a different perspective on things I used to react to with exaggerated emotion.</p>
                                                                 </div>
-                                                                <div class="sc_testimonial_avatar">
+                                                                <!-- <div class="sc_testimonial_avatar">
                                                                     <img loading="lazy" alt="Jovana" src="../images/370x370.jpg" width="370" height="370">
-                                                                </div>
+                                                                </div> -->
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Jovana, 30</span>
                                                                 </div>
@@ -286,9 +286,9 @@ include '../includes/en-header.php';
                                                                 <div class="sc_testimonial_content">
                                                                     <p>With Danijela I did Life coaching and Bowen therapy. Every session brought me new energy and peace. Life coaching helped me define my goals, open my mind and believe that I already have everything within me to achieve what I envision.</p>
                                                                 </div>
-                                                                <div class="sc_testimonial_avatar">
+                                                                <!-- <div class="sc_testimonial_avatar">
                                                                     <img loading="lazy" alt="Dragana" src="../images/370x370.jpg" width="370" height="370">
-                                                                </div>
+                                                                </div> -->
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Dragana, 40</span>
                                                                 </div>

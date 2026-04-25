@@ -260,9 +260,9 @@ include 'includes/header.php';
                                                                 <div class="sc_testimonial_content">
                                                                     <p>Na sesiju sam došla po preporuci. Ovo je jedina terapija koja mi je donela duboko opuštanje već nakon prvog tretmana. Prija i telu i umu. Neprocenjiv je osećaj mira i lakoće posle terapije koji ostaje dugo i nastavlja se iz dana u dan.</p>
                                                                 </div>
-                                                                <div class="sc_testimonial_avatar">
+                                                                <!-- <div class="sc_testimonial_avatar">
                                                                     <img loading="lazy" alt="Tanja" src="images/370x370.jpg" width="370" height="370">
-                                                                </div>
+                                                                </div> -->
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Tanja, 47</span>
                                                                 </div>
@@ -273,9 +273,9 @@ include 'includes/header.php';
                                                                 <div class="sc_testimonial_content">
                                                                     <p>Wing Wave smatram izuzetnom metodom koja mi je pomogla da se oslobodim negativnih emocija i uverenja koja mi nisu bila potrebna. Posle sesije sam osetila rasterećenje i olakšanje, ali i drugačiji pogled na stvari na koje sam pre reagovala prenaglašeno emotivno.</p>
                                                                 </div>
-                                                                <div class="sc_testimonial_avatar">
+                                                                <!-- <div class="sc_testimonial_avatar">
                                                                     <img loading="lazy" alt="Jovana" src="images/370x370.jpg" width="370" height="370">
-                                                                </div>
+                                                                </div> -->
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Jovana, 30</span>
                                                                 </div>
@@ -286,9 +286,9 @@ include 'includes/header.php';
                                                                 <div class="sc_testimonial_content">
                                                                     <p>Kod Danijele sam radila Life coaching i Bowen terapiju. Svaki susret mi je donosio novu energiju i mir. Life coaching mi je pomogao da definišem ciljeve, otvorim um i poverujem da imam već sve u sebi da ostvarim ono što zamislim.</p>
                                                                 </div>
-                                                                <div class="sc_testimonial_avatar">
+                                                                <!-- <div class="sc_testimonial_avatar">
                                                                     <img loading="lazy" alt="Dragana" src="images/370x370.jpg" width="370" height="370">
-                                                                </div>
+                                                                </div> -->
                                                                 <div class="sc_testimonial_author">
                                                                     <span class="sc_testimonial_author_name">Dragana, 40</span>
                                                                 </div>
