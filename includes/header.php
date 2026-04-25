@@ -68,7 +68,7 @@ $_og_image  = !empty($og_image) ? $og_image : $_site_url . '/images/logo.png';
         "name": "Inner Dynamic Method",
         "url": "https://innerdynamicmethod.rs",
         "telephone": "+381641112202",
-        "email": "office@innerdynamiccoaching.rs",
+        "email": "<?php echo 'office' . '@' . 'innerdynamiccoaching.rs'; ?>",
         "logo": "https://innerdynamicmethod.rs/images/logo.png",
         "image": "https://innerdynamicmethod.rs/images/logo.png",
         "address": { "@type": "PostalAddress", "addressCountry": "RS" },
