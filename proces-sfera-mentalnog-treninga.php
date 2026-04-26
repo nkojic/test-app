@@ -36,48 +36,55 @@ include 'includes/header.php';
                             <!-- PAGE CONTENT — edit only this section                        -->
                             <!-- ============================================================ -->
 
-                            <h3>S.F.E.R.A. FAKTORI I ŠTA, ZAPRAVO, TRENIRAMO</h3>
-                            <p>S.F.E.R.A. nije apstraktan koncept. To je vrlo konkretan model koji razlaže performans na 5 unutrašnjih dimenzija koje se mogu prepoznati, meriti i trenirati.</p>
+                            <h3>KAKO IZGLEDA PROCES S.F.E.R.A. MENTALNOG TRENINGA</h3>
+                            <p>S.F.E.R.A. mentalni trening nije jednokratna intervencija. To je strukturiran proces koji se odvija kroz nekoliko jasno definisanih faza – prilagođenih svakom pojedincu ili timu.</p>
+                            <p>Cilj procesa je da se prepoznaju faktori koji utiču na performansu, da se razume njihov međusobni odnos i da se sistematski razviju kapaciteti za postizanje optimalnog stanja.</p>
 
-                            <p><strong>Sinhronija (Sincronia)</strong></p>
-                            <p>To je stanje potpune prisutnosti. Kada je osoba u trenutku, bez rasipanja pažnje. U praksi to izgleda tako da nema preteranog razmišljanja, nema vraćanja na greške. Postoji samo jasna povezanost sa onim što se radi.</p>
+                            <h3>FAZE PROCESA</h3>
 
-                            <p><strong>Snaga (Punti di Forza)</strong></p>
-                            <p>Odnosi se na unutrašnje resurse – samopouzdanje, stabilnost, osećaj lične moći. Ne kao "motivacija", već kao duboka sigurnost u svoje snage i vrednosti.</p>
+                            <h4>1. Početna procena</h4>
+                            <p>Na samom početku se sprovodi detaljna analiza trenutnog stanja. Kroz razgovor i specifične alate procenjuje se gde se osoba nalazi u odnosu na pet S.F.E.R.A. faktora – sinhroniju, snagu, energiju, ritam i aktivaciju.</p>
+                            <p>Ovo omogućava da se precizno identifikuje šta tačno utiče na pad ili nestabilnost performanse.</p>
 
-                            <p><strong>Energija (Energia)</strong></p>
-                            <p>Koliko energije osoba ima. I još važnije, kako je koristi. Osoba može imati mnogo energije, ali ako je rasuta ili prenaglašena, rezultat izostaje. Ovaj faktor uči kako se energija dozira i kanališe gde treba.</p>
-
-                            <p><strong>Ritam (Ritmo)</strong></p>
-                            <p>Sposobnost da se oseti tempo – kada da se ubrza, kada da uspori, kada da se napravi pauza. Osobe često greše jer "drže" kada treba da puste, ili čekaju kada treba da deluju.</p>
-
-                            <p><strong>Aktivacija (Attivazione)</strong></p>
-                            <p>Unutrašnji okidač. Volja, želja, strast. Ono što pokreće u akciju – fokusirano, jasno, bez odlaganja. Pravi razliku između znanja i delovanja.</p>
-
-                            <h3>S.F.E.R.A. COACHING PROCES</h3>
-                            <p>Ono što ovaj model čini posebnim je struktura. Ne radi se nasumično, već kroz jasan proces od 8 koraka koji vodi od uvida do konkretne promene.</p>
-                            <p>Od jasno postavljenog cilja i rada na konkretnoj profesionalnoj ili životnoj situaciji, kroz precizno mapiranje trenutnog stanja i razumevanje ključnih faktora, proces se dalje razvija u smeru kreiranja ličnog akcionog pravca.</p>
-                            <p>Kroz to se otkrivaju prostor za napredak, dostupni resursi i podrška, ali i potencijalni izazovi koji mogu uticati na ishod.</p>
-                            <p>Završni deo procesa usmeren je na definisanje ličnih pokazatelja uspeha i stabilizaciju novog stanja, uz otvoren prostor za dalji razvoj i kontinuirano unapređenje.</p>
-
-                            <h3>SUŠTINA PROCESA</h3>
-                            <p>Osoba ne pokušava da "bude bolja". Uči kako da, u pravom trenutku, bude najbliža sebi kada je najbolja.</p>
-                            <p>To je velika razlika.</p>
-                            <p>Većina osoba zna šta treba da radi. Ali S.F.E.R.A. uči kako da to zaista uradi – onda kada je najvažnije.</p>
-
-                            <p>S.F.E.R.A. se radi kroz ciklus (PDCA) – analiza → trening → testiranje → stabilizacija.</p>
-                            <p>Unutar tog ciklusa, u praksi se vrlo jasno prepoznaje 8 koraka kroz koje osoba prolazi.</p>
-                            <p>Ova metodologija ne koristi samo razgovor, nego i testove, mape, vežbe i iskustveni rad.</p>
-
-                            <p><strong>Ključna razlika S.F.E.R.A. pristupa:</strong></p>
+                            <h4>2. Postavljanje ciljeva</h4>
+                            <p>Na osnovu procene, zajednički se definišu konkretni ciljevi rada. Ciljevi mogu biti vezani za:</p>
                             <ul>
-                                <li>testovi i merenja → daju jasnoću</li>
-                                <li>vežbe i iskustvo → prave promenu</li>
+                                <li>poboljšanje fokusa i prisustva u ključnim trenucima</li>
+                                <li>upravljanje pritiskom i anksioznošću pred nastup</li>
+                                <li>razvoj unutrašnje stabilnosti i samopouzdanja</li>
+                                <li>usklađivanje tima i poboljšanje komunikacije</li>
+                                <li>povećanje motivacije i unutrašnjeg pokretača</li>
                             </ul>
-                            <p>Bez jednog – nema drugog.</p>
-                            <p>Testovi daju istinu, a vežbe mogućnost da se ta istina promeni.</p>
 
-                            <p>Performans nije slučajan. On je rezultat toga koliko je osoba svesna i koliko ume da koristi ono što već ima.</p>
+                            <h4>3. Individualni ili timski rad</h4>
+                            <p>Sesije se odvijaju individualno ili u grupnom formatu, u zavisnosti od potreba. Svaka sesija je usmerena na konkretan aspekt S.F.E.R.A. modela i koristi kombinaciju tehnika:</p>
+                            <ul>
+                                <li>vežbe svesnosti i prisustva (sinhronija)</li>
+                                <li>rad na prepoznavanju i korišćenju sopstvenih resursa (snaga)</li>
+                                <li>tehnike upravljanja energijom i oporavka</li>
+                                <li>rad na ritmu – pronalaženje optimalnog tempa</li>
+                                <li>aktivacione strategije – kako pokrenuti sebe kada je najpotrebnije</li>
+                            </ul>
+
+                            <h4>4. Praćenje i prilagođavanje</h4>
+                            <p>Tokom procesa se kontinuirano prati napredak. Na osnovu povratnih informacija i rezultata, program se prilagođava kako bi se osiguralo da rad ostane relevantan i efikasan.</p>
+
+                            <h4>5. Integracija i samostalnost</h4>
+                            <p>Krajnji cilj nije zavisnost od trenera, već samostalnost. Proces se završava kada osoba ili tim razvije sposobnost da samostalno prepoznaje i reguliše sopstveno stanje – da zna kako da se vrati u optimalno stanje kada god je to potrebno.</p>
+
+                            <h3>TRAJANJE PROCESA</h3>
+                            <p>Trajanje zavisi od ciljeva i konteksta rada. Individualni programi obično traju od 6 do 12 sesija, dok timski programi mogu biti duži i prilagođeni sezoni ili poslovnom ciklusu.</p>
+
+                            <h3>ZA KOGA JE OVAJ PROCES</h3>
+                            <ul>
+                                <li>sportiste koji žele stabilnije performanse pod pritiskom</li>
+                                <li>timove koji žele bolju usklađenost i komunikaciju</li>
+                                <li>lidere koji žele da razviju mentalnu otpornost</li>
+                                <li>profesionalce koji žele da funkcionišu na svom maksimumu</li>
+                                <li>svakoga ko želi sistematski rad na sopstvenom unutrašnjem stanju</li>
+                            </ul>
+
+                            <p>S.F.E.R.A. proces nije brza popravka. To je investicija u razumevanje sebe i razvoj sposobnosti koja ostaje za ceo život.</p>
 
                             <!-- ============================================================ -->
                             <!-- END OF CONTENT                                              -->

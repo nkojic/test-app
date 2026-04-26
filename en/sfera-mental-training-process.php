@@ -34,48 +34,55 @@ include '../includes/en-header.php';
                             <!-- PAGE CONTENT — edit only this section                        -->
                             <!-- ============================================================ -->
 
-                            <h3>S.F.E.R.A. FACTORS AND WHAT WE ACTUALLY TRAIN</h3>
-                            <p>S.F.E.R.A. is not an abstract concept. It is a very concrete model that breaks down performance into 5 inner dimensions that can be recognized, measured, and trained.</p>
+                            <h3>HOW THE S.F.E.R.A. MENTAL TRAINING PROCESS WORKS</h3>
+                            <p>S.F.E.R.A. mental training is not a one-time intervention. It is a structured process that unfolds through several clearly defined phases – tailored to each individual or team.</p>
+                            <p>The goal of the process is to identify the factors that influence performance, understand their interrelationships, and systematically develop the capacity to achieve an optimal state.</p>
 
-                            <p><strong>Synchrony (Sincronia)</strong></p>
-                            <p>It is a state of complete presence. When a person is in the moment, without scattered attention. In practice, it means no overthinking, no dwelling on mistakes. There is only a clear connection with what is being done.</p>
+                            <h3>PHASES OF THE PROCESS</h3>
 
-                            <p><strong>Strength (Punti di Forza)</strong></p>
-                            <p>It refers to inner resources – confidence, stability, a sense of personal power. Not as "motivation", but as a deep certainty in one's strengths and values.</p>
+                            <h4>1. Initial Assessment</h4>
+                            <p>At the very beginning, a detailed analysis of the current state is conducted. Through conversation and specific tools, the person's position is assessed in relation to the five S.F.E.R.A. factors – synchrony, strength, energy, rhythm, and activation.</p>
+                            <p>This allows for precise identification of what exactly affects a drop or instability in performance.</p>
 
-                            <p><strong>Energy (Energia)</strong></p>
-                            <p>How much energy a person has. And more importantly, how they use it. A person can have a lot of energy, but if it is scattered or overemphasized, results fall short. This factor teaches how to dose and channel energy where it is needed.</p>
-
-                            <p><strong>Rhythm (Ritmo)</strong></p>
-                            <p>The ability to sense tempo – when to speed up, when to slow down, when to pause. People often make mistakes because they "hold on" when they should let go, or wait when they should act.</p>
-
-                            <p><strong>Activation (Attivazione)</strong></p>
-                            <p>The inner trigger. Will, desire, passion. What drives action – focused, clear, without delay. It makes the difference between knowing and doing.</p>
-
-                            <h3>S.F.E.R.A. COACHING PROCESS</h3>
-                            <p>What makes this model special is its structure. It is not done randomly, but through a clear 8-step process that leads from insight to concrete change.</p>
-                            <p>From a clearly set goal and work on a specific professional or life situation, through precise mapping of the current state and understanding of key factors, the process further develops toward creating a personal action path.</p>
-                            <p>Through this, room for progress, available resources and support are discovered, as well as potential challenges that may affect the outcome.</p>
-                            <p>The final part of the process is focused on defining personal success indicators and stabilizing the new state, with an open space for further development and continuous improvement.</p>
-
-                            <h3>THE ESSENCE OF THE PROCESS</h3>
-                            <p>A person does not try to "be better". They learn how to, at the right moment, be closest to themselves when they are at their best.</p>
-                            <p>That is a big difference.</p>
-                            <p>Most people know what they need to do. But S.F.E.R.A. teaches how to actually do it – when it matters most.</p>
-
-                            <p>S.F.E.R.A. works through a cycle (PDCA) – analysis → training → testing → stabilization.</p>
-                            <p>Within that cycle, in practice, 8 steps through which a person passes are very clearly recognized.</p>
-                            <p>This methodology does not use only conversation, but also tests, maps, exercises, and experiential work.</p>
-
-                            <p><strong>The key difference of the S.F.E.R.A. approach:</strong></p>
+                            <h4>2. Goal Setting</h4>
+                            <p>Based on the assessment, concrete working goals are defined together. Goals may relate to:</p>
                             <ul>
-                                <li>tests and measurements → provide clarity</li>
-                                <li>exercises and experience → create change</li>
+                                <li>improving focus and presence in key moments</li>
+                                <li>managing pressure and pre-performance anxiety</li>
+                                <li>developing inner stability and confidence</li>
+                                <li>aligning the team and improving communication</li>
+                                <li>increasing motivation and inner drive</li>
                             </ul>
-                            <p>Without one – there is no other.</p>
-                            <p>Tests give truth, and exercises give the possibility to change that truth.</p>
 
-                            <p>Performance is not accidental. It is the result of how aware a person is and how well they can use what they already have.</p>
+                            <h4>3. Individual or Team Work</h4>
+                            <p>Sessions take place individually or in a group format, depending on needs. Each session focuses on a specific aspect of the S.F.E.R.A. model and uses a combination of techniques:</p>
+                            <ul>
+                                <li>awareness and presence exercises (synchrony)</li>
+                                <li>work on recognizing and utilizing one's own resources (strength)</li>
+                                <li>energy management and recovery techniques</li>
+                                <li>rhythm work – finding the optimal tempo</li>
+                                <li>activation strategies – how to ignite yourself when it matters most</li>
+                            </ul>
+
+                            <h4>4. Monitoring and Adjustment</h4>
+                            <p>Progress is continuously monitored throughout the process. Based on feedback and results, the program is adjusted to ensure the work remains relevant and effective.</p>
+
+                            <h4>5. Integration and Independence</h4>
+                            <p>The ultimate goal is not dependence on a trainer, but independence. The process concludes when the person or team develops the ability to independently recognize and regulate their own state – to know how to return to an optimal state whenever needed.</p>
+
+                            <h3>DURATION OF THE PROCESS</h3>
+                            <p>Duration depends on goals and context. Individual programs typically last 6 to 12 sessions, while team programs may be longer and adapted to a season or business cycle.</p>
+
+                            <h3>WHO IS THIS PROCESS FOR</h3>
+                            <ul>
+                                <li>athletes who want more consistent performance under pressure</li>
+                                <li>teams seeking better alignment and communication</li>
+                                <li>leaders who want to develop mental resilience</li>
+                                <li>professionals who want to function at their best</li>
+                                <li>anyone who wants to systematically work on their inner state</li>
+                            </ul>
+
+                            <p>The S.F.E.R.A. process is not a quick fix. It is an investment in understanding yourself and developing a capability that stays with you for life.</p>
 
                             <!-- ============================================================ -->
                             <!-- END OF CONTENT                                              -->
